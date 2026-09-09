@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "2.0",
+  "id": null,
+  "title": "Getting to Know God",
+  "slug": "getting-to-know-god",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Jeremiah 9:23-24"
+  ],
+  "scriptures": [
+    "Jeremiah 9:23-24"
+  ],
+  "scriptureInventoryReview": "Partial transcription of identified source headings/metadata; exhaustive Scripture extraction and review not completed.",
+  "series": {
+    "id": null,
+    "title": "Do You Know God?",
+    "sequence": 2
+  },
+  "speaker": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "identityReview": {
+    "required": true,
+    "state": "unresolved",
+    "observations": [
+      {
+        "value": "BRL-S000001",
+        "source": "sermon-series/do-you-know-god/s02-getting-to-know-god/l3-archive/BRL-S000001-L3-Sermon-Archive.pdf",
+        "evidence": "Original filename; canonical identity and alias relationship unresolved"
+      },
+      {
+        "value": "BRL-S000002",
+        "source": "sermon-series/do-you-know-god/s02-getting-to-know-god/Listener Handout/BRL-S000002-Listener-Handout-Getting-to-Know-God.docx",
+        "evidence": "Original filename; canonical identity and alias relationship unresolved"
+      },
+      {
+        "value": "BRL-S000002",
+        "source": "sermon-series/do-you-know-god/s02-getting-to-know-god/Listener Handout/BRL-S000002-Listener-Handout-Getting-to-Know-God.pdf",
+        "evidence": "Original filename; canonical identity and alias relationship unresolved"
+      }
+    ],
+    "notes": "No canonical ID assigned; observed values are evidence, not confirmed aliases. Publication blocked pending identity review."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false
+  },
+  "availability": {
+    "l3Archive": true,
+    "l2Present": true,
+    "l2DurationMinutes": [],
+    "untimedL2Present": true,
+    "listenerHandoutPresent": true,
+    "listenerHandoutAudiences": [],
+    "unclassifiedHandoutPresent": true,
+    "powerpointPresent": false,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "Identity review required: archive PDF filename uses BRL-S000001; handout filenames use BRL-S000002. Neither has been selected as canonical or declared an alias.",
+    "L2 outline duration and handout audience are not verified; no duration or audience subfolders created.",
+    "No PowerPoint is present.",
+    "Doctrinal/editorial approval, speaker identity, originating research identifiers, and approved canonical version remain unverified."
+  ],
+  "resources": [
+    {
+      "resourceKey": "resource-01",
+      "role": "l2-pulpit",
+      "path": "02-L2-pulpit/Getting to Know God S02 Outline.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "26A1CBD1C300940E8DA1F04E0EACAC23553F713E515287994A1DD8FB91825C6B",
+      "bytes": 18702,
+      "originalPath": "sermon-series/do-you-know-god/s02-getting-to-know-god/l2-outline/Getting to Know God S02 Outline.docx",
+      "durationMinutes": null,
+      "notes": "Duration not verified; kept directly under 02-L2-pulpit."
+    },
+    {
+      "resourceKey": "resource-02",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL Sermon L3 Archive - Do You Know God - S2.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "3204B2FCE9F257EB15BDC9012CCF06669C440F670C29EA1DB13DA4879455DE9C",
+      "bytes": 46059,
+      "originalPath": "sermon-series/do-you-know-god/s02-getting-to-know-god/l3-archive/BRL Sermon L3 Archive - Do You Know God - S2.docx"
+    },
+    {
+      "resourceKey": "resource-03",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-S000001-L3-Sermon-Archive.pdf",
+      "format": "pdf",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "01A7BF29F2CC70BB1FCA1131931F7B6468F3814C91AA8B44CAABD3A3152C0521",
+      "bytes": 277837,
+      "originalPath": "sermon-series/do-you-know-god/s02-getting-to-know-god/l3-archive/BRL-S000001-L3-Sermon-Archive.pdf"
+    },
+    {
+      "resourceKey": "resource-04",
+      "role": "listener-handout",
+      "path": "04-listener-handouts/BRL-S000002-Listener-Handout-Getting-to-Know-God.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "C2BA64113CE6409992F69B3D3AE65108E1ED2ABD237CDDAED51C560658E04A59",
+      "bytes": 16920,
+      "originalPath": "sermon-series/do-you-know-god/s02-getting-to-know-god/Listener Handout/BRL-S000002-Listener-Handout-Getting-to-Know-God.docx",
+      "audience": null,
+      "notes": "Audience not verified; no age-specific classification inferred."
+    },
+    {
+      "resourceKey": "resource-05",
+      "role": "listener-handout",
+      "path": "04-listener-handouts/BRL-S000002-Listener-Handout-Getting-to-Know-God.pdf",
+      "format": "pdf",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "B47DEA92443E22EF0207935E31EF5A862DE8FB9F762B3FD4F0C023903D76E2ED",
+      "bytes": 87726,
+      "originalPath": "sermon-series/do-you-know-god/s02-getting-to-know-god/Listener Handout/BRL-S000002-Listener-Handout-Getting-to-Know-God.pdf",
+      "audience": null,
+      "notes": "Audience not verified; no age-specific classification inferred."
+    }
+  ],
+  "provenance": {
+    "migrationDate": "2026-09-07",
+    "originalLocation": "sermon-series/do-you-know-god/s02-getting-to-know-god",
+    "priorMetadataSources": [],
+    "migrationReport": "05-supporting-material/phase-2-migration-report.md",
+    "existingFilenamesPreserved": true,
+    "existingIdsPreserved": true,
+    "contentEdited": false,
+    "resumeVerification": "All moves were completed before interruption; destination SHA-256 hashes were checked before creating missing documentation."
+  }
+}

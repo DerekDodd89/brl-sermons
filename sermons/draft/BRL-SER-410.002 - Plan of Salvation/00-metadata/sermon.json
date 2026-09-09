@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-410.002",
+  "title": "The Plan of Salvation",
+  "slug": "the-plan-of-salvation",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Acts 2:36-42"
+  ],
+  "scriptures": [
+    "Acts 2:36-42",
+    "Matthew 28:18-20",
+    "Mark 16:15-16",
+    "Romans 10:17",
+    "John 8:24",
+    "Acts 17:30",
+    "Matthew 10:32",
+    "Galatians 3:27",
+    "Acts 2:42"
+  ],
+  "scriptureInventoryReview": "Partial transcription of identified source headings/metadata; exhaustive Scripture extraction and review not completed.",
+  "series": null,
+  "speaker": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "identityReview": {
+    "required": false,
+    "state": "existing-id-preserved",
+    "observations": [
+      {
+        "value": "BRL-SER-410.002",
+        "source": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/metadata.json",
+        "evidence": "Existing package name and source document metadata"
+      }
+    ],
+    "notes": "Existing ID retained exactly; permanent ID convention remains deferred."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false
+  },
+  "availability": {
+    "l3Archive": true,
+    "l2Present": true,
+    "l2DurationMinutes": [
+      20,
+      30,
+      40
+    ],
+    "untimedL2Present": false,
+    "listenerHandoutPresent": true,
+    "listenerHandoutAudiences": [],
+    "unclassifiedHandoutPresent": true,
+    "powerpointPresent": false,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "The historical metadata references a PowerPoint that is not present.",
+    "Historical outline and handout paths do not match filenames; the current resources list resolves the actual files.",
+    "Listener-handout audience has not been verified.",
+    "Doctrinal/editorial approval, speaker identity, originating research identifiers, and approved canonical version remain unverified."
+  ],
+  "resources": [
+    {
+      "resourceKey": "resource-01",
+      "role": "listener-handout",
+      "path": "04-listener-handouts/BRL-SER-410.002_The-Plan-of-Salvation_Handout_V1.0.pdf",
+      "format": "pdf",
+      "version": "1.0",
+      "approvalState": "unreviewed",
+      "sha256": "1958EFB4D3DD7610111487ECF6E648F9BBA8257C317DE6A1D637DF3C74C9C35E",
+      "bytes": 2256915,
+      "originalPath": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/BRL-SER-410.002_The-Plan-of-Salvation_Handout_V1.0.pdf",
+      "audience": null,
+      "notes": "Audience not verified; no age-specific classification inferred."
+    },
+    {
+      "resourceKey": "resource-02",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.002_The-Plan-of-Salvation_L3-Archive_V1.0.docx",
+      "format": "docx",
+      "version": "1.0",
+      "approvalState": "unreviewed",
+      "sha256": "136C2862B9378B95F08EE5A353E6962348FFE8971D3F980505F6D9C379A9B7C3",
+      "bytes": 45686,
+      "originalPath": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/BRL-SER-410.002_The-Plan-of-Salvation_L3-Archive_V1.0.docx"
+    },
+    {
+      "resourceKey": "resource-03",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.002_The-Plan-of-Salvation_L3-Archive_V1.0.pdf",
+      "format": "pdf",
+      "version": "1.0",
+      "approvalState": "unreviewed",
+      "sha256": "0120E0F91699D21C1335D0D2DDFF1327FC9B87AC21B32E0A1E9316C2BB0ED015",
+      "bytes": 244360,
+      "originalPath": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/BRL-SER-410.002_The-Plan-of-Salvation_L3-Archive_V1.0.pdf"
+    },
+    {
+      "resourceKey": "resource-04",
+      "role": "l2-pulpit",
+      "path": "02-L2-pulpit/20-minute/BRL_Plan_of_Salvation_L2_20_Minute_Pulpit_Outline_V1.0.pdf",
+      "format": "pdf",
+      "version": "1.0",
+      "approvalState": "unreviewed",
+      "sha256": "6ABEE9EF92F4911006074B829EBA1FB61A815E29F147F2B7555C8EFD9B34A057",
+      "bytes": 6899,
+      "originalPath": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/BRL_Plan_of_Salvation_L2_20_Minute_Pulpit_Outline_V1.0.pdf",
+      "durationMinutes": 20
+    },
+    {
+      "resourceKey": "resource-05",
+      "role": "l2-pulpit",
+      "path": "02-L2-pulpit/30-minute/BRL_Plan_of_Salvation_L2_30_Minute_Pulpit_Outline_V1.0.pdf",
+      "format": "pdf",
+      "version": "1.0",
+      "approvalState": "unreviewed",
+      "sha256": "4894B58B424CAD098589B0F5C1ED2863D0AABADDFF98464074C097110FAC2232",
+      "bytes": 9314,
+      "originalPath": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/BRL_Plan_of_Salvation_L2_30_Minute_Pulpit_Outline_V1.0.pdf",
+      "durationMinutes": 30
+    },
+    {
+      "resourceKey": "resource-06",
+      "role": "l2-pulpit",
+      "path": "02-L2-pulpit/40-minute/BRL_Plan_of_Salvation_L2_40_Minute_Advanced_Pulpit_Outline_V1.0.pdf",
+      "format": "pdf",
+      "version": "1.0",
+      "approvalState": "unreviewed",
+      "sha256": "472AB572805F8F802FAC3509310D271C372AB38B497CC140D8B9351D7E6B7571",
+      "bytes": 13924,
+      "originalPath": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/BRL_Plan_of_Salvation_L2_40_Minute_Advanced_Pulpit_Outline_V1.0.pdf",
+      "durationMinutes": 40
+    },
+    {
+      "resourceKey": "resource-07",
+      "role": "historical-metadata",
+      "path": "metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "0BB2B4CD340504404412821BA485FBD08C306B785E33A4FAC24EC2DE96BC9E8F",
+      "bytes": 2008,
+      "originalPath": "sermons/draft/BRL-SER-410.002 - Plan of Salvation/metadata.json",
+      "authoritative": false,
+      "notes": "Preserved unchanged. This source may contain historical paths and availability claims; 00-metadata/sermon.json is authoritative for the migrated inventory."
+    }
+  ],
+  "provenance": {
+    "migrationDate": "2026-09-07",
+    "originalLocation": "sermons/draft/BRL-SER-410.002 - Plan of Salvation",
+    "priorMetadataSources": [
+      "metadata.json"
+    ],
+    "migrationReport": "05-supporting-material/phase-2-migration-report.md",
+    "existingFilenamesPreserved": true,
+    "existingIdsPreserved": true,
+    "contentEdited": false,
+    "resumeVerification": "All moves were completed before interruption; destination SHA-256 hashes were checked before creating missing documentation."
+  }
+}

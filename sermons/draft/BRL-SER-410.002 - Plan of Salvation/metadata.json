@@ -1,0 +1,74 @@
+{
+  "resourceId": "BRL-SER-410.002",
+  "title": "The Plan of Salvation",
+  "subtitle": "What Will You Do with Jesus?",
+  "resourceType": "sermon",
+  "status": "draft",
+  "version": "1.0",
+  "primaryText": "Acts 2:36-42",
+  "sermonType": [
+    "Topical",
+    "Expository-Topical"
+  ],
+  "proposition": "God has revealed through the gospel how sinners come to Christ: hear His Word, believe His Son, repent of sin, confess Christ, be baptized into Christ, and live in faithful obedience.",
+  "mainPoints": [
+    {
+      "number": 1,
+      "title": "Hear His Word",
+      "primaryText": "Romans 10:17"
+    },
+    {
+      "number": 2,
+      "title": "Believe His Son",
+      "primaryText": "John 8:24"
+    },
+    {
+      "number": 3,
+      "title": "Repent of Sin",
+      "primaryText": "Acts 17:30"
+    },
+    {
+      "number": 4,
+      "title": "Confess His Name",
+      "primaryText": "Matthew 10:32"
+    },
+    {
+      "number": 5,
+      "title": "Be Baptized into Christ",
+      "primaryText": "Galatians 3:27"
+    },
+    {
+      "number": 6,
+      "title": "Obey Him Faithfully",
+      "primaryText": "Acts 2:42"
+    }
+  ],
+  "availableLengths": [
+    20,
+    30,
+    40
+  ],
+  "topics": [
+    "Salvation",
+    "Gospel",
+    "Faith",
+    "Repentance",
+    "Confession",
+    "Baptism",
+    "Obedience"
+  ],
+  "formats": {
+    "l2PulpitOutline20": "BRL-SER-410.002_The-Plan-of-Salvation_L2-20min_V1.0.pdf",
+    "l2PulpitOutline30": "BRL-SER-410.002_The-Plan-of-Salvation_L2-30min_V1.0.pdf",
+    "l2PulpitOutline40": "BRL-SER-410.002_The-Plan-of-Salvation_L2-40min_V1.0.pdf",
+    "l3ArchiveDocx": "BRL-SER-410.002_The-Plan-of-Salvation_L3-Archive_V1.0.docx",
+    "l3ArchivePdf": "BRL-SER-410.002_The-Plan-of-Salvation_L3-Archive_V1.0.pdf",
+    "powerPoint": "BRL-SER-410.002_The-Plan-of-Salvation_PowerPoint_V1.0.pptx",
+    "listenerHandout": "BRL-SER-410.002_The-Plan-of-Salvation_Listener-Handout_V1.0.pdf"
+  },
+  "libraryIndex": {
+    "enabled": true,
+    "source": "sermon",
+    "archiveLevel": "L3"
+  }
+}

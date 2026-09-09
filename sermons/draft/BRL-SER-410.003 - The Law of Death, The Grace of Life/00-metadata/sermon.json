@@ -1,0 +1,257 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-410.003",
+  "title": "The Law of Death, The Grace of Life",
+  "slug": "the-law-of-death-the-grace-of-life",
+  "status": "draft",
+  "canonicalVersion": null,
+  "language": "en",
+  "primaryBibleTranslation": "KJV",
+  "mainText": [
+    "Galatians 2:19-21"
+  ],
+  "scriptures": [
+    "Galatians 2:19-21",
+    "Hebrews 10:1-14",
+    "Romans 3:19-20",
+    "Romans 6:3-6",
+    "Romans 7:4-6",
+    "Galatians 3:10-14",
+    "Galatians 3:21-29",
+    "Galatians 3:27",
+    "Ephesians 5:2",
+    "Titus 2:14",
+    "Romans 10:17",
+    "John 8:24",
+    "Luke 13:3",
+    "Matthew 10:9-10",
+    "Romans 10:9-10",
+    "Revelation 2:10"
+  ],
+  "series": null,
+  "speaker": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false
+  },
+  "availability": {
+    "l3Archive": true,
+    "l2DurationMinutes": [
+      20,
+      30
+    ],
+    "listenerHandoutAudiences": [
+      "elementary",
+      "middle-school",
+      "high-school",
+      "adult"
+    ],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No 40-minute L2 outline is present; the historical metadata claim of Developed is not supported by the files.",
+    "The only PowerPoint is an unapproved mockup.",
+    "Listener handouts are not approved.",
+    "Speaker, originating research links, and canonical content version have not been confirmed.",
+    "Scripture list transcribed from historical metadata; full artifact-level completeness has not been reviewed."
+  ],
+  "resources": [
+    {
+      "resourceKey": "resource-01",
+      "role": "historical-folder-map",
+      "path": "FOLDER-MAP.txt",
+      "format": "txt",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "163C4274BD5EC21B8CEF3A5AF9FFAB5A2046FCE87C1BD09E85C9D98B6E8C93B0",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/FOLDER-MAP.txt",
+      "authoritative": false,
+      "notes": "Preserved unchanged for provenance; old paths and availability claims are superseded by 00-metadata/sermon.json."
+    },
+    {
+      "resourceKey": "resource-02",
+      "role": "l2-pulpit",
+      "path": "02-L2-pulpit/20-minute/BRL-SER-410.003_L2_20-Minute_Pulpit_Outline.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "E4E886783CF3E3D2134202F7505D4A9C308E2142C426EC467B9AE9D76F805B34",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l2/20-minute/BRL-SER-410.003_L2_20-Minute_Pulpit_Outline.docx",
+      "durationMinutes": 20
+    },
+    {
+      "resourceKey": "resource-03",
+      "role": "l2-page-image",
+      "path": "02-L2-pulpit/20-minute/Page 1.png",
+      "format": "png",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "35C26B3AA9033D1A0A230DA006DA845DE3368E5D42205957D880BFD20BCD0781",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l2/20-minute/Page 1.png",
+      "durationMinutes": 20,
+      "page": 1,
+      "notes": "Preserved existing outline page image; exact relationship to the DOCX revision has not been established."
+    },
+    {
+      "resourceKey": "resource-04",
+      "role": "l2-page-image",
+      "path": "02-L2-pulpit/20-minute/Page 2.png",
+      "format": "png",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "2D9EA6B688E2D1258667B3F8D2372253F01C336D6A2303C7CF053A89F2EDEE52",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l2/20-minute/Page 2.png",
+      "durationMinutes": 20,
+      "page": 2,
+      "notes": "Preserved existing outline page image; exact relationship to the DOCX revision has not been established."
+    },
+    {
+      "resourceKey": "resource-05",
+      "role": "l2-pulpit",
+      "path": "02-L2-pulpit/30-minute/BRL-SER-410.003_L2_30-Minute_Pulpit_Outline_3-Page-Final.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "0181F088E15BA2B353BA7AE540E952421E3A4CDB18095F424D30062810277DF5",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l2/30-minute/BRL-SER-410.003_L2_30-Minute_Pulpit_Outline_3-Page-Final.docx",
+      "durationMinutes": 30
+    },
+    {
+      "resourceKey": "resource-06",
+      "role": "l2-page-image",
+      "path": "02-L2-pulpit/30-minute/Page 1.png",
+      "format": "png",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "0CA450227B4FA9CA7247EDA7C466DC8C2986217BA4AFFC79B9C4657C8FE7EB9F",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l2/30-minute/Page 1.png",
+      "durationMinutes": 30,
+      "page": 1,
+      "notes": "Preserved existing outline page image; exact relationship to the DOCX revision has not been established."
+    },
+    {
+      "resourceKey": "resource-07",
+      "role": "l2-page-image",
+      "path": "02-L2-pulpit/30-minute/Page 2.png",
+      "format": "png",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "431B3323E3A32CD153BB89E40E8872A065FDBA0C763C9A0FBD571405ABAB1192",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l2/30-minute/Page 2.png",
+      "durationMinutes": 30,
+      "page": 2,
+      "notes": "Preserved existing outline page image; exact relationship to the DOCX revision has not been established."
+    },
+    {
+      "resourceKey": "resource-08",
+      "role": "l2-page-image",
+      "path": "02-L2-pulpit/30-minute/Page 3.png",
+      "format": "png",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "F6D3BDD770997C08258EEB508433D2B6A5BE50FED35F3FCD043170EC48B73575",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l2/30-minute/Page 3.png",
+      "durationMinutes": 30,
+      "page": 3,
+      "notes": "Preserved existing outline page image; exact relationship to the DOCX revision has not been established."
+    },
+    {
+      "resourceKey": "resource-09",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL_L3_The_Law_of_Death_The_Grace_of_Life.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "7C8DA6A7500FC7CA33467E2848CE9B803A4E09B2F7E2AF9DBED35D58267B48E9",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/l3/BRL_L3_The_Law_of_Death_The_Grace_of_Life.docx"
+    },
+    {
+      "resourceKey": "resource-10",
+      "role": "listener-handout",
+      "path": "04-listener-handouts/adult/Adult Handout Rev. 1.png",
+      "format": "png",
+      "version": "Rev. 1",
+      "approvalState": "unapproved",
+      "sha256": "C70CE7EFAB9361C2C0C34B3582B0CCC68AF31DC762642265944509A378BBB96E",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/listener-handouts/adult/Adult Handout Rev. 1.png",
+      "audience": "adult",
+      "notes": "Revision label preserved from original filename; not approved."
+    },
+    {
+      "resourceKey": "resource-11",
+      "role": "listener-handout",
+      "path": "04-listener-handouts/elementary/Elementary Listener Handout Rev. 1.png",
+      "format": "png",
+      "version": "Rev. 1",
+      "approvalState": "unapproved",
+      "sha256": "B28CBC89E3F5C15F335933EA08193686B373FD8063E1FE66851FA29208AAD1D9",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/listener-handouts/elementary/Elementary Listener Handout Rev. 1.png",
+      "audience": "elementary",
+      "notes": "Revision label preserved from original filename; not approved."
+    },
+    {
+      "resourceKey": "resource-12",
+      "role": "listener-handout",
+      "path": "04-listener-handouts/high-school/High School Handout Rev. 1.png",
+      "format": "png",
+      "version": "Rev. 1",
+      "approvalState": "unapproved",
+      "sha256": "69064C0BE0B6F8C777A803521ADD58157479421DFA3363F5B05CED8DA47FCE9E",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/listener-handouts/high-school/High School Handout Rev. 1.png",
+      "audience": "high-school",
+      "notes": "Revision label preserved from original filename; not approved."
+    },
+    {
+      "resourceKey": "resource-13",
+      "role": "listener-handout",
+      "path": "04-listener-handouts/middle-school/Middle School Handout Rev. 1.png",
+      "format": "png",
+      "version": "Rev. 1",
+      "approvalState": "unapproved",
+      "sha256": "82151BAE4357F573FE93BAC0BC5496BEB5675A5FEAA1F10C1ACB242B0A22F83A",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/listener-handouts/middle-school/Middle School Handout Rev. 1.png",
+      "audience": "middle-school",
+      "notes": "Revision label preserved from original filename; not approved."
+    },
+    {
+      "resourceKey": "resource-14",
+      "role": "historical-metadata",
+      "path": "metadata/metadata.md",
+      "format": "md",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "990CD162312F7C1CA00BF2D579650AF7394528811B516DB15CE697F19C53CAD0",
+      "originalPath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life/metadata/metadata.md",
+      "authoritative": false,
+      "notes": "Preserved unchanged for provenance; old paths and availability claims are superseded by 00-metadata/sermon.json."
+    },
+    {
+      "resourceKey": "resource-15",
+      "role": "powerpoint",
+      "path": "03-powerpoint/BRL_Galatians_2_19-21_Law_of_Death_Grace_of_Life_PPT_Mockup.pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unapproved",
+      "sha256": "604CE5774E74C7B7CBECD207792E64C430A58BEF92DCC544039DC4609E71728F",
+      "originalPath": "BRL_Galatians_2_19-21_Law_of_Death_Grace_of_Life_PPT_Mockup.pptx",
+      "kind": "mockup",
+      "isFinal": false,
+      "notes": "Exact ChatGPT Library transfer from BRL Test Transfer; unapproved mockup, not final sermon PowerPoint."
+    }
+  ],
+  "provenance": {
+    "migrationDate": "2026-09-07",
+    "priorMetadata": "metadata/metadata.md",
+    "priorFolderMap": "FOLDER-MAP.txt",
+    "migrationReport": "05-supporting-material/phase-1-migration-report.md",
+    "originalPackagePath": "sermons/draft/BRL-SER-410.003 - The Law of Death, The Grace of Life",
+    "idsPreserved": true,
+    "filenamesPreserved": true
+  }
+}

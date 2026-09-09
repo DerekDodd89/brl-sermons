@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "2.0",
+  "id": null,
+  "title": "Jesus' Memorial Service",
+  "slug": "jesus-memorial-service",
+  "status": "archived",
+  "canonicalVersion": null,
+  "mainText": [
+    "Luke 22:19-20",
+    "1 Corinthians 11:23-29"
+  ],
+  "scriptures": [
+    "Luke 22:19-20",
+    "1 Corinthians 11:23-29",
+    "Acts 20:7",
+    "Matthew 26:26-29",
+    "Mark 14:22-25",
+    "Luke 22:14-20",
+    "Isaiah 53",
+    "John 19",
+    "Matthew 28:1-10",
+    "Hebrews 10:24-25",
+    "1 Corinthians 10:16-17"
+  ],
+  "scriptureInventoryReview": "Partial transcription of identified source headings/metadata; exhaustive Scripture extraction and review not completed.",
+  "series": null,
+  "speaker": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "identityReview": {
+    "required": true,
+    "state": "unresolved",
+    "observations": [
+      {
+        "value": "(Assign per BRL numbering system)",
+        "source": "sermons/archived/Jesus' Memorial Service.docx",
+        "evidence": "Source document placeholder, not an assigned ID"
+      }
+    ],
+    "notes": "No canonical ID assigned; observed values are evidence, not confirmed aliases. Publication blocked pending identity review."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false
+  },
+  "availability": {
+    "l3Archive": true,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "untimedL2Present": false,
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "unclassifiedHandoutPresent": false,
+    "powerpointPresent": false,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "Identity review required: source document says '(Assign per BRL numbering system)'; no sermon ID assigned.",
+    "Recommended companion L2 20-, 30-, and 40-minute outlines, listener handout, PowerPoint, and speaker notes are absent.",
+    "Archived status preserves original repository placement; it does not assert approval.",
+    "Doctrinal/editorial approval, speaker identity, originating research identifiers, and approved canonical version remain unverified."
+  ],
+  "resources": [
+    {
+      "resourceKey": "resource-01",
+      "role": "l3-archive",
+      "path": "01-L3-archive/Jesus' Memorial Service.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "365C9A9D5C8AA4F0E6F9180ED2112B6D0D6B716A0BF851078E7A97051E9B6759",
+      "bytes": 22760,
+      "originalPath": "sermons/archived/Jesus' Memorial Service.docx"
+    }
+  ],
+  "provenance": {
+    "migrationDate": "2026-09-07",
+    "originalLocation": "sermons/archived/Jesus' Memorial Service.docx",
+    "priorMetadataSources": [],
+    "migrationReport": "05-supporting-material/phase-2-migration-report.md",
+    "existingFilenamesPreserved": true,
+    "existingIdsPreserved": true,
+    "contentEdited": false,
+    "resumeVerification": "All moves were completed before interruption; destination SHA-256 hashes were checked before creating missing documentation."
+  }
+}

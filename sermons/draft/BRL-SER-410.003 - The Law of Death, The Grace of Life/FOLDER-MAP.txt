@@ -1,0 +1,19 @@
+BRL-SER-410.003 - The Law of Death, The Grace of Life
+├── metadata/
+│   └── metadata.md
+├── l2/
+│   ├── 20-minute/
+│   ├── 30-minute/
+│   └── 40-minute/
+├── l3/
+├── powerpoint/
+├── listener-handouts/
+│   ├── elementary/
+│   ├── middle-school/
+│   ├── high-school/
+│   └── adult/
+└── exports/
+    ├── docx/
+    ├── pdf/
+    ├── pptx/
+    └── images/

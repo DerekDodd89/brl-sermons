@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-410.001",
+  "title": "The Direction of Worship",
+  "slug": "the-direction-of-worship",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "John 4:23-24",
+    "Acts 2:42",
+    "Acts 20:7",
+    "1 Corinthians 10:16-17",
+    "1 Corinthians 11:23-29",
+    "Matthew 28:18-20"
+  ],
+  "scriptures": [
+    "John 4:23-24",
+    "Acts 2:42",
+    "Acts 20:7",
+    "1 Corinthians 10:16-17",
+    "1 Corinthians 11:23-29",
+    "Matthew 28:18-20",
+    "Matthew 6:5-13",
+    "1 Timothy 2:1-8",
+    "Hebrews 4:14-16",
+    "Philippians 4:6",
+    "Ephesians 5:20",
+    "Ephesians 5:19-20",
+    "Colossians 3:16",
+    "Psalm 95:1-2",
+    "Hebrews 13:15",
+    "Luke 22:19-20",
+    "1 Corinthians 16:1-2",
+    "2 Corinthians 8-9",
+    "Acts 4:32-37",
+    "Philippians 4:15-19",
+    "Acts 8:4-5",
+    "Romans 10:17",
+    "2 Timothy 4:1-5",
+    "Nehemiah 8:1-8"
+  ],
+  "scriptureInventoryReview": "Partial transcription of identified source headings/metadata; exhaustive Scripture extraction and review not completed.",
+  "series": {
+    "id": null,
+    "title": "Biblical Worship",
+    "sequence": null
+  },
+  "speaker": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "identityReview": {
+    "required": false,
+    "state": "existing-id-preserved",
+    "observations": [
+      {
+        "value": "BRL-SER-410.001",
+        "source": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Archive Metadata & Repository Export.docx",
+        "evidence": "Existing package name and source document metadata"
+      }
+    ],
+    "notes": "Existing ID retained exactly; permanent ID convention remains deferred."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false
+  },
+  "availability": {
+    "l3Archive": true,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "untimedL2Present": false,
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "unclassifiedHandoutPresent": false,
+    "powerpointPresent": false,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "L2 20-, 30-, and 40-minute outlines, listener handout, PowerPoint, speaker notes, and PDF export are listed as unfinished in original metadata.",
+    "The generically named Sermon Archive DOCX is Section I, not a combined replacement for sections II-VII.",
+    "Doctrinal/editorial approval, speaker identity, originating research identifiers, and approved canonical version remain unverified."
+  ],
+  "resources": [
+    {
+      "resourceKey": "resource-01",
+      "role": "historical-metadata",
+      "path": "05-supporting-material/BRL-SER-410.001 - The Direction of Worship L3 - Archive Metadata & Repository Export.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "BEDD3A55B3E735BBCD5029DE88D0F367F74EA7542FF1A2E7F042C9D0AE0C0A9B",
+      "bytes": 21611,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Archive Metadata & Repository Export.docx",
+      "authoritative": false,
+      "notes": "Preserved unchanged. This source may contain historical paths and availability claims; 00-metadata/sermon.json is authoritative for the migrated inventory."
+    },
+    {
+      "resourceKey": "resource-02",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section II Prayer.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "28FAECAC3211C42BFFA191A67C4A4C085BA4E5BC2C080AA512F415733E852058",
+      "bytes": 19671,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section II Prayer.docx",
+      "section": "II",
+      "notes": "Separate substantive archive section preserved."
+    },
+    {
+      "resourceKey": "resource-03",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section III Singing.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "A48BA41B72E356A73D82F6CAA23373DB1A0CBB6C213A2D65ABEEDDE4865D04DB",
+      "bytes": 19823,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section III Singing.docx",
+      "section": "III",
+      "notes": "Separate substantive archive section preserved."
+    },
+    {
+      "resourceKey": "resource-04",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section IV The Lord's Supper.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "5FD5869E499A14733528052FCAF475DF1AD495A99D23B1D07BF4016F420C88BB",
+      "bytes": 20720,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section IV The Lord's Supper.docx",
+      "section": "IV",
+      "notes": "Separate substantive archive section preserved."
+    },
+    {
+      "resourceKey": "resource-05",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section V The Collection.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "D879AB6BCC05200443B10E06AFFC736316AF20B8C2BC143A8840B7F4863A2CDC",
+      "bytes": 19652,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section V The Collection.docx",
+      "section": "V",
+      "notes": "Separate substantive archive section preserved."
+    },
+    {
+      "resourceKey": "resource-06",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section VI The Word of God.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "CE287BCA5AE5FBB9D4691B5BD56AA8CEF9468B7D29FBE9277E12525D766EB11D",
+      "bytes": 20273,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section VI The Word of God.docx",
+      "section": "VI",
+      "notes": "Separate substantive archive section preserved."
+    },
+    {
+      "resourceKey": "resource-07",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section VII The Unity of Worship.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "5B522A4E2D5111E143AE8537B5E7835DCD6DEDB7E7601C984120EF4E0CB338F5",
+      "bytes": 19682,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive Section VII The Unity of Worship.docx",
+      "section": "VII",
+      "notes": "Separate substantive archive section preserved."
+    },
+    {
+      "resourceKey": "resource-08",
+      "role": "l3-archive",
+      "path": "01-L3-archive/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive.docx",
+      "format": "docx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "8BB3CDF953B47566A31EBAD137CF0FECD49CB22DADA0EC41C589225CD8D39C99",
+      "bytes": 18049,
+      "originalPath": "sermons/draft/BRL-SER-410.001 - The Direction of Worship/docs/BRL-SER-410.001 - The Direction of Worship L3 - Sermon Archive.docx",
+      "section": "I",
+      "notes": "This generically named archive document contains Section I — Introduction; not a replacement for other sections."
+    }
+  ],
+  "provenance": {
+    "migrationDate": "2026-09-07",
+    "originalLocation": "sermons/draft/BRL-SER-410.001 - The Direction of Worship",
+    "priorMetadataSources": [
+      "05-supporting-material/BRL-SER-410.001 - The Direction of Worship L3 - Archive Metadata & Repository Export.docx"
+    ],
+    "migrationReport": "05-supporting-material/phase-2-migration-report.md",
+    "existingFilenamesPreserved": true,
+    "existingIdsPreserved": true,
+    "contentEdited": false,
+    "resumeVerification": "All moves were completed before interruption; destination SHA-256 hashes were checked before creating missing documentation."
+  }
+}
