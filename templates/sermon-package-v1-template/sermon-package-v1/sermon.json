@@ -1,0 +1,69 @@
+{
+  "id": "BRL-S070-0001",
+  "title": "Do You Know God?",
+  "slug": "do-you-know-god",
+  "status": "draft",
+  "canonicalVersion": "1.0",
+  "summary": "A sermon introducing what Scripture reveals about knowing God.",
+  "proposition": "We can truly know God through what He has revealed.",
+  "direction": "We will examine what God reveals about His character, will, and relationship with humanity.",
+  "mainText": [
+    "John 17:3"
+  ],
+  "scriptures": [
+    "John 17:3",
+    "Jeremiah 9:23-24"
+  ],
+  "topics": [
+    "God",
+    "Knowing God",
+    "Christian Living"
+  ],
+  "series": {
+    "id": "SERIES-0001",
+    "title": "Do You Know God?",
+    "sequence": 1
+  },
+  "speaker": {
+    "id": "SPEAKER-0001",
+    "name": "Derek Dodd"
+  },
+  "audience": [
+    "General Congregation"
+  ],
+  "estimatedMinutes": [
+    20,
+    30,
+    40
+  ],
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "formats": {
+    "outline": "content/outline.md",
+    "manuscript": null,
+    "slides": null,
+    "handout": null,
+    "audio": null,
+    "video": null
+  },
+  "dates": {
+    "created": null,
+    "preached": null,
+    "reviewed": null,
+    "published": null,
+    "updated": "2026-08-03"
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false
+  },
+  "legacyImport": {
+    "isLegacy": false,
+    "originalFilename": null,
+    "sourceLocation": null,
+    "importDate": null,
+    "notes": null
+  }
+}
