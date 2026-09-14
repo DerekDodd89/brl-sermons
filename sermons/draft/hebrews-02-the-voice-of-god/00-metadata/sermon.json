@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-412.001.002",
+  "title": "The Voice of God",
+  "slug": "the-voice-of-god",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Hebrews 1:1–3"
+  ],
+  "scriptures": [
+    "Hebrews 1:1–3",
+    "Luke 24:44",
+    "2 Peter 1:21",
+    "Matthew 21:37–39",
+    "John 1:1–3",
+    "John 1:14",
+    "Colossians 2:9",
+    "John 14:9–10"
+  ],
+  "series": {
+    "name": "Hebrews",
+    "sequence": 2,
+    "legacySeriesLabel": "SER-HEB-002",
+    "id": "BRL-SER-412.001"
+  },
+  "speaker": {
+    "name": "Derek Dodd"
+  },
+  "collection": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "legacyImport": {
+    "isLegacy": true,
+    "originalFilename": "HEBREWS 2 THE VOICE OF GOD.pptx",
+    "preservedFilename": "HEBREWS 2 THE VOICE OF GOD.pptx",
+    "sourceLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "sourceStatus": "legacy",
+    "modernizationStatus": "not standardized"
+  },
+  "identityReview": {
+    "required": false,
+    "state": "permanent-id-assigned",
+    "legacySeriesLabel": "SER-HEB-002",
+    "notes": "Explicitly authorized 2026-09-13 under the permanent BRL Sermon ID registry. Historical identity evidence remains preserved."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false,
+    "legacyReviewFlag": false,
+    "sourceContentNote": null
+  },
+  "availability": {
+    "preservedLegacySource": true,
+    "legacySourceFormat": "pptx",
+    "l3Archive": false,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+    "Doctrinal/editorial approval and publication readiness are not established."
+  ],
+  "resources": [
+    {
+      "resourceKey": "legacy-source",
+      "role": "legacy-source",
+      "path": "05-supporting-material/legacy-source/HEBREWS 2 THE VOICE OF GOD.pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "89B61A06E762AFBBAFFBC6745D7DC8579722CB52D6109F10F63C90B52885500B",
+      "bytes": 138245,
+      "originalFilename": "HEBREWS 2 THE VOICE OF GOD.pptx",
+      "libraryFilename": "HEBREWS 2 THE VOICE OF GOD.pptx",
+      "contentEdited": false
+    },
+    {
+      "resourceKey": "library-metadata",
+      "role": "historical-metadata",
+      "path": "00-metadata/library-source/HEBREWS_2_THE_VOICE_OF_GOD_metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "615966BF524B0A44B3666751C6FAC293F209BFAC8A71C66EC05EBA663C706FA2",
+      "bytes": 1974,
+      "authoritative": false,
+      "captureMethod": "download"
+    }
+  ],
+  "provenance": {
+    "importedAtUtc": "2026-09-12T19:19:16.2713037Z",
+    "sourceSystem": "ChatGPT Library",
+    "libraryLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "libraryMetadataVersion": null,
+    "metadataPath": "00-metadata/library-source/HEBREWS_2_THE_VOICE_OF_GOD_metadata.json",
+    "librarySourceSha256": null,
+    "sourceHashVerification": "Library metadata supplies no SHA-256; downloaded-file and repository-copy SHA-256 and byte size match.",
+    "downloadedFilename": "HEBREWS 2 THE VOICE OF GOD.pptx",
+    "preservedFilename": "HEBREWS 2 THE VOICE OF GOD.pptx",
+    "filenameNote": "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+    "contentEdited": false,
+    "externalArchiveAccessed": false,
+    "importReport": "docs/imports/library-sync-2026-09-12.md",
+    "importReportPathBase": "repository-root",
+    "identityHistory": [
+      {
+        "date": "2026-09-13",
+        "action": "permanent-id-assignment",
+        "previousPermanentId": null,
+        "permanentId": "BRL-SER-412.001.002",
+        "legacyAlias": "SER-HEB-002",
+        "aliasKind": "legacy-series-label",
+        "previousPackagePath": "sermons/draft/hebrews-02-the-voice-of-god",
+        "packagePath": "sermons/draft/hebrews-02-the-voice-of-god",
+        "registry": "docs/standards/BRL Sermon ID Standard and Registry.md",
+        "report": "docs/imports/permanent-id-migration-2026-09-13.md",
+        "contentEdited": false
+      }
+    ]
+  },
+  "legacyAliases": [
+    "SER-HEB-002"
+  ]
+}

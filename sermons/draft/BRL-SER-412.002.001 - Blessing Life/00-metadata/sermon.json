@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-412.002.001",
+  "title": "Blessing Life",
+  "slug": "blessing-life",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Matthew 5:1-12"
+  ],
+  "scriptures": [
+    "Matthew 5:1-12",
+    "Deuteronomy 8:10",
+    "Deuteronomy 8:13-15",
+    "1 Thessalonians 5:17",
+    "Philippians 4:6",
+    "James 5:13-14",
+    "Matthew 14:9",
+    "Matthew 9:8",
+    "Luke 17:12-19"
+  ],
+  "series": {
+    "name": "Sitting at the Feet of Rabbi Jesus",
+    "sequence": 1,
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series",
+    "id": "BRL-SER-412.002"
+  },
+  "speaker": {
+    "name": "Derek Dodd"
+  },
+  "collection": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "legacyImport": {
+    "isLegacy": true,
+    "originalFilename": "blessing life (1).pptx",
+    "preservedFilename": "blessing life (1).pptx",
+    "sourceLocation": "ChatGPT Library (global search: blessing)",
+    "sourceStatus": "legacy",
+    "modernizationStatus": "not standardized"
+  },
+  "identityReview": {
+    "required": false,
+    "state": "controlled-id-migration",
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series",
+    "notes": "Explicitly authorized 2026-09-13 under the permanent BRL Sermon ID registry. Historical identity evidence remains preserved."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false,
+    "legacyReviewFlag": false,
+    "sourceContentNote": null
+  },
+  "availability": {
+    "preservedLegacySource": true,
+    "legacySourceFormat": "pptx",
+    "l3Archive": false,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+    "Doctrinal/editorial approval and publication readiness are not established."
+  ],
+  "resources": [
+    {
+      "resourceKey": "legacy-source",
+      "role": "legacy-source",
+      "path": "05-supporting-material/legacy-source/blessing life (1).pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "ADA8885A55448E8B30CC7D023B6105EB9BD975FDF96C721F5B19EC3AF198C5B0",
+      "bytes": 553940,
+      "originalFilename": "blessing life (1).pptx",
+      "libraryFilename": "blessing life (1).pptx",
+      "contentEdited": false
+    },
+    {
+      "resourceKey": "library-metadata",
+      "role": "historical-metadata",
+      "path": "00-metadata/library-source/blessing-life_metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "EEEB6036ED2C36CB12DC9005DE57D332610A2D8FD21487EEA9EE535727EC4AD2",
+      "bytes": 1963,
+      "authoritative": false,
+      "captureMethod": "download"
+    }
+  ],
+  "provenance": {
+    "importedAtUtc": "2026-09-12T19:19:15.9790030Z",
+    "sourceSystem": "ChatGPT Library",
+    "libraryLocation": "ChatGPT Library (global search: blessing)",
+    "libraryMetadataVersion": null,
+    "metadataPath": "00-metadata/library-source/blessing-life_metadata.json",
+    "librarySourceSha256": null,
+    "sourceHashVerification": "Library metadata supplies no SHA-256; downloaded-file and repository-copy SHA-256 and byte size match.",
+    "downloadedFilename": "blessing life (1).pptx",
+    "preservedFilename": "blessing life (1).pptx",
+    "filenameNote": "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+    "contentEdited": false,
+    "externalArchiveAccessed": false,
+    "importReport": "docs/imports/library-sync-2026-09-12.md",
+    "importReportPathBase": "repository-root",
+    "identityHistory": [
+      {
+        "date": "2026-09-13",
+        "action": "controlled-id-migration",
+        "previousPermanentId": "SER-RABBI-410.001",
+        "permanentId": "BRL-SER-412.002.001",
+        "legacyAlias": "SER-RABBI-410.001",
+        "aliasKind": "former-permanent-id",
+        "previousPackagePath": "sermons/draft/SER-RABBI-410.001 - Blessing Life",
+        "packagePath": "sermons/draft/BRL-SER-412.002.001 - Blessing Life",
+        "registry": "docs/standards/BRL Sermon ID Standard and Registry.md",
+        "report": "docs/imports/permanent-id-migration-2026-09-13.md",
+        "contentEdited": false
+      }
+    ]
+  },
+  "legacyAliases": [
+    "SER-RABBI-410.001"
+  ]
+}

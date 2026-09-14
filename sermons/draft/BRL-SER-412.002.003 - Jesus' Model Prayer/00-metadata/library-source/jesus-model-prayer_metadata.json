@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Jesus' Model Prayer",
+  "subtitle": null,
+  "series": {
+    "name": "Sitting at the Feet of Rabbi Jesus",
+    "sequence": 3,
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "JESUS' MODEL PRAYER (1).pptx",
+    "format": "pptx",
+    "legacyTitle": "JESUS’ MODEL PRAYER"
+  },
+  "scripture": {
+    "primaryText": "Matthew 6:5-15",
+    "references": [
+      "Matthew 6:9-15",
+      "Matthew 23:5",
+      "Deuteronomy 6:8",
+      "Mark 12:28-30",
+      "Luke 2:49",
+      "John 6:35"
+    ]
+  },
+  "sermon": {
+    "centralTheme": "Jesus' model prayer teaches His disciples to approach God as Father, honor His name and will, depend upon Him for daily provision and forgiveness, and seek His protection from evil.",
+    "proposition": "Jesus' model prayer provides a pattern for a God-centered life of prayer.",
+    "topics": [
+      "Prayer",
+      "Jesus Christ",
+      "Model Prayer",
+      "Jewish Prayer",
+      "Fatherhood of God",
+      "Kingdom of God",
+      "Forgiveness",
+      "Daily Dependence",
+      "Temptation"
+    ],
+    "summary": "This legacy sermon studies Matthew 6:5-15 in light of Jewish prayer practices and terminology. It discusses tefillin, the Shema, the Amidah, Jesus' address to 'Our Father,' hallowing God's name, God's kingdom and will, daily bread, forgiveness, and deliverance from evil. The sermon compares elements of Jesus' teaching with Jewish prayer customs while emphasizing dependence upon God, repentance, forgiveness, and protection from Satan."
+  },
+  "brl": {
+    "permanentSermonId": "SER-RABBI-410.003",
+    "classification": "410",
+    "seriesCode": "RABBI",
+    "seriesSequence": 3,
+    "badgeWords": [
+      "Biblical",
+      "Reformed",
+      "Life"
+    ],
+    "module": "BRL Sermons"
+  },
+  "provenance": {
+    "classification": "legacy import",
+    "contentBasis": "Metadata extracted from the uploaded legacy PowerPoint. No sermon content was added to the source.",
+    "notes": "Official BRL Sermons ID assigned: SER-RABBI-410.003. This is Sermon 3 in the Sitting at the Feet of Rabbi Jesus legacy sermon series."
+  }
+}

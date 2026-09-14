@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-412.001.004",
+  "title": "Drifting Away",
+  "slug": "drifting-away",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Hebrews 2:1–4"
+  ],
+  "scriptures": [
+    "Hebrews 2:1–4",
+    "Hebrews 2:3",
+    "Hebrews 6:12–14",
+    "Hebrews 6:4–6",
+    "Hebrews 10:26–27",
+    "Galatians 6:9",
+    "Revelation 2:4",
+    "1 Corinthians 15:33",
+    "Galatians 5:16–17",
+    "Luke 21:34",
+    "2 Peter 1:10",
+    "Acts 17:11"
+  ],
+  "series": {
+    "name": "Hebrews",
+    "sequence": 4,
+    "legacySeriesLabel": "SER-HEB-004",
+    "id": "BRL-SER-412.001"
+  },
+  "speaker": {
+    "name": "Derek Dodd"
+  },
+  "collection": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "legacyImport": {
+    "isLegacy": true,
+    "originalFilename": "HEBREWS 4 DRIFTING AWAY.pptx",
+    "preservedFilename": "HEBREWS 4 DRIFTING AWAY.pptx",
+    "sourceLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "sourceStatus": "legacy",
+    "modernizationStatus": "not standardized"
+  },
+  "identityReview": {
+    "required": false,
+    "state": "permanent-id-assigned",
+    "legacySeriesLabel": "SER-HEB-004",
+    "notes": "Explicitly authorized 2026-09-13 under the permanent BRL Sermon ID registry. Historical identity evidence remains preserved."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false,
+    "legacyReviewFlag": false,
+    "sourceContentNote": null
+  },
+  "availability": {
+    "preservedLegacySource": true,
+    "legacySourceFormat": "pptx",
+    "l3Archive": false,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+    "Doctrinal/editorial approval and publication readiness are not established."
+  ],
+  "resources": [
+    {
+      "resourceKey": "legacy-source",
+      "role": "legacy-source",
+      "path": "05-supporting-material/legacy-source/HEBREWS 4 DRIFTING AWAY.pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "BDCA8F5389C038FA4039E927CD9BF997CE7C92D67F0BDABB974588CCEC9141A3",
+      "bytes": 2609323,
+      "originalFilename": "HEBREWS 4 DRIFTING AWAY.pptx",
+      "libraryFilename": "HEBREWS 4 DRIFTING AWAY.pptx",
+      "contentEdited": false
+    },
+    {
+      "resourceKey": "library-metadata",
+      "role": "historical-metadata",
+      "path": "00-metadata/library-source/HEBREWS_4_DRIFTING_AWAY_metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "B1ABA9EE56B8DC419E8B1BC04A0CDDD838C12A5873D094EC12DBB738C45B8564",
+      "bytes": 2239,
+      "authoritative": false,
+      "captureMethod": "download"
+    }
+  ],
+  "provenance": {
+    "importedAtUtc": "2026-09-12T19:19:16.5102240Z",
+    "sourceSystem": "ChatGPT Library",
+    "libraryLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "libraryMetadataVersion": null,
+    "metadataPath": "00-metadata/library-source/HEBREWS_4_DRIFTING_AWAY_metadata.json",
+    "librarySourceSha256": null,
+    "sourceHashVerification": "Library metadata supplies no SHA-256; downloaded-file and repository-copy SHA-256 and byte size match.",
+    "downloadedFilename": "HEBREWS 4 DRIFTING AWAY.pptx",
+    "preservedFilename": "HEBREWS 4 DRIFTING AWAY.pptx",
+    "filenameNote": "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+    "contentEdited": false,
+    "externalArchiveAccessed": false,
+    "importReport": "docs/imports/library-sync-2026-09-12.md",
+    "importReportPathBase": "repository-root",
+    "identityHistory": [
+      {
+        "date": "2026-09-13",
+        "action": "permanent-id-assignment",
+        "previousPermanentId": null,
+        "permanentId": "BRL-SER-412.001.004",
+        "legacyAlias": "SER-HEB-004",
+        "aliasKind": "legacy-series-label",
+        "previousPackagePath": "sermons/draft/hebrews-04-drifting-away",
+        "packagePath": "sermons/draft/hebrews-04-drifting-away",
+        "registry": "docs/standards/BRL Sermon ID Standard and Registry.md",
+        "report": "docs/imports/permanent-id-migration-2026-09-13.md",
+        "contentEdited": false
+      }
+    ]
+  },
+  "legacyAliases": [
+    "SER-HEB-004"
+  ]
+}

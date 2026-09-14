@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Jesus the Superior Priest",
+  "series": {
+    "name": "Hebrews",
+    "sequence": 9,
+    "legacySeriesLabel": "SER-HEB-009"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "HEBREWS 9 JESUS THE SUPERIOR PRIEST.pptx",
+    "format": "pptx",
+    "preserveOriginalFilename": true
+  },
+  "scripture": {
+    "primaryText": "Hebrews 7",
+    "supportingTexts": [
+      "2 Thessalonians 2:13–14",
+      "1 Thessalonians 2:12",
+      "Acts 3:22–26",
+      "John 7:16",
+      "Hebrews 2:17",
+      "Hebrews 4:14",
+      "Hebrews 7:24–28",
+      "John 17:4",
+      "Numbers 12:6–8",
+      "John 1:1–3",
+      "Deuteronomy 18:15–19",
+      "Luke 24:44",
+      "Matthew 28:18",
+      "John 3:35",
+      "Ephesians 1:22"
+    ]
+  },
+  "legacyContent": {
+    "sourceTitleText": "JESUS IS SUPERIOR PRIEST TO MELCHESIDEK",
+    "majorMovements": [
+      "Considering Jesus",
+      "The House and the Builder",
+      "Jesus the Greater Minister"
+    ],
+    "summary": "Legacy Hebrews series sermon labeled in the source as 'Jesus Is Superior Priest to Melchesidek' with Hebrews 7 identified as its text. The remaining source slides preserve material comparing Jesus and Moses, including Jesus as Apostle and High Priest, the House and the Builder, and Jesus as the greater minister.",
+    "sourceContentNote": "The title and stated Hebrews 7 text do not fully align with the body slides, which contain material also found in the Jesus-superior-to-Moses lesson. Metadata preserves this source condition rather than silently correcting it.",
+    "closingResponse": [
+      "Hear the word of God",
+      "Believe that Jesus is the Messiah",
+      "Confess Jesus as Lord",
+      "Repent of sin",
+      "Be baptized into Christ"
+    ]
+  },
+  "brl": {
+    "classification": "Legacy Sermon",
+    "seriesMembershipConfirmed": true,
+    "permanentSermonId": null,
+    "legacyReviewFlag": true,
+    "idNote": "SER-HEB-009 is retained as an existing legacy series-planning label; it is not treated here as a newly assigned permanent BRL sermon ID.",
+    "modernizationStatus": "not standardized"
+  },
+  "provenance": {
+    "metadataCreatedFrom": "HEBREWS 9 JESUS THE SUPERIOR PRIEST.pptx",
+    "createdDate": "2026-09-08",
+    "notes": "Metadata records the legacy source as supplied. Apparent title/body inconsistency is flagged for later review and is not corrected in the legacy source."
+  }
+}

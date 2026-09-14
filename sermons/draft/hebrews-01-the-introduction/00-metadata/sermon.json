@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-412.001.001",
+  "title": "The Introduction",
+  "slug": "the-introduction",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [],
+  "scriptures": [],
+  "series": {
+    "name": "Hebrews",
+    "sequence": 1,
+    "legacySeriesLabel": "SER-HEB-001",
+    "id": "BRL-SER-412.001"
+  },
+  "speaker": {
+    "name": "Derek Dodd"
+  },
+  "collection": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "legacyImport": {
+    "isLegacy": true,
+    "originalFilename": "HEBREWS 1 THE INTRODUCTION.pptx",
+    "preservedFilename": "HEBREWS 1 THE INTRODUCTION.pptx",
+    "sourceLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "sourceStatus": "legacy",
+    "modernizationStatus": "not standardized"
+  },
+  "identityReview": {
+    "required": false,
+    "state": "permanent-id-assigned",
+    "legacySeriesLabel": "SER-HEB-001",
+    "notes": "Explicitly authorized 2026-09-13 under the permanent BRL Sermon ID registry. Historical identity evidence remains preserved."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false,
+    "legacyReviewFlag": false,
+    "sourceContentNote": null
+  },
+  "availability": {
+    "preservedLegacySource": true,
+    "legacySourceFormat": "pptx",
+    "l3Archive": false,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+    "Doctrinal/editorial approval and publication readiness are not established."
+  ],
+  "resources": [
+    {
+      "resourceKey": "legacy-source",
+      "role": "legacy-source",
+      "path": "05-supporting-material/legacy-source/HEBREWS 1 THE INTRODUCTION.pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "6DFCC0C24F9982118BE118D29B457750A72F825CFA353890DD1A4C5D3317E14F",
+      "bytes": 535228,
+      "originalFilename": "HEBREWS 1 THE INTRODUCTION.pptx",
+      "libraryFilename": "HEBREWS 1 THE INTRODUCTION.pptx",
+      "contentEdited": false
+    },
+    {
+      "resourceKey": "library-metadata",
+      "role": "historical-metadata",
+      "path": "00-metadata/library-source/HEBREWS_1_THE_INTRODUCTION_metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "3BC755EB0630702B14F2CC459E4455B9D193E0C84FDF7C6BE1F4029C262DC831",
+      "bytes": 1713,
+      "authoritative": false,
+      "captureMethod": "download"
+    }
+  ],
+  "provenance": {
+    "importedAtUtc": "2026-09-12T19:19:16.1828587Z",
+    "sourceSystem": "ChatGPT Library",
+    "libraryLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "libraryMetadataVersion": null,
+    "metadataPath": "00-metadata/library-source/HEBREWS_1_THE_INTRODUCTION_metadata.json",
+    "librarySourceSha256": null,
+    "sourceHashVerification": "Library metadata supplies no SHA-256; downloaded-file and repository-copy SHA-256 and byte size match.",
+    "downloadedFilename": "HEBREWS 1 THE INTRODUCTION.pptx",
+    "preservedFilename": "HEBREWS 1 THE INTRODUCTION.pptx",
+    "filenameNote": "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+    "contentEdited": false,
+    "externalArchiveAccessed": false,
+    "importReport": "docs/imports/library-sync-2026-09-12.md",
+    "importReportPathBase": "repository-root",
+    "identityHistory": [
+      {
+        "date": "2026-09-13",
+        "action": "permanent-id-assignment",
+        "previousPermanentId": null,
+        "permanentId": "BRL-SER-412.001.001",
+        "legacyAlias": "SER-HEB-001",
+        "aliasKind": "legacy-series-label",
+        "previousPackagePath": "sermons/draft/hebrews-01-the-introduction",
+        "packagePath": "sermons/draft/hebrews-01-the-introduction",
+        "registry": "docs/standards/BRL Sermon ID Standard and Registry.md",
+        "report": "docs/imports/permanent-id-migration-2026-09-13.md",
+        "contentEdited": false
+      }
+    ]
+  },
+  "legacyAliases": [
+    "SER-HEB-001"
+  ]
+}

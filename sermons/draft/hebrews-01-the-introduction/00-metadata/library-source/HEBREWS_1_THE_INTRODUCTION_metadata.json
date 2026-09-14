@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "The Introduction",
+  "series": {
+    "name": "Hebrews",
+    "sequence": 1,
+    "legacySeriesLabel": "SER-HEB-001"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "HEBREWS 1 THE INTRODUCTION.pptx",
+    "format": "pptx",
+    "preserveOriginalFilename": true
+  },
+  "scripture": {
+    "book": "Hebrews",
+    "scope": "Introduction to Hebrews",
+    "majorDivisions": [
+      "Hebrews 1:1–8:6 — The superiority of Christ",
+      "Hebrews 8:7–10:18 — The superiority of the New Covenant",
+      "Hebrews 10:19–13:25 — The superior exhortations"
+    ]
+  },
+  "legacyContent": {
+    "audience": "Jewish Christians",
+    "datePresentedInSource": "63–65 A.D.",
+    "purposePresentedInSource": "To prevent the Jewish Christians from going back to Judaism",
+    "warnings": [
+      "drifting",
+      "departing",
+      "disobedience",
+      "dullness",
+      "despising",
+      "defying"
+    ],
+    "summary": "An introductory lesson to the Hebrews series covering the book's background, audience, date, purpose, major divisions, and key warnings."
+  },
+  "brl": {
+    "classification": "Legacy Sermon",
+    "seriesMembershipConfirmed": true,
+    "permanentSermonId": null,
+    "idNote": "SER-HEB-001 is retained as an existing legacy series-planning label; it is not treated here as a newly assigned permanent BRL sermon ID.",
+    "modernizationStatus": "not standardized"
+  },
+  "provenance": {
+    "metadataCreatedFrom": "HEBREWS 1 THE INTRODUCTION.pptx",
+    "createdDate": "2026-09-08",
+    "notes": "Metadata records the legacy source without rewriting or modernizing the sermon."
+  }
+}

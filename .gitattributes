@@ -1,0 +1,2 @@
+# Preserve imported Library provenance bytes and their inventoried SHA-256 hashes.
+sermons/**/00-metadata/library-source/* -text

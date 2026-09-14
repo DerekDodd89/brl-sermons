@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Jesus Is Superior to Moses",
+  "series": {
+    "name": "Hebrews",
+    "sequence": 6,
+    "legacySeriesLabel": "SER-HEB-006"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "HEBREWS 6 JESUS SUPERIOR TO MOSES.pptx",
+    "format": "pptx",
+    "preserveOriginalFilename": true
+  },
+  "scripture": {
+    "primaryText": "Hebrews 3:1–6",
+    "supportingTexts": [
+      "2 Thessalonians 2:13–14",
+      "1 Thessalonians 2:12",
+      "Acts 3:22–26",
+      "John 7:16",
+      "Hebrews 2:17",
+      "Hebrews 4:14",
+      "Hebrews 7:24–28",
+      "John 17:4",
+      "Numbers 12:6–8",
+      "John 1:1–3",
+      "Deuteronomy 18:15–19",
+      "Luke 24:44",
+      "Matthew 28:18",
+      "John 3:35",
+      "Ephesians 1:22"
+    ]
+  },
+  "legacyContent": {
+    "majorMovements": [
+      "Considering Jesus",
+      "The House and the Builder",
+      "Jesus the Greater Minister"
+    ],
+    "summary": "A Hebrews 3:1–6 sermon presenting Jesus as superior to Moses. It calls Christians to consider Jesus as Apostle and High Priest, contrasts the house with its builder, and contrasts Moses as a faithful servant in the house with Jesus as the faithful Son who inherits the house.",
+    "closingResponse": [
+      "Hear the word of God",
+      "Believe that Jesus is the Messiah",
+      "Confess Jesus as Lord",
+      "Repent of sin",
+      "Be baptized into Christ"
+    ]
+  },
+  "brl": {
+    "classification": "Legacy Sermon",
+    "seriesMembershipConfirmed": true,
+    "permanentSermonId": null,
+    "idNote": "SER-HEB-006 is retained as an existing legacy series-planning label; it is not treated here as a newly assigned permanent BRL sermon ID.",
+    "modernizationStatus": "not standardized"
+  },
+  "provenance": {
+    "metadataCreatedFrom": "HEBREWS 6 JESUS SUPERIOR TO MOSES.pptx",
+    "createdDate": "2026-09-08",
+    "notes": "Metadata records the legacy source without rewriting or modernizing the sermon."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-412.001.008",
+  "title": "Entering the Rest",
+  "slug": "entering-the-rest",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Hebrews 4:1–11"
+  ],
+  "scriptures": [
+    "Hebrews 4:1–11",
+    "Deuteronomy 3:20",
+    "Deuteronomy 12:9–10",
+    "Joshua 1:13–15",
+    "Psalm 95:7–11",
+    "Genesis 2:2",
+    "Exodus 20:8–11",
+    "Deuteronomy 5:12–15",
+    "Deuteronomy 5:2–22",
+    "Ephesians 2:14–15",
+    "Colossians 2:14",
+    "2 Corinthians 3:5–8",
+    "Hebrews 3:11",
+    "Hebrews 4:3",
+    "Hebrews 4:5",
+    "Hebrews 3:18",
+    "Hebrews 4:1",
+    "Hebrews 4:4",
+    "Hebrews 4:10",
+    "Revelation 14:13"
+  ],
+  "series": {
+    "name": "Hebrews",
+    "sequence": 8,
+    "legacySeriesLabel": "SER-HEB-008",
+    "id": "BRL-SER-412.001"
+  },
+  "speaker": {
+    "name": "Derek Dodd"
+  },
+  "collection": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "legacyImport": {
+    "isLegacy": true,
+    "originalFilename": "HEBREWS 8 ENTERING THE REST.pptx",
+    "preservedFilename": "HEBREWS 8 ENTERING THE REST.pptx",
+    "sourceLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "sourceStatus": "legacy",
+    "modernizationStatus": "not standardized"
+  },
+  "identityReview": {
+    "required": false,
+    "state": "permanent-id-assigned",
+    "legacySeriesLabel": "SER-HEB-008",
+    "notes": "Explicitly authorized 2026-09-13 under the permanent BRL Sermon ID registry. Historical identity evidence remains preserved."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false,
+    "legacyReviewFlag": false,
+    "sourceContentNote": null
+  },
+  "availability": {
+    "preservedLegacySource": true,
+    "legacySourceFormat": "pptx",
+    "l3Archive": false,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+    "Doctrinal/editorial approval and publication readiness are not established."
+  ],
+  "resources": [
+    {
+      "resourceKey": "legacy-source",
+      "role": "legacy-source",
+      "path": "05-supporting-material/legacy-source/HEBREWS 8 ENTERING THE REST.pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "CF8A76F00BB6E46A5879B88098DA262F114690595840D1F9CFA59B4DA10A91E4",
+      "bytes": 138650,
+      "originalFilename": "HEBREWS 8 ENTERING THE REST.pptx",
+      "libraryFilename": "HEBREWS 8 ENTERING THE REST.pptx",
+      "contentEdited": false
+    },
+    {
+      "resourceKey": "library-metadata",
+      "role": "historical-metadata",
+      "path": "00-metadata/library-source/HEBREWS_8_ENTERING_THE_REST_metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "2AC5421BBD5B253AB76BD0CC96319F0E757677328F2982724E201143C1C491EC",
+      "bytes": 2089,
+      "authoritative": false,
+      "captureMethod": "download"
+    }
+  ],
+  "provenance": {
+    "importedAtUtc": "2026-09-12T19:19:16.9399468Z",
+    "sourceSystem": "ChatGPT Library",
+    "libraryLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "libraryMetadataVersion": null,
+    "metadataPath": "00-metadata/library-source/HEBREWS_8_ENTERING_THE_REST_metadata.json",
+    "librarySourceSha256": null,
+    "sourceHashVerification": "Library metadata supplies no SHA-256; downloaded-file and repository-copy SHA-256 and byte size match.",
+    "downloadedFilename": "HEBREWS 8 ENTERING THE REST.pptx",
+    "preservedFilename": "HEBREWS 8 ENTERING THE REST.pptx",
+    "filenameNote": "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+    "contentEdited": false,
+    "externalArchiveAccessed": false,
+    "importReport": "docs/imports/library-sync-2026-09-12.md",
+    "importReportPathBase": "repository-root",
+    "identityHistory": [
+      {
+        "date": "2026-09-13",
+        "action": "permanent-id-assignment",
+        "previousPermanentId": null,
+        "permanentId": "BRL-SER-412.001.008",
+        "legacyAlias": "SER-HEB-008",
+        "aliasKind": "legacy-series-label",
+        "previousPackagePath": "sermons/draft/hebrews-08-entering-the-rest",
+        "packagePath": "sermons/draft/hebrews-08-entering-the-rest",
+        "registry": "docs/standards/BRL Sermon ID Standard and Registry.md",
+        "report": "docs/imports/permanent-id-migration-2026-09-13.md",
+        "contentEdited": false
+      }
+    ]
+  },
+  "legacyAliases": [
+    "SER-HEB-008"
+  ]
+}

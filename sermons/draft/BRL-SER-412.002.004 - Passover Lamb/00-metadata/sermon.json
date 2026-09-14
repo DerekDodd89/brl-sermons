@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-412.002.004",
+  "title": "Passover Lamb",
+  "slug": "passover-lamb",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Exodus 12"
+  ],
+  "scriptures": [
+    "Exodus 12",
+    "Ezekiel 37:5",
+    "1 Corinthians 15:20-23"
+  ],
+  "series": {
+    "name": "Sitting at the Feet of Rabbi Jesus",
+    "sequence": 4,
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series",
+    "id": "BRL-SER-412.002"
+  },
+  "speaker": {
+    "name": "Derek Dodd"
+  },
+  "collection": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "legacyImport": {
+    "isLegacy": true,
+    "originalFilename": "Passover Lamb (1).pptx",
+    "preservedFilename": "Passover Lamb (1).pptx",
+    "sourceLocation": "ChatGPT Library / BRL / Sermons / RABBI",
+    "sourceStatus": "legacy",
+    "modernizationStatus": "not standardized"
+  },
+  "identityReview": {
+    "required": false,
+    "state": "controlled-id-migration",
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series",
+    "notes": "Explicitly authorized 2026-09-13 under the permanent BRL Sermon ID registry. Historical identity evidence remains preserved."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false,
+    "legacyReviewFlag": false,
+    "sourceContentNote": null
+  },
+  "availability": {
+    "preservedLegacySource": true,
+    "legacySourceFormat": "pptx",
+    "l3Archive": false,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+    "Doctrinal/editorial approval and publication readiness are not established."
+  ],
+  "resources": [
+    {
+      "resourceKey": "legacy-source",
+      "role": "legacy-source",
+      "path": "05-supporting-material/legacy-source/Passover Lamb (1).pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "736E37A18451EF2FCEFA99EADF1044A972282C518EAAF0C7C5E75CA9390A7F1A",
+      "bytes": 650031,
+      "originalFilename": "Passover Lamb (1).pptx",
+      "libraryFilename": "Passover Lamb (1).pptx",
+      "contentEdited": false
+    },
+    {
+      "resourceKey": "library-metadata",
+      "role": "historical-metadata",
+      "path": "00-metadata/library-source/passover-lamb_metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "33EDB9337A5EF9A4F70944DDF3C4DBF9DA79ABC6FBA33BC4E67046CF2A2F2EAE",
+      "bytes": 2297,
+      "authoritative": false,
+      "captureMethod": "download"
+    }
+  ],
+  "provenance": {
+    "importedAtUtc": "2026-09-12T19:19:17.4095636Z",
+    "sourceSystem": "ChatGPT Library",
+    "libraryLocation": "ChatGPT Library / BRL / Sermons / RABBI",
+    "libraryMetadataVersion": null,
+    "metadataPath": "00-metadata/library-source/passover-lamb_metadata.json",
+    "librarySourceSha256": null,
+    "sourceHashVerification": "Library metadata supplies no SHA-256; downloaded-file and repository-copy SHA-256 and byte size match.",
+    "downloadedFilename": "Passover Lamb (1).pptx",
+    "preservedFilename": "Passover Lamb (1).pptx",
+    "filenameNote": "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+    "contentEdited": false,
+    "externalArchiveAccessed": false,
+    "importReport": "docs/imports/library-sync-2026-09-12.md",
+    "importReportPathBase": "repository-root",
+    "identityHistory": [
+      {
+        "date": "2026-09-13",
+        "action": "controlled-id-migration",
+        "previousPermanentId": "SER-RABBI-410.004",
+        "permanentId": "BRL-SER-412.002.004",
+        "legacyAlias": "SER-RABBI-410.004",
+        "aliasKind": "former-permanent-id",
+        "previousPackagePath": "sermons/draft/SER-RABBI-410.004 - Passover Lamb",
+        "packagePath": "sermons/draft/BRL-SER-412.002.004 - Passover Lamb",
+        "registry": "docs/standards/BRL Sermon ID Standard and Registry.md",
+        "report": "docs/imports/permanent-id-migration-2026-09-13.md",
+        "contentEdited": false
+      }
+    ]
+  },
+  "legacyAliases": [
+    "SER-RABBI-410.004"
+  ]
+}

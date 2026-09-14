@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Drifting Away",
+  "series": {
+    "name": "Hebrews",
+    "sequence": 4,
+    "legacySeriesLabel": "SER-HEB-004"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "HEBREWS 4 DRIFTING AWAY.pptx",
+    "format": "pptx",
+    "preserveOriginalFilename": true
+  },
+  "scripture": {
+    "primaryText": "Hebrews 2:1–4",
+    "supportingTexts": [
+      "Hebrews 2:3",
+      "Hebrews 6:12–14",
+      "Hebrews 6:4–6",
+      "Hebrews 10:26–27",
+      "Galatians 6:9",
+      "Revelation 2:4",
+      "1 Corinthians 15:33",
+      "Galatians 5:16–17",
+      "Luke 21:34",
+      "2 Peter 1:10",
+      "Acts 17:11"
+    ]
+  },
+  "legacyContent": {
+    "majorMovements": [
+      "The Exhortation",
+      "The Tides",
+      "Correcting the Course"
+    ],
+    "summary": "A Hebrews 2:1–4 sermon warning Christians against drifting away through neglect and emphasizing that separation from Christ and salvation is possible. It identifies spiritual currents that contribute to drifting and urges greater earnestness toward the teachings that have been heard.",
+    "doctrinalEmphasis": "The sermon explicitly rejects 'once saved always saved' and teaches the possibility of falling away from Christ through neglect or departure.",
+    "driftingCurrents": [
+      "The tide of time",
+      "The tide of familiarity",
+      "The tide of society",
+      "The tide of flesh",
+      "The tide of anxiety"
+    ],
+    "closingResponse": [
+      "Hear the word of God",
+      "Believe that Jesus is the Messiah",
+      "Confess Jesus as Lord",
+      "Repent of sin",
+      "Be baptized into Christ"
+    ]
+  },
+  "brl": {
+    "classification": "Legacy Sermon",
+    "seriesMembershipConfirmed": true,
+    "permanentSermonId": null,
+    "idNote": "SER-HEB-004 is retained as an existing legacy series-planning label; it is not treated here as a newly assigned permanent BRL sermon ID.",
+    "modernizationStatus": "not standardized"
+  },
+  "provenance": {
+    "metadataCreatedFrom": "HEBREWS 4 DRIFTING AWAY.pptx",
+    "createdDate": "2026-09-08",
+    "notes": "Metadata records the legacy source without rewriting or modernizing the sermon."
+  }
+}

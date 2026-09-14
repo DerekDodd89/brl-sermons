@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Sitting at the Feet of Jesus",
+  "subtitle": null,
+  "series": {
+    "name": "Sitting at the Feet of Rabbi Jesus",
+    "sequence": 5,
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "sitting at the feet of Jesus (1).pptx",
+    "format": "pptx",
+    "legacyTitle": "SITTING AT THE FEET OF JESUS"
+  },
+  "scripture": {
+    "primaryText": "Luke 10:38-42",
+    "references": [
+      "Luke 10:38-42",
+      "Mark 2:1-12",
+      "Matthew 5"
+    ]
+  },
+  "sermon": {
+    "centralTheme": "To sit at Jesus' feet is to take the place of a devoted disciple who listens carefully, learns His words, and follows His ways.",
+    "proposition": "Jesus invites people to sit at His feet, learn His ways, and become devoted disciples.",
+    "topics": [
+      "Jesus Christ",
+      "Discipleship",
+      "Rabbi",
+      "Teaching",
+      "Mary of Bethany",
+      "Scribes",
+      "Learning from Jesus"
+    ],
+    "summary": "This legacy sermon explains 'sitting at the feet' as an idiom describing the relationship between a rabbi and student. Using Mary in Luke 10:38-42, the scribes in Mark 2:1-12, and the disciples in Matthew 5, it portrays different hearers gathered near Jesus to learn. The conclusion emphasizes Mary's eagerness to learn, the scribes' careful attention, and the disciples' years of instruction, ending with Jesus' invitation to sit at His feet, learn His ways, and receive cleansing, holiness, and life in Him."
+  },
+  "brl": {
+    "permanentSermonId": "SER-RABBI-410.005",
+    "classification": "410",
+    "seriesCode": "RABBI",
+    "seriesSequence": 5,
+    "badgeWords": [
+      "Biblical",
+      "Reformed",
+      "Life"
+    ],
+    "module": "BRL Sermons"
+  },
+  "provenance": {
+    "classification": "legacy import",
+    "contentBasis": "Metadata extracted from the uploaded legacy PowerPoint. No sermon content was added to the source.",
+    "notes": "Official BRL Sermons ID assigned: SER-RABBI-410.005. This is Sermon 5 in the Sitting at the Feet of Rabbi Jesus legacy sermon series."
+  }
+}

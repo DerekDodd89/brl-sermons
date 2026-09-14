@@ -1,0 +1,114 @@
+{
+    "schemaVersion":  "2.0",
+    "id":  "BRL-SER-411.002",
+    "title":  "First Corinthians — Chapter One",
+    "slug":  "first-corinthians-chapter-one",
+    "status":  "draft",
+    "canonicalVersion":  null,
+    "mainText":  [
+                     "1 Corinthians 1"
+                 ],
+    "scriptures":  [
+                       "1 Corinthians 1"
+                   ],
+    "series":  {
+                   "name":  "First Corinthians",
+                   "sequence":  1
+               },
+    "speaker":  {
+                    "name":  "Josh Hetrick"
+                },
+    "collection":  "Josh Hetrick Legacy Sermons",
+    "originatingBRLs":  [
+
+                        ],
+    "relatedBRLs":  [
+
+                    ],
+    "legacyImport":  {
+                         "isLegacy":  true,
+                         "originalFilename":  "1 Cor_1.docx",
+                         "preservedFilename":  "1 Cor_1.docx",
+                         "sourceLocation":  "ChatGPT Library / BRL Sermons / sermon.json (Version history)",
+                         "sourceStatus":  null,
+                         "modernizationStatus":  "not standardized"
+                     },
+    "identityReview":  {
+                           "required":  false,
+                           "state":  "preserved-library-assignment",
+                           "legacySeriesLabel":  null,
+                           "notes":  "Existing Library assignment preserved verbatim; no ID convention redesigned."
+                       },
+    "review":  {
+                   "state":  "unreviewed",
+                   "reviewer":  null,
+                   "doctrinalApproval":  false,
+                   "editorialApproval":  false,
+                   "publicationReady":  false,
+                   "legacyReviewFlag":  false,
+                   "sourceContentNote":  null
+               },
+    "availability":  {
+                         "preservedLegacySource":  true,
+                         "legacySourceFormat":  "docx",
+                         "l3Archive":  false,
+                         "l2Present":  false,
+                         "l2DurationMinutes":  [
+
+                                               ],
+                         "listenerHandoutPresent":  false,
+                         "listenerHandoutAudiences":  [
+
+                                                      ],
+                         "powerpointPresent":  false,
+                         "powerpointApproved":  false,
+                         "finalPowerpointPresent":  false
+                     },
+    "knownGaps":  [
+                      "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+                      "Doctrinal/editorial approval and publication readiness are not established."
+                  ],
+    "resources":  [
+                      {
+                          "resourceKey":  "legacy-source",
+                          "role":  "legacy-source",
+                          "path":  "05-supporting-material/legacy-source/1 Cor_1.docx",
+                          "format":  "docx",
+                          "version":  null,
+                          "approvalState":  "unreviewed",
+                          "sha256":  "3018AD296379ACA3C4BCA7C8A54C1E5FBC8E5D46AEC35E60444B86815F167129",
+                          "bytes":  30131,
+                          "originalFilename":  "1 Cor_1.docx",
+                          "libraryFilename":  "1%20Cor_1.docx",
+                          "contentEdited":  false
+                      },
+                      {
+                          "resourceKey":  "library-metadata",
+                          "role":  "historical-metadata",
+                          "path":  "00-metadata/library-source/library-version-evidence.json",
+                          "format":  "json",
+                          "version":  null,
+                          "approvalState":  "unreviewed",
+                          "sha256":  "6786003700773B9F2732976B96ACA15C3721A1BA56EC225404C00AA766DD9D5F",
+                          "bytes":  767,
+                          "authoritative":  false,
+                          "captureMethod":  "observed-version-evidence"
+                      }
+                  ],
+    "provenance":  {
+                       "importedAtUtc":  "2026-09-12T19:19:17.6186887Z",
+                       "sourceSystem":  "ChatGPT Library",
+                       "libraryLocation":  "ChatGPT Library / BRL Sermons / sermon.json (Version history)",
+                       "libraryMetadataVersion":  "Sep 10, 6:08AM",
+                       "metadataPath":  "00-metadata/library-source/library-version-evidence.json",
+                       "librarySourceSha256":  "3018ad296379aca3c4bca7c8a54c1e5fbc8e5d46aec35e60444b86815f167129",
+                       "sourceHashVerification":  "Local source SHA-256 matches Library metadata.",
+                       "downloadedFilename":  "1%20Cor_1.docx",
+                       "preservedFilename":  "1 Cor_1.docx",
+                       "filenameNote":  "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+                       "contentEdited":  false,
+                       "externalArchiveAccessed":  false,
+                       "importReport":  "docs/imports/library-sync-2026-09-12.md",
+                       "importReportPathBase":  "repository-root"
+                   }
+}

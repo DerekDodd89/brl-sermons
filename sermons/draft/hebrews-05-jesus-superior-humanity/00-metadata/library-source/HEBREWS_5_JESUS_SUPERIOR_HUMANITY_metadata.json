@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Jesus Superior Humanity",
+  "series": {
+    "name": "Hebrews",
+    "sequence": 5,
+    "legacySeriesLabel": "SER-HEB-005"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "HEBREWS 5 JESUS SUPERIOR HUMANITY.pptx",
+    "format": "pptx",
+    "preserveOriginalFilename": true
+  },
+  "scripture": {
+    "primaryText": "Hebrews 2:5–18",
+    "supportingTexts": [
+      "Genesis 1:26–28",
+      "Psalm 8:4–6",
+      "Hebrews 2:8",
+      "Ephesians 1:20–22",
+      "Ephesians 2:4–6",
+      "John 15",
+      "Revelation 1:18",
+      "Romans 8:37–39",
+      "Philippians 2:21",
+      "Galatians 3:29",
+      "Hebrews 2:16",
+      "Hebrews 5:1",
+      "Hebrews 4:15",
+      "Hebrews 5:2",
+      "Hebrews 4:16"
+    ]
+  },
+  "legacyContent": {
+    "majorMovements": [
+      "Regaining man from a lost dominion",
+      "Bringing sons to the Father",
+      "Conquering death's power",
+      "Being the sympathetic high priest"
+    ],
+    "summary": "A Hebrews 2:5–18 sermon emphasizing the humanity of Christ and His superiority through what He accomplished as a man: regaining man's lost dominion, bringing sons to the Father, conquering death's power, and serving as the sympathetic high priest.",
+    "closingResponse": [
+      "Hear the word of God",
+      "Believe that Jesus is the Messiah",
+      "Confess Jesus as Lord",
+      "Repent of sin",
+      "Be baptized into Christ"
+    ]
+  },
+  "brl": {
+    "classification": "Legacy Sermon",
+    "seriesMembershipConfirmed": true,
+    "permanentSermonId": null,
+    "idNote": "SER-HEB-005 is retained as an existing legacy series-planning label; it is not treated here as a newly assigned permanent BRL sermon ID.",
+    "modernizationStatus": "not standardized"
+  },
+  "provenance": {
+    "metadataCreatedFrom": "HEBREWS 5 JESUS SUPERIOR HUMANITY.pptx",
+    "createdDate": "2026-09-08",
+    "notes": "Metadata records the legacy source without rewriting or modernizing the sermon."
+  }
+}

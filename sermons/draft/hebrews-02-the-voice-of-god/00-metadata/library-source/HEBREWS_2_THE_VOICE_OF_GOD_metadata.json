@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "The Voice of God",
+  "series": {
+    "name": "Hebrews",
+    "sequence": 2,
+    "legacySeriesLabel": "SER-HEB-002"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "HEBREWS 2 THE VOICE OF GOD.pptx",
+    "format": "pptx",
+    "preserveOriginalFilename": true
+  },
+  "scripture": {
+    "primaryText": "Hebrews 1:1–3",
+    "supportingTexts": [
+      "Luke 24:44",
+      "2 Peter 1:21",
+      "Matthew 21:37–39",
+      "John 1:1–3",
+      "John 1:14",
+      "Colossians 2:9",
+      "John 14:9–10"
+    ]
+  },
+  "legacyContent": {
+    "audienceContext": "Jewish Christians being encouraged to remain with the apostles' teaching rather than return to Judaism.",
+    "majorMovements": [
+      "God's voice in times past",
+      "God's voice in these last days",
+      "God has spoken to us by His Son",
+      "God's voice is power",
+      "Christ as the image/revelation of God"
+    ],
+    "summary": "A Hebrews 1:1–3 sermon contrasting God's revelation through the fathers and prophets in times past with His climactic revelation through His Son in the last days, emphasizing Christ as the image and revelation of God.",
+    "closingResponse": [
+      "Hear the word of God",
+      "Believe that Jesus is the Messiah",
+      "Confess Jesus as Lord",
+      "Repent of sin",
+      "Be baptized into Christ"
+    ]
+  },
+  "brl": {
+    "classification": "Legacy Sermon",
+    "seriesMembershipConfirmed": true,
+    "permanentSermonId": null,
+    "idNote": "SER-HEB-002 is retained as an existing legacy series-planning label; it is not treated here as a newly assigned permanent BRL sermon ID.",
+    "modernizationStatus": "not standardized"
+  },
+  "provenance": {
+    "metadataCreatedFrom": "HEBREWS 2 THE VOICE OF GOD.pptx",
+    "createdDate": "2026-09-08",
+    "notes": "Metadata records the legacy source without rewriting or modernizing the sermon."
+  }
+}

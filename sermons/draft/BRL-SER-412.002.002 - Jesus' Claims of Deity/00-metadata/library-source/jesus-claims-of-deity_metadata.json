@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Jesus' Claims of Deity",
+  "subtitle": null,
+  "series": {
+    "name": "Sitting at the Feet of Rabbi Jesus",
+    "sequence": 2,
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "Jesus Claims of Diety (1).pptx",
+    "format": "pptx",
+    "legacyTitle": "Jesus Claims of Diety"
+  },
+  "scripture": {
+    "primaryText": "John 10:14-15",
+    "references": [
+      "Matthew 21:16",
+      "Psalm 23",
+      "John 10:14-15",
+      "Daniel 7:13-14"
+    ]
+  },
+  "sermon": {
+    "centralTheme": "Jesus used Scripture and familiar Old Testament language to reveal His identity, including His claims as the Good Shepherd, the Son of Man, and God.",
+    "proposition": "Jesus' own teaching and use of Old Testament Scripture reveal His divine identity.",
+    "topics": [
+      "Jesus Christ",
+      "Deity of Christ",
+      "Rabbinic Teaching",
+      "Old Testament",
+      "Good Shepherd",
+      "Son of Man"
+    ],
+    "summary": "This legacy sermon examines Jesus' rabbinic style of teaching through Scripture and His claims concerning His identity. It highlights Matthew 21:16, Jesus as the Good Shepherd in John 10:14-15 in connection with Psalm 23, and the Son of Man language of Daniel 7:13-14. The sermon concludes that Jesus taught from Old Testament Scripture and identified Himself as the Good Shepherd, the Son of Man, and God, followed by a six-step salvation invitation."
+  },
+  "brl": {
+    "permanentSermonId": "SER-RABBI-410.002",
+    "classification": "410",
+    "seriesCode": "RABBI",
+    "seriesSequence": 2,
+    "badgeWords": [
+      "Biblical",
+      "Reformed",
+      "Life"
+    ],
+    "module": "BRL Sermons"
+  },
+  "provenance": {
+    "classification": "legacy import",
+    "contentBasis": "Metadata extracted from the uploaded legacy PowerPoint. No sermon content was added to the source.",
+    "notes": "Official BRL Sermons ID assigned: SER-RABBI-410.002. This is Sermon 2 in the Sitting at the Feet of Rabbi Jesus legacy sermon series."
+  }
+}

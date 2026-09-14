@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Passover Lamb",
+  "subtitle": null,
+  "series": {
+    "name": "Sitting at the Feet of Rabbi Jesus",
+    "sequence": 4,
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "Passover Lamb (1).pptx",
+    "format": "pptx",
+    "legacyTitle": "Passover Lamb"
+  },
+  "scripture": {
+    "primaryText": "Exodus 12",
+    "references": [
+      "Exodus 12",
+      "Ezekiel 37:5",
+      "1 Corinthians 15:20-23"
+    ]
+  },
+  "sermon": {
+    "centralTheme": "The Passover and its associated feasts illuminate Jesus as the Passover Lamb sacrificed for sin, the unleavened bread that sustains His people, and the firstfruits from the dead.",
+    "proposition": "Jesus fulfills the redemptive imagery of Passover as the sacrificed Lamb, sustaining unleavened bread, and firstfruits from the dead.",
+    "topics": [
+      "Jesus Christ",
+      "Passover",
+      "Passover Lamb",
+      "Lord's Supper",
+      "Unleavened Bread",
+      "Firstfruits",
+      "Resurrection",
+      "Messianic Prophecy"
+    ],
+    "summary": "This legacy sermon examines the first Passover of Exodus 12 and first-century Passover practices as background to Jesus' final night with His disciples. It discusses the Passover meal, the Feast of Unleavened Bread and its relationship to the bread of the Lord's Supper, and the Feast of Firstfruits in connection with resurrection imagery and 1 Corinthians 15:20-23. The sermon concludes by presenting Jesus as the Passover Lamb sacrificed for sins, the unleavened bread that sustains His people, and the firstfruit from the dead."
+  },
+  "brl": {
+    "permanentSermonId": "SER-RABBI-410.004",
+    "classification": "410",
+    "seriesCode": "RABBI",
+    "seriesSequence": 4,
+    "badgeWords": [
+      "Biblical",
+      "Reformed",
+      "Life"
+    ],
+    "module": "BRL Sermons"
+  },
+  "provenance": {
+    "classification": "legacy import",
+    "contentBasis": "Metadata extracted from the uploaded legacy PowerPoint. No sermon content was added to the source.",
+    "notes": "Official BRL Sermons ID assigned: SER-RABBI-410.004. This is Sermon 4 in the Sitting at the Feet of Rabbi Jesus legacy sermon series."
+  }
+}

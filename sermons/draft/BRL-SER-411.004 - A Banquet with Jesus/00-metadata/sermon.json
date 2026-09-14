@@ -1,0 +1,112 @@
+{
+    "schemaVersion":  "2.0",
+    "id":  "BRL-SER-411.004",
+    "title":  "A Banquet with Jesus",
+    "slug":  "a-banquet-with-jesus",
+    "status":  "draft",
+    "canonicalVersion":  null,
+    "mainText":  [
+                     "Luke 14:15-24"
+                 ],
+    "scriptures":  [
+                       "Luke 14:15-24",
+                       "Deuteronomy 20:5-9"
+                   ],
+    "series":  null,
+    "speaker":  {
+                    "name":  "Josh Hetrick"
+                },
+    "collection":  "Josh Hetrick Legacy Sermons",
+    "originatingBRLs":  [
+
+                        ],
+    "relatedBRLs":  [
+
+                    ],
+    "legacyImport":  {
+                         "isLegacy":  true,
+                         "originalFilename":  "A BANQUET WITH JESUS.docx",
+                         "preservedFilename":  "A BANQUET WITH JESUS.docx",
+                         "sourceLocation":  "ChatGPT Library / BRL Sermons / sermon.json (Version history)",
+                         "sourceStatus":  "legacy-import",
+                         "modernizationStatus":  "not standardized"
+                     },
+    "identityReview":  {
+                           "required":  false,
+                           "state":  "preserved-library-assignment",
+                           "legacySeriesLabel":  null,
+                           "notes":  "Existing Library assignment preserved verbatim; no ID convention redesigned."
+                       },
+    "review":  {
+                   "state":  "unreviewed",
+                   "reviewer":  null,
+                   "doctrinalApproval":  false,
+                   "editorialApproval":  false,
+                   "publicationReady":  false,
+                   "legacyReviewFlag":  false,
+                   "sourceContentNote":  null
+               },
+    "availability":  {
+                         "preservedLegacySource":  true,
+                         "legacySourceFormat":  "docx",
+                         "l3Archive":  false,
+                         "l2Present":  false,
+                         "l2DurationMinutes":  [
+
+                                               ],
+                         "listenerHandoutPresent":  false,
+                         "listenerHandoutAudiences":  [
+
+                                                      ],
+                         "powerpointPresent":  false,
+                         "powerpointApproved":  false,
+                         "finalPowerpointPresent":  false
+                     },
+    "knownGaps":  [
+                      "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+                      "Doctrinal/editorial approval and publication readiness are not established."
+                  ],
+    "resources":  [
+                      {
+                          "resourceKey":  "legacy-source",
+                          "role":  "legacy-source",
+                          "path":  "05-supporting-material/legacy-source/A BANQUET WITH JESUS.docx",
+                          "format":  "docx",
+                          "version":  null,
+                          "approvalState":  "unreviewed",
+                          "sha256":  "BF5B75C4FEB99F7DCA39C9E9F2FD0B87C4B751A44BBCD8E76F4273A6745CCB72",
+                          "bytes":  14921,
+                          "originalFilename":  "A BANQUET WITH JESUS.docx",
+                          "libraryFilename":  "A%20BANQUET%20WITH%20JESUS.docx",
+                          "contentEdited":  false
+                      },
+                      {
+                          "resourceKey":  "library-metadata",
+                          "role":  "historical-metadata",
+                          "path":  "00-metadata/library-source/sermon.json",
+                          "format":  "json",
+                          "version":  null,
+                          "approvalState":  "unreviewed",
+                          "sha256":  "51F272C901B6D8DE04018AD41925603D4FC19B6DAEEC138950600F81BCB74AFF",
+                          "bytes":  1870,
+                          "authoritative":  false,
+                          "captureMethod":  "download"
+                      }
+                  ],
+    "provenance":  {
+                       "importedAtUtc":  "2026-09-12T19:19:17.8176931Z",
+                       "sourceSystem":  "ChatGPT Library",
+                       "libraryLocation":  "ChatGPT Library / BRL Sermons / sermon.json (Version history)",
+                       "libraryMetadataVersion":  "Sep 10, 9:13PM",
+                       "metadataPath":  "00-metadata/library-source/sermon.json",
+                       "librarySourceSha256":  "bf5b75c4feb99f7dca39c9e9f2fd0b87c4b751a44bbcd8e76f4273a6745ccb72",
+                       "sourceHashVerification":  "Local source SHA-256 matches Library metadata.",
+                       "downloadedFilename":  "A%20BANQUET%20WITH%20JESUS.docx",
+                       "preservedFilename":  "A BANQUET WITH JESUS.docx",
+                       "filenameNote":  "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+                       "contentEdited":  false,
+                       "externalArchiveAccessed":  false,
+                       "importReport":  "docs/imports/library-sync-2026-09-12.md",
+                       "importReportPathBase":  "repository-root"
+                   }
+}

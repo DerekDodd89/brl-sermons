@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Blessing Life",
+  "subtitle": null,
+  "series": {
+    "name": "Sitting at the Feet of Rabbi Jesus",
+    "sequence": 1,
+    "legacySeriesLabel": "Rabbi Jesus Legacy Sermon Series"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "blessing life (1).pptx",
+    "format": "pptx",
+    "legacyTitle": "BLESSING LIFE"
+  },
+  "scripture": {
+    "primaryText": "Matthew 5:1-12",
+    "references": [
+      "Deuteronomy 8:10",
+      "Deuteronomy 8:13-15",
+      "1 Thessalonians 5:17",
+      "Philippians 4:6",
+      "James 5:13-14",
+      "Matthew 14:9",
+      "Matthew 9:8",
+      "Luke 17:12-19"
+    ]
+  },
+  "sermon": {
+    "centralTheme": "A life saturated with prayer and blessing develops gratitude, a positive attitude, and thoughtful awareness of God.",
+    "proposition": "Life must be saturated with prayer.",
+    "topics": [
+      "Prayer",
+      "Blessing",
+      "Gratitude",
+      "Christian Attitude",
+      "Jesus",
+      "Gospels"
+    ],
+    "summary": "The sermon calls Christians to saturate daily life with prayer. It connects blessing God for His gifts, remembering God in prosperity, praying without ceasing, Jesus' and others' blessings in the Gospels, and the attitudes of gratitude, positivity, and thoughtfulness produced by a prayerful life."
+  },
+  "brl": {
+    "permanentSermonId": "SER-RABBI-410.001",
+    "badgeWords": [
+      "Biblical",
+      "Reformed",
+      "Life"
+    ],
+    "module": "BRL Sermons",
+    "classification": "410",
+    "seriesCode": "RABBI",
+    "seriesSequence": 1
+  },
+  "provenance": {
+    "classification": "legacy import",
+    "contentBasis": "Metadata extracted from the uploaded legacy PowerPoint. No sermon content was added to the source.",
+    "notes": "Official BRL Sermons ID assigned: SER-RABBI-410.001. This is Sermon 1 in the Sitting at the Feet of Rabbi Jesus legacy sermon series."
+  }
+}

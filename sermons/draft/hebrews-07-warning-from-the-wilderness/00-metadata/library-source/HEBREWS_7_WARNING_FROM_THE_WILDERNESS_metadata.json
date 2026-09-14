@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "resourceType": "legacy-sermon",
+  "title": "Warning from the Wilderness",
+  "series": {
+    "name": "Hebrews",
+    "sequence": 7,
+    "legacySeriesLabel": "SER-HEB-007"
+  },
+  "speaker": "Derek Dodd",
+  "status": "legacy",
+  "source": {
+    "originalFilename": "HEBREWS 7 WARNINGS FROM THE WILDERNESS.pptx",
+    "format": "pptx",
+    "preserveOriginalFilename": true
+  },
+  "scripture": {
+    "primaryText": "Hebrews 3:7–19",
+    "supportingTexts": [
+      "Hebrews 3:6",
+      "Ephesians 2:11–22",
+      "Psalm 95:7–11",
+      "Numbers 20:1–13",
+      "Psalm 106:13–20",
+      "1 John 2:17",
+      "Hebrews 10:24–25",
+      "John 8",
+      "John 25"
+    ]
+  },
+  "legacyContent": {
+    "majorMovements": [
+      "Israel Hardened Their Hearts",
+      "Danger in Departing",
+      "Back to the Wilderness"
+    ],
+    "summary": "A Hebrews 3:7–19 sermon presenting the wilderness generation as a warning to Christians. Israel hardened their hearts and failed to enter the promised rest because they did not trust God to the end. Christians are warned to beware of hardened hearts, exhort one another daily, abide in Christ, and hold fast.",
+    "warningSequence": 2,
+    "keyEmphasis": "The wilderness generation is an example of what Christians must not do; continued faithfulness and holding fast are presented as necessary.",
+    "closingResponse": [
+      "Hear the word of God",
+      "Believe that Jesus is the Messiah",
+      "Confess Jesus as Lord",
+      "Repent of sin",
+      "Be baptized into Christ"
+    ]
+  },
+  "brl": {
+    "classification": "Legacy Sermon",
+    "seriesMembershipConfirmed": true,
+    "permanentSermonId": null,
+    "idNote": "SER-HEB-007 is retained as an existing legacy series-planning label; it is not treated here as a newly assigned permanent BRL sermon ID.",
+    "modernizationStatus": "not standardized"
+  },
+  "provenance": {
+    "metadataCreatedFrom": "HEBREWS 7 WARNINGS FROM THE WILDERNESS.pptx",
+    "createdDate": "2026-09-08",
+    "notes": "Metadata records the legacy source without rewriting or modernizing the sermon."
+  }
+}

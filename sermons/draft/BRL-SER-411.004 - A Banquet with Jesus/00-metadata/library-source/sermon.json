@@ -1,0 +1,51 @@
+{
+  "brl_id": "BRL-SER-411.004",
+  "title": "A Banquet with Jesus",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "Luke 14:15-24",
+  "supporting_texts": [
+    "Deuteronomy 20:5-9"
+  ],
+  "historical_source": "Babylonian Talmud, Shabbat fol. 153a; R. Yohanan b. Zakkai banquet comparison",
+  "source_content": {
+    "luke_14_15_24": "The great supper and the excuses of those invited; the poor, maimed, halt, blind, and those from highways and hedges are brought in.",
+    "deuteronomy_20_5_9": "Exemptions from battle involving a new house, vineyard, betrothed wife, and the fearful/fainthearted.",
+    "rabbinic_parallel": "A king invites courtiers to a banquet without setting a time; the prepared are welcomed while the unprepared are rebuked."
+  },
+  "key_topics": [
+    "Jesus Christ",
+    "Great Banquet",
+    "Kingdom of God",
+    "Invitation",
+    "Excuses",
+    "Preparedness",
+    "Discipleship",
+    "Judgment",
+    "Rabbinic background"
+  ],
+  "legacy_source": {
+    "original_filename": "A BANQUET WITH JESUS.docx",
+    "preserved_filename": "A BANQUET WITH JESUS.docx",
+    "format": "docx",
+    "sha256": "bf5b75c4feb99f7dca39c9e9f2fd0b87c4b751a44bbcd8e76f4273a6745ccb72",
+    "content_preservation": "Original legacy sermon/source document preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "A BANQUET WITH JESUS.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-10",
+    "notes": "Imported as sermon 4 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection. Metadata reflects only material present in the legacy source."
+  }
+}

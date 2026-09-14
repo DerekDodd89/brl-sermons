@@ -1,0 +1,111 @@
+{
+    "schemaVersion":  "2.0",
+    "id":  "BRL-SER-411.003",
+    "title":  "Are You Watching and Seeking Jesus?",
+    "slug":  "are-you-watching-and-seeking-jesus",
+    "status":  "draft",
+    "canonicalVersion":  null,
+    "mainText":  [
+                     "Matthew 27:55-56"
+                 ],
+    "scriptures":  [
+                       "Matthew 27:55-56"
+                   ],
+    "series":  null,
+    "speaker":  {
+                    "name":  "Josh Hetrick"
+                },
+    "collection":  "Josh Hetrick Legacy Sermons",
+    "originatingBRLs":  [
+
+                        ],
+    "relatedBRLs":  [
+
+                    ],
+    "legacyImport":  {
+                         "isLegacy":  true,
+                         "originalFilename":  "ARE YOU WATCHING AND SEEKING JESUS_2.docx",
+                         "preservedFilename":  "ARE YOU WATCHING AND SEEKING JESUS.docx",
+                         "sourceLocation":  "ChatGPT Library / BRL Sermons / sermon.json (Version history)",
+                         "sourceStatus":  null,
+                         "modernizationStatus":  "not standardized"
+                     },
+    "identityReview":  {
+                           "required":  false,
+                           "state":  "preserved-library-assignment",
+                           "legacySeriesLabel":  null,
+                           "notes":  "Existing Library assignment preserved verbatim; no ID convention redesigned."
+                       },
+    "review":  {
+                   "state":  "unreviewed",
+                   "reviewer":  null,
+                   "doctrinalApproval":  false,
+                   "editorialApproval":  false,
+                   "publicationReady":  false,
+                   "legacyReviewFlag":  false,
+                   "sourceContentNote":  null
+               },
+    "availability":  {
+                         "preservedLegacySource":  true,
+                         "legacySourceFormat":  "docx",
+                         "l3Archive":  false,
+                         "l2Present":  false,
+                         "l2DurationMinutes":  [
+
+                                               ],
+                         "listenerHandoutPresent":  false,
+                         "listenerHandoutAudiences":  [
+
+                                                      ],
+                         "powerpointPresent":  false,
+                         "powerpointApproved":  false,
+                         "finalPowerpointPresent":  false
+                     },
+    "knownGaps":  [
+                      "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+                      "Doctrinal/editorial approval and publication readiness are not established."
+                  ],
+    "resources":  [
+                      {
+                          "resourceKey":  "legacy-source",
+                          "role":  "legacy-source",
+                          "path":  "05-supporting-material/legacy-source/ARE YOU WATCHING AND SEEKING JESUS.docx",
+                          "format":  "docx",
+                          "version":  null,
+                          "approvalState":  "unreviewed",
+                          "sha256":  "CC504C3942A326045F80694AC8D7250C13DE7B7E8C8902DC92624C9A8DDBA208",
+                          "bytes":  18865,
+                          "originalFilename":  "ARE YOU WATCHING AND SEEKING JESUS_2.docx",
+                          "libraryFilename":  "ARE%20YOU%20WATCHING%20AND%20SEEKING%20JESUS.docx",
+                          "contentEdited":  false
+                      },
+                      {
+                          "resourceKey":  "library-metadata",
+                          "role":  "historical-metadata",
+                          "path":  "00-metadata/library-source/library-version-evidence.json",
+                          "format":  "json",
+                          "version":  null,
+                          "approvalState":  "unreviewed",
+                          "sha256":  "206EE096EE7E08FC98DC7820F8EC3F759DCEB5C00F53901CE9A5CB2DB775644B",
+                          "bytes":  826,
+                          "authoritative":  false,
+                          "captureMethod":  "observed-version-evidence"
+                      }
+                  ],
+    "provenance":  {
+                       "importedAtUtc":  "2026-09-12T19:19:17.6966909Z",
+                       "sourceSystem":  "ChatGPT Library",
+                       "libraryLocation":  "ChatGPT Library / BRL Sermons / sermon.json (Version history)",
+                       "libraryMetadataVersion":  "Sep 10, 9:12PM",
+                       "metadataPath":  "00-metadata/library-source/library-version-evidence.json",
+                       "librarySourceSha256":  "cc504c3942a326045f80694ac8d7250c13de7b7e8c8902dc92624c9a8ddba208",
+                       "sourceHashVerification":  "Local source SHA-256 matches Library metadata.",
+                       "downloadedFilename":  "ARE%20YOU%20WATCHING%20AND%20SEEKING%20JESUS.docx",
+                       "preservedFilename":  "ARE YOU WATCHING AND SEEKING JESUS.docx",
+                       "filenameNote":  "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+                       "contentEdited":  false,
+                       "externalArchiveAccessed":  false,
+                       "importReport":  "docs/imports/library-sync-2026-09-12.md",
+                       "importReportPathBase":  "repository-root"
+                   }
+}

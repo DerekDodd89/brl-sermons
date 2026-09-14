@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-412.001.003",
+  "title": "Jesus Superior to the Angels",
+  "slug": "jesus-superior-to-the-angels",
+  "status": "draft",
+  "canonicalVersion": null,
+  "mainText": [
+    "Hebrews 1:4–14"
+  ],
+  "scriptures": [
+    "Hebrews 1:4–14",
+    "Acts 7:53",
+    "Galatians 3:19",
+    "Psalm 2:7",
+    "2 Samuel 7:14",
+    "Exodus 4:22",
+    "Psalm 89:20, 27",
+    "Colossians 1:15–18",
+    "Deuteronomy 32:43",
+    "Revelation 22:8–9",
+    "Acts 10:25–26",
+    "Matthew 2:11",
+    "Matthew 8:2",
+    "Matthew 9:18",
+    "Matthew 14:33",
+    "Matthew 15:25",
+    "Matthew 28:9, 17",
+    "Luke 24:52",
+    "Daniel 2:44",
+    "Daniel 7:13–14",
+    "Luke 1:33",
+    "Colossians 1:13",
+    "Revelation 1:9",
+    "John 1:3",
+    "Colossians 1:16–17",
+    "Hebrews 1:2",
+    "2 Peter 3:10–12",
+    "Hebrews 13:8"
+  ],
+  "series": {
+    "name": "Hebrews",
+    "sequence": 3,
+    "legacySeriesLabel": "SER-HEB-003",
+    "id": "BRL-SER-412.001"
+  },
+  "speaker": {
+    "name": "Derek Dodd"
+  },
+  "collection": null,
+  "originatingBRLs": [],
+  "relatedBRLs": [],
+  "legacyImport": {
+    "isLegacy": true,
+    "originalFilename": "HEBREWS 3 JESUS SUPERIOR THAN THE ANGELS.pptx",
+    "preservedFilename": "HEBREWS 3 JESUS SUPERIOR THAN THE ANGELS.pptx",
+    "sourceLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "sourceStatus": "legacy",
+    "modernizationStatus": "not standardized"
+  },
+  "identityReview": {
+    "required": false,
+    "state": "permanent-id-assigned",
+    "legacySeriesLabel": "SER-HEB-003",
+    "notes": "Explicitly authorized 2026-09-13 under the permanent BRL Sermon ID registry. Historical identity evidence remains preserved."
+  },
+  "review": {
+    "state": "unreviewed",
+    "reviewer": null,
+    "doctrinalApproval": false,
+    "editorialApproval": false,
+    "publicationReady": false,
+    "legacyReviewFlag": false,
+    "sourceContentNote": null
+  },
+  "availability": {
+    "preservedLegacySource": true,
+    "legacySourceFormat": "pptx",
+    "l3Archive": false,
+    "l2Present": false,
+    "l2DurationMinutes": [],
+    "listenerHandoutPresent": false,
+    "listenerHandoutAudiences": [],
+    "powerpointPresent": true,
+    "powerpointApproved": false,
+    "finalPowerpointPresent": false
+  },
+  "knownGaps": [
+    "No modern L3 archive, timed L2 outlines, approved final presentation, or listener handouts are established by this import.",
+    "Doctrinal/editorial approval and publication readiness are not established."
+  ],
+  "resources": [
+    {
+      "resourceKey": "legacy-source",
+      "role": "legacy-source",
+      "path": "05-supporting-material/legacy-source/HEBREWS 3 JESUS SUPERIOR THAN THE ANGELS.pptx",
+      "format": "pptx",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "9D1EE67E6487D05AB5522D2A2C8A1E62BA0D9E046ACE905D03600C21BE29A208",
+      "bytes": 275707,
+      "originalFilename": "HEBREWS 3 JESUS SUPERIOR THAN THE ANGELS.pptx",
+      "libraryFilename": "HEBREWS 3 JESUS SUPERIOR THAN THE ANGELS.pptx",
+      "contentEdited": false
+    },
+    {
+      "resourceKey": "library-metadata",
+      "role": "historical-metadata",
+      "path": "00-metadata/library-source/HEBREWS_3_JESUS_SUPERIOR_THAN_THE_ANGELS_metadata.json",
+      "format": "json",
+      "version": null,
+      "approvalState": "unreviewed",
+      "sha256": "92ADDF9483E8FF03D8DD7F10BDE107B537C3589858E8D59D72E257578B023434",
+      "bytes": 2304,
+      "authoritative": false,
+      "captureMethod": "download"
+    }
+  ],
+  "provenance": {
+    "importedAtUtc": "2026-09-12T19:19:16.3689096Z",
+    "sourceSystem": "ChatGPT Library",
+    "libraryLocation": "ChatGPT Library / BRL / Sermons / Hebrews",
+    "libraryMetadataVersion": null,
+    "metadataPath": "00-metadata/library-source/HEBREWS_3_JESUS_SUPERIOR_THAN_THE_ANGELS_metadata.json",
+    "librarySourceSha256": null,
+    "sourceHashVerification": "Library metadata supplies no SHA-256; downloaded-file and repository-copy SHA-256 and byte size match.",
+    "downloadedFilename": "HEBREWS 3 JESUS SUPERIOR THAN THE ANGELS.pptx",
+    "preservedFilename": "HEBREWS 3 JESUS SUPERIOR THAN THE ANGELS.pptx",
+    "filenameNote": "Metadata-prescribed source filename retained; URL-encoded download names decoded only where metadata specifies the preserved filename.",
+    "contentEdited": false,
+    "externalArchiveAccessed": false,
+    "importReport": "docs/imports/library-sync-2026-09-12.md",
+    "importReportPathBase": "repository-root",
+    "identityHistory": [
+      {
+        "date": "2026-09-13",
+        "action": "permanent-id-assignment",
+        "previousPermanentId": null,
+        "permanentId": "BRL-SER-412.001.003",
+        "legacyAlias": "SER-HEB-003",
+        "aliasKind": "legacy-series-label",
+        "previousPackagePath": "sermons/draft/hebrews-03-jesus-superior-to-the-angels",
+        "packagePath": "sermons/draft/hebrews-03-jesus-superior-to-the-angels",
+        "registry": "docs/standards/BRL Sermon ID Standard and Registry.md",
+        "report": "docs/imports/permanent-id-migration-2026-09-13.md",
+        "contentEdited": false
+      }
+    ]
+  },
+  "legacyAliases": [
+    "SER-HEB-003"
+  ]
+}
