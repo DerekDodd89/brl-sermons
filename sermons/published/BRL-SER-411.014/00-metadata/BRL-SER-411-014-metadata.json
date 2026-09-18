@@ -1,0 +1,81 @@
+{
+  "brl_id": "BRL-SER-411.014",
+  "title": "Healing at the Pool of Bethesda",
+  "legacy_title": "Healing at the Pool of Bethesda",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "John 5:1-17",
+  "theme": "Jesus' healing at Bethesda contrasts His compassion with human apathy and confirms His divine authority.",
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "At the Pool of Bethesda We See an Unrealized Cure"
+    },
+    {
+      "section": "II",
+      "title": "At the Pool of Bethesda We See an Unabashed Command"
+    },
+    {
+      "section": "III",
+      "title": "At the Pool of Bethesda We See an Unjustified Criticism"
+    },
+    {
+      "section": "IV",
+      "title": "At the Pool of Bethesda We See an Unapologetic Confirmation"
+    }
+  ],
+  "key_topics": [
+    "Jesus Christ",
+    "Pool of Bethesda",
+    "Healing",
+    "Compassion",
+    "Apathy",
+    "Sabbath",
+    "Miracles",
+    "Divinity of Christ",
+    "Faith",
+    "Obedience",
+    "Criticism"
+  ],
+  "scripture_references": [
+    "John 5:1-17",
+    "John 8:24",
+    "Colossians 4:5",
+    "Luke 18:27",
+    "Matthew 6:8",
+    "1 Peter 3:8",
+    "Matthew 7:1-5",
+    "Psalm 34:18",
+    "Romans 12:15",
+    "2 Corinthians 13:5",
+    "Mark 3:4",
+    "Matthew 12:8,11-12",
+    "Mark 2:27",
+    "1 John 5:3",
+    "Romans 1:16"
+  ],
+  "legacy_source": {
+    "original_filename": "healing at the pool .docx",
+    "preserved_filename": "healing at the pool .docx",
+    "format": "docx",
+    "sha256": "2e40993b568306dd92c4fa74dca4ab5db2a465e5350fb9d69869924c2d6fb636",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "healing at the pool .docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 14 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

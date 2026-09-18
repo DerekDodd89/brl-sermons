@@ -1,0 +1,72 @@
+{
+  "brl_id": "BRL-SER-411.012",
+  "title": "Five Points of the Star of Jacob",
+  "legacy_title": "FIVE POINTS OF THE STAR OF JACOB",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "Numbers 24:17",
+  "theme": "The Star out of Jacob points to Christ through His kingship, brightness, guidance, wonder, and glory.",
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "A Symbol of His Kingship"
+    },
+    {
+      "section": "II",
+      "title": "A Sample of His Brightness"
+    },
+    {
+      "section": "III",
+      "title": "A Source of His Guidance"
+    },
+    {
+      "section": "IV",
+      "title": "A Substance of His Wonder"
+    },
+    {
+      "section": "V",
+      "title": "A Signal of His Glory"
+    }
+  ],
+  "key_topics": [
+    "Jesus Christ",
+    "Star of Jacob",
+    "Numbers 24:17",
+    "Messianic prophecy",
+    "Kingship of Christ",
+    "Light",
+    "Guidance",
+    "Star of Bethlehem",
+    "Glory of Christ",
+    "Nativity"
+  ],
+  "notable_sources": [
+    "Charles H. Spurgeon, The Star out of Jacob",
+    "Bible Truths Illustrated, J. C. Ferdinand",
+    "Today in the Word, November 26, 1991"
+  ],
+  "legacy_source": {
+    "original_filename": "five points of the star of jacob.docx",
+    "preserved_filename": "five points of the star of jacob.docx",
+    "format": "docx",
+    "sha256": "6c5060c65e895cf38bc6e4bed9df489c3ee799c2e472f7277d9cf9bdb501bf3b",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "five points of the star of jacob.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 12 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

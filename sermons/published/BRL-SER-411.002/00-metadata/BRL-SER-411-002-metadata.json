@@ -1,0 +1,69 @@
+{
+  "brl_id": "BRL-SER-411.002",
+  "title": "First Corinthians \u2014 Chapter One",
+  "legacy_title": "First Corinthians Chapter One",
+  "series": "First Corinthians",
+  "series_position": 1,
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "legacy_date": 2009,
+  "primary_text": "1 Corinthians 1",
+  "scope": "1 Corinthians 1:1-31",
+  "major_sections": [
+    {
+      "section": "Introduction",
+      "focus": "Background, purpose, importance, and major issues of First Corinthians"
+    },
+    {
+      "section": "I",
+      "title": "Paul's Introduction to the Epistle",
+      "text": "1 Corinthians 1:1-9"
+    },
+    {
+      "section": "II",
+      "title": "Partisan Divisions",
+      "text": "1 Corinthians 1:10-17"
+    },
+    {
+      "section": "III",
+      "title": "Power of God's Wisdom",
+      "text": "1 Corinthians 1:18-31"
+    }
+  ],
+  "key_topics": [
+    "First Corinthians",
+    "Corinth",
+    "Paul's apostleship",
+    "Church unity",
+    "Partisan division",
+    "Spiritual gifts",
+    "Sanctification",
+    "The cross",
+    "Wisdom of God",
+    "Preaching"
+  ],
+  "legacy_source": {
+    "original_filename": "1 Cor_1.docx",
+    "preserved_filename": "1 Cor_1.docx",
+    "format": "docx",
+    "sha256": "3018ad296379aca3c4bca7c8a54c1e5fbc8e5d46aec35e60444b86815f167129",
+    "content_preservation": "Original legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "1 Cor_1.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-10",
+    "notes": "Imported as sermon 2 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

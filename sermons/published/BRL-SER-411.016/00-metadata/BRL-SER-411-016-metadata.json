@@ -1,0 +1,73 @@
+{
+  "brl_id": "BRL-SER-411.016",
+  "title": "Jesus, the Good Shepherd of Your Souls",
+  "legacy_title": "JESUS, THE GOOD SHEPHERD OF YOUR SOULS",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "scripture_reading": "Ezekiel 34:31",
+  "primary_texts": [
+    "John 10:4-7",
+    "Ezekiel 34:11-12",
+    "Matthew 25:32-46",
+    "1 Peter 2:24-25"
+  ],
+  "theme": "Jesus is the Good Shepherd who provides for, protects, searches for, and ultimately separates the souls entrusted to Him.",
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "The Good Shepherd Provides"
+    },
+    {
+      "section": "II",
+      "title": "The Good Shepherd Protects"
+    },
+    {
+      "section": "III",
+      "title": "The Good Shepherd Searches"
+    },
+    {
+      "section": "IV",
+      "title": "The Good Shepherd Separates"
+    }
+  ],
+  "key_topics": [
+    "Jesus Christ",
+    "Good Shepherd",
+    "Shepherd of souls",
+    "Sheep",
+    "Awassi sheep",
+    "Bedouin shepherding",
+    "Provision",
+    "Protection",
+    "Lost sheep",
+    "Salvation",
+    "Judgment",
+    "Sheep and goats",
+    "Eternal life"
+  ],
+  "media_notes": "Legacy outline contains PowerPoint picture/video cues and references an Expedition Bible YouTube video titled 'Jesus, the Soul Shepherd.' No PowerPoint or media files were included with this import.",
+  "legacy_source": {
+    "original_filename": "Jesus, The Good Shepherd of your Souls FINAL.docx",
+    "preserved_filename": "Jesus, The Good Shepherd of your Souls FINAL.docx",
+    "format": "docx",
+    "sha256": "7bf90422d42cfeb501ba3855adf6949fc86e3396ddd9a513760471bc3f58b329",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "Jesus, The Good Shepherd of your Souls FINAL.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 16 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

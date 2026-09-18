@@ -1,0 +1,62 @@
+{
+  "brl_id": "BRL-SER-411.006",
+  "title": "Beneath the Cross",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "Mark 15:39",
+  "thesis": "We cannot understand the depth of sin until we stand beneath the cross of Jesus.",
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "Beneath the Cross of Christ We See the Horribleness of Sin"
+    },
+    {
+      "section": "II",
+      "title": "Beneath the Cross of Christ We See the Helplessness of the Soul"
+    },
+    {
+      "section": "III",
+      "title": "Beneath the Cross of Christ We See the Humanity of the Savior"
+    }
+  ],
+  "scripture_references": [
+    "Mark 15:39",
+    "1 Peter 3:18",
+    "Mark 10:45",
+    "Hebrews 5:8"
+  ],
+  "key_topics": [
+    "Cross of Christ",
+    "Sin",
+    "Atonement",
+    "Substitution",
+    "Salvation",
+    "Human helplessness",
+    "Humanity of Christ",
+    "Suffering of Christ"
+  ],
+  "legacy_source": {
+    "original_filename": "Beneath the cross.docx",
+    "preserved_filename": "Beneath the cross.docx",
+    "format": "docx",
+    "sha256": "2106bd8b6e03c58329e04c3945fcb58e0917b246aa97e1dbc8a9da174f1dd975",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "Beneath the cross.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 6 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

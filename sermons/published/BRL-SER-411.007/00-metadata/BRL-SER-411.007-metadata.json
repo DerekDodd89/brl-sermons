@@ -1,0 +1,76 @@
+﻿{
+    "schemaVersion":  "2.0",
+    "id":  "BRL-SER-411.007",
+    "slug":  "christ-in-the-home",
+    "title":  "Christ in the Home",
+    "status":  "published",
+    "speaker":  {
+                    "name":  "Josh Hetrick"
+                },
+    "series":  {
+                   "name":  "Josh Hetrick Legacy Sermons",
+                   "sequence":  7
+               },
+    "mainText":  [
+                     "Mark 2:1"
+                 ],
+    "sermonType":  {
+                       "primary":  "Topical"
+                   },
+    "theme":  "The presence and influence of Christ in the home.",
+    "proposition":  "The presence of Christ in the home produces fellowship, faith, forgiveness, proper attitudes, and spiritual fullness.",
+    "sermonQuestion":  "What happens when Christ is truly present in the home?",
+    "outline":  [
+                    {
+                        "heading":  "The Exhibition of Fellowship"
+                    },
+                    {
+                        "heading":  "The Exercise of Faith"
+                    },
+                    {
+                        "heading":  "The Experience of Forgiveness"
+                    },
+                    {
+                        "heading":  "The Exposure of Fault Finding"
+                    },
+                    {
+                        "heading":  "The Enjoyment of Fullness from Him"
+                    }
+                ],
+    "topics":  [
+                   "Home",
+                   "Christ in the home",
+                   "Fellowship",
+                   "Faith",
+                   "Family faith",
+                   "Forgiveness",
+                   "Repentance",
+                   "Heart",
+                   "Thoughts",
+                   "Discipleship"
+               ],
+    "legacyImport":  {
+                         "isLegacy":  true,
+                         "collection":  "Josh Hetrick Legacy Sermons",
+                         "originalFilename":  "CHRIST IN THE HOME.docx",
+                         "preservedFilename":  "CHRIST-IN-THE-HOME.docx",
+                         "contentPreservation":  "Original Josh Hetrick legacy sermon preserved unchanged.",
+                         "importDate":  "2026-09-13"
+                     },
+    "identityReview":  {
+                           "required":  false
+                       },
+    "review":  {
+                   "doctrinalApproval":  true,
+                   "editorialApproval":  true,
+                   "publicationReady":  true
+               },
+    "resources":  [
+                      {
+                          "resourceKey":  "legacy-sermon",
+                          "path":  "01-l3/CHRIST-IN-THE-HOME.docx",
+                          "role":  "legacy-sermon",
+                          "format":  "docx"
+                      }
+                  ]
+}

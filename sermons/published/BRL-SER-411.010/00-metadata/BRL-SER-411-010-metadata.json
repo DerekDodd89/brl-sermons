@@ -1,0 +1,74 @@
+{
+  "brl_id": "BRL-SER-411.010",
+  "title": "A Few Words Concerning the Word",
+  "legacy_filename_title": "Concerning the advent of Christ",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "John 1:1,14",
+  "theme": "The incarnation reveals the eternal Word who was with God and was God, became flesh, dwelt among humanity, and manifested divine grace and truth.",
+  "structure": {
+    "method": "Three couplets from John 1:1 and John 1:14",
+    "major_sections": [
+      {
+        "section": "I",
+        "title": "The First Couplet",
+        "couplet": "In the beginning was the Word — the Word became flesh"
+      },
+      {
+        "section": "II",
+        "title": "The Second Couplet",
+        "couplet": "The Word was with God — and dwelt among us"
+      },
+      {
+        "section": "III",
+        "title": "The Third Couplet",
+        "couplet": "The Word was God — full of grace and truth"
+      }
+    ]
+  },
+  "scripture_references": [
+    "John 1:1",
+    "John 1:14",
+    "1 John 1:1-4"
+  ],
+  "key_topics": [
+    "Jesus Christ",
+    "Incarnation",
+    "Logos",
+    "Word of God",
+    "Deity of Christ",
+    "God with humanity",
+    "Tabernacle",
+    "Grace",
+    "Truth",
+    "John's Prologue"
+  ],
+  "research_sources": [
+    "G. Campbell Morgan",
+    "Pershbacher"
+  ],
+  "legacy_source": {
+    "original_filename": "Concerning the advent of Christ.docx",
+    "preserved_filename": "Concerning the advent of Christ.docx",
+    "format": "docx",
+    "sha256": "e5cdad1d954d45e24bf0e0bec734623f6b8b0e255e078c8b856ad65c1d052176",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "Concerning the advent of Christ.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 10 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

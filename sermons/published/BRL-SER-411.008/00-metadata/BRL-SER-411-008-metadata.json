@@ -1,0 +1,85 @@
+{
+  "brl_id": "BRL-SER-411.008",
+  "title": "Christ in the Pharisee's House",
+  "legacy_title": "CHRIST IN THE PHARISEES HOUSE",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "Luke 7:36-50",
+  "theme": "Jesus receives the devotion of a forgiven woman and exposes Simon the Pharisee's failure to understand sin, forgiveness, faith, and love.",
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "Christ Defamed",
+      "text": "Luke 7:36",
+      "subpoints": [
+        "The Invitation",
+        "The Insult",
+        "The Initiative"
+      ]
+    },
+    {
+      "section": "II",
+      "title": "Christ Defended",
+      "text": "Luke 7:37-38",
+      "subpoints": [
+        "The Desire",
+        "The Determination",
+        "The Devotion"
+      ]
+    },
+    {
+      "section": "III",
+      "title": "Christ Dignified",
+      "text": "Luke 7:39-50",
+      "subpoints": [
+        "The Denouncement",
+        "The Disgraced",
+        "The Debt"
+      ]
+    }
+  ],
+  "key_topics": [
+    "Jesus Christ",
+    "Simon the Pharisee",
+    "Sinful woman",
+    "Forgiveness",
+    "Faith",
+    "Love",
+    "Hospitality",
+    "Pharisees",
+    "Grace",
+    "Repentance",
+    "Cultural background"
+  ],
+  "notable_research": [
+    "Kenneth Bailey",
+    "George Foot Moore",
+    "Babylonian Talmud",
+    "Mishnah Ketubbot",
+    "Babylonian Talmud Yoma"
+  ],
+  "legacy_source": {
+    "original_filename": "CHRIST IN THE PHARISEES HOUSE.docx",
+    "preserved_filename": "CHRIST IN THE PHARISEES HOUSE.docx",
+    "format": "docx",
+    "sha256": "263478f7e56ca000dbcf2465532b0c528dfed9a3b871f21fc000898db8f2f4ab",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "CHRIST IN THE PHARISEES HOUSE.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 8 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

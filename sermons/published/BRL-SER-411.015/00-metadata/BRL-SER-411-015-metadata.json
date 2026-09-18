@@ -1,0 +1,85 @@
+{
+  "brl_id": "BRL-SER-411.015",
+  "title": "Jesus According to John",
+  "legacy_title": "JESUS ACCORDING TO JOHN",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "John 20:28",
+  "theme": "John's Gospel presents Jesus as divine through His titles, claims, works, and the witnesses that testify concerning Him.",
+  "major_sections": [
+    {
+      "section": "1",
+      "title": "Three Deific Phrases in the Gospel of John",
+      "subpoints": [
+        "The Only Begotten Son",
+        "The Son of Man",
+        "The Good Shepherd"
+      ]
+    },
+    {
+      "section": "2",
+      "title": "Witnesses to His Deity in John 5",
+      "subpoints": [
+        "John the Baptist",
+        "His Own Works and Signs",
+        "The Father",
+        "The Word / Scriptures"
+      ]
+    }
+  ],
+  "key_topics": [
+    "Jesus Christ",
+    "Gospel of John",
+    "Deity of Christ",
+    "Thomas",
+    "Only Begotten Son",
+    "Son of Man",
+    "Good Shepherd",
+    "Messianic prophecy",
+    "Witnesses to Christ",
+    "John the Baptist",
+    "Miracles",
+    "Scripture"
+  ],
+  "scripture_references": [
+    "John 20:28",
+    "John 1:18",
+    "John 3:16",
+    "Daniel 7:13-14",
+    "Mark 13:26",
+    "Mark 14:62",
+    "Luke 21:27",
+    "John 10:14-15",
+    "Psalm 23:1-3",
+    "Isaiah 44:28",
+    "Psalm 78:71-72",
+    "Ezekiel 34",
+    "Micah 5:2",
+    "Matthew 25:31-32",
+    "John 5:31-40"
+  ],
+  "legacy_source": {
+    "original_filename": "JESUS ACCORDING TO JOHN.docx",
+    "preserved_filename": "JESUS ACCORDING TO JOHN.docx",
+    "format": "docx",
+    "sha256": "7b0a0c5bf6ef26ec586809d6147eabcde3ecbf4c971e47cd3bc51f208976b794",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "JESUS ACCORDING TO JOHN.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 15 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

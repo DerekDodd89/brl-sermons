@@ -1,0 +1,43 @@
+{
+  "brl_id": "BRL-SER-411.011",
+  "title": "Excuses",
+  "legacy_title": "EXCUSES",
+  "legacy_filename_title": "Excuses during the banquet",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon_draft",
+  "status": "legacy-import-incomplete",
+  "version": "1.0",
+  "primary_text": "Luke 14:15-24",
+  "thesis": null,
+  "content_note": "Legacy file is an incomplete sermon/template draft. It identifies the title and text and begins an introduction, but most remaining outline material consists of template placeholder text rather than developed sermon content.",
+  "developed_content": {
+    "introduction": [
+      "Jesus was certainly a controversial person.",
+      "He didn’t run from a crisis and wasn’t afraid to be confrontational."
+    ],
+    "discussion_heading": "The Banquet"
+  },
+  "template_placeholders_present": true,
+  "legacy_source": {
+    "original_filename": "Excuses during the banquet.docx",
+    "preserved_filename": "Excuses during the banquet.docx",
+    "format": "docx",
+    "sha256": "977463b6ba157cf9ce013f43689ca0302e2f481de0c00c470893b2e3af92705c",
+    "content_preservation": "Original Josh Hetrick legacy file preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "Excuses during the banquet.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 11 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection. Flagged as an incomplete legacy sermon/template draft so placeholder text is not mistaken for sermon content."
+  }
+}

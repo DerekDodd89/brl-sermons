@@ -1,0 +1,86 @@
+{
+  "brl_id": "BRL-SER-411.009",
+  "title": "Christ’s Resurrection and Ours in Romans",
+  "legacy_title": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "Romans (selected resurrection texts)",
+  "scope": "Romans 1:4; 4:24-25; 6:4-5,9; 7:4; 8:11,34; 10:9",
+  "theme": "Christ’s resurrection establishes His identity and saving work and provides the pattern, power, promise, assurance, and confession connected with the Christian’s resurrection and new life.",
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "The Proof of Christ Deity",
+      "text": "Romans 1:4"
+    },
+    {
+      "section": "II",
+      "title": "The Pledge of Our Justification",
+      "text": "Romans 4:24-25"
+    },
+    {
+      "section": "III",
+      "title": "The Pattern of New Life in Christ",
+      "text": "Romans 6:4-5, 9"
+    },
+    {
+      "section": "IV",
+      "title": "The Power for the Expression of That Life",
+      "text": "Romans 7:4"
+    },
+    {
+      "section": "V",
+      "title": "The Promise of Our Resurrection",
+      "text": "Romans 8:11"
+    },
+    {
+      "section": "VI",
+      "title": "The Provision for Our Peace of Mind",
+      "text": "Romans 8:34"
+    },
+    {
+      "section": "VII",
+      "title": "The Profession of Our Faith for Salvation",
+      "text": "Romans 10:9"
+    }
+  ],
+  "key_topics": [
+    "Resurrection of Christ",
+    "Christian resurrection",
+    "Romans",
+    "Deity of Christ",
+    "Justification",
+    "Baptism",
+    "Newness of life",
+    "Holy Spirit",
+    "Intercession",
+    "Confession",
+    "Faith",
+    "Salvation",
+    "Assurance"
+  ],
+  "legacy_source": {
+    "original_filename": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+    "preserved_filename": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+    "format": "docx",
+    "sha256": "acc4b06cd870321c491cf080a7e7d97eaf9f4ffd0356e57937b5f9b1dec62618",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 9 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "schemaVersion":  "2.0",
+    "id":  "BRL-SER-411.001",
+    "slug":  "proper-baptism",
+    "title":  "Proper Baptism",
+    "status":  "published",
+    "speaker":  {
+                    "name":  "Josh Hetrick"
+                },
+    "series":  {
+                   "name":  "Josh Hetrick Legacy Sermons",
+                   "sequence":  1
+               },
+    "mainText":  [
+                     "Acts 8:30-39"
+                 ],
+    "sermonType":  {
+                       "primary":  "Topical"
+                   },
+    "theme":  "The proper mode, design, and subjects of biblical baptism.",
+    "proposition":  "Scripture establishes the proper mode, design, and subjects of baptism.",
+    "sermonQuestion":  "What constitutes proper scriptural baptism?",
+    "outline":  [
+                    {
+                        "heading":  "Elements of Scriptural Baptism"
+                    },
+                    {
+                        "heading":  "Scriptural Design of Baptism"
+                    },
+                    {
+                        "heading":  "Scriptural Subject (who do we baptize?)"
+                    }
+                ],
+    "topics":  [
+                   "Baptism",
+                   "Immersion",
+                   "Sprinkling",
+                   "Pouring",
+                   "Remission of sins",
+                   "Salvation",
+                   "Baptism into Christ",
+                   "Subjects of baptism",
+                   "Infant baptism",
+                   "Household baptism"
+               ],
+    "legacyImport":  {
+                         "isLegacy":  true,
+                         "collection":  "Josh Hetrick Legacy Sermons",
+                         "originalFilename":  "Proper Baptism.docx",
+                         "preservedFilename":  "Proper-Baptism.docx",
+                         "contentPreservation":  "Original Josh Hetrick legacy sermon preserved unchanged.",
+                         "importDate":  "2026-09-13"
+                     },
+    "identityReview":  {
+                           "required":  false
+                       },
+    "review":  {
+                   "doctrinalApproval":  true,
+                   "editorialApproval":  true,
+                   "publicationReady":  true
+               },
+    "resources":  [
+                      {
+                          "resourceKey":  "legacy-sermon",
+                          "path":  "01-l3/Proper-Baptism.docx",
+                          "role":  "legacy-sermon",
+                          "format":  "docx"
+                      }
+                  ]
+}

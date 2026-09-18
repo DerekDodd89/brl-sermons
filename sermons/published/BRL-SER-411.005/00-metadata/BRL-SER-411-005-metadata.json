@@ -1,0 +1,81 @@
+{
+  "brl_id": "BRL-SER-411.005",
+  "title": "A Better Ministry of Christ",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "Hebrews 9:11-14",
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "A Better Priest",
+      "text": "Hebrews 9:11"
+    },
+    {
+      "section": "II",
+      "title": "A Better Sanctuary",
+      "text": "Hebrews 9:11"
+    },
+    {
+      "section": "III",
+      "title": "A Better Sacrifice",
+      "text": "Hebrews 9:12"
+    },
+    {
+      "section": "IV",
+      "title": "A Better Method",
+      "text": "Hebrews 9:12"
+    },
+    {
+      "section": "V",
+      "title": "A Better Blessing",
+      "text": "Hebrews 9:12"
+    },
+    {
+      "section": "VI",
+      "title": "A Better Guarantee",
+      "text": "Hebrews 9:14"
+    },
+    {
+      "section": "VII",
+      "title": "A Better Result",
+      "text": "Hebrews 9:14"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "High Priest",
+    "Sanctuary",
+    "Blood of Christ",
+    "Sacrifice",
+    "Eternal redemption",
+    "Eternal Spirit",
+    "Conscience",
+    "Dead works",
+    "Service to God"
+  ],
+  "legacy_source": {
+    "original_filename": "A BETTER MINISTRY OF CHRIST.docx",
+    "preserved_filename": "A BETTER MINISTRY OF CHRIST.docx",
+    "format": "docx",
+    "sha256": "f986fcf8eeb46f92fcfd97880ce7953749b1d7bbf96c92535d3233be504f4994",
+    "content_preservation": "Original Josh Hetrick legacy sermon preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "A BETTER MINISTRY OF CHRIST.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Fifth sermon in BRL-SER-411.xxx Josh Hetrick Legacy collection."
+  }
+}

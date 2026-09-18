@@ -1,0 +1,87 @@
+{
+  "brl_id": "BRL-SER-411.003",
+  "title": "Are You Watching and Seeking Jesus?",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon",
+  "status": "legacy-import",
+  "version": "1.0",
+  "primary_text": "Matthew 27:55-56",
+  "thesis": "Show the need for drawing close to Jesus.",
+  "central_character": "Mary Magdalene",
+  "major_sections": [
+    {
+      "section": "I",
+      "focus": "Mary's first encounter with Jesus",
+      "text": "Luke 8:2"
+    },
+    {
+      "section": "II",
+      "focus": "Mary watching Jesus from afar",
+      "text": "Matthew 27:55-56"
+    },
+    {
+      "section": "III",
+      "focus": "Mary standing by the cross",
+      "text": "John 19:25"
+    },
+    {
+      "section": "IV",
+      "focus": "Mary witnessing where Jesus was laid",
+      "text": "Mark 16:1-6"
+    },
+    {
+      "section": "V",
+      "focus": "Mary seeking Jesus at the tomb",
+      "text": "Matthew 28:1; John 20:1; Matthew 28:5"
+    },
+    {
+      "section": "VI",
+      "focus": "Christ appearing to Mary as she sought Him",
+      "text": "Mark 16:9"
+    }
+  ],
+  "topics": [
+    "Mary Magdalene",
+    "Seeking Jesus",
+    "Cross",
+    "Forgiveness",
+    "Discipleship",
+    "Burial",
+    "Resurrection",
+    "Faith",
+    "Salvation"
+  ],
+  "scripture_references": [
+    "Matthew 27:55-56",
+    "Luke 8:2",
+    "John 19:25",
+    "Mark 16:1-6",
+    "Romans 6:3",
+    "Matthew 28:1",
+    "John 20:1",
+    "Matthew 28:5",
+    "Mark 16:9"
+  ],
+  "legacy_source": {
+    "original_filename": "ARE YOU WATCHING AND SEEKING JESUS_2.docx",
+    "preserved_filename": "ARE YOU WATCHING AND SEEKING JESUS.docx",
+    "format": "docx",
+    "sha256": "cc504c3942a326045f80694ac8d7250c13de7b7e8c8902dc92624c9a8ddba208",
+    "content_preservation": "Original legacy sermon content preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "ARE YOU WATCHING AND SEEKING JESUS.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-10",
+    "notes": "Imported as sermon 3 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "brl_id": "BRL-SER-411.013",
+  "title": "Five Women in the Genealogy of Jesus",
+  "legacy_title": "FIVE WOMEN IN THE GENEALOGY OF JESUS",
+  "collection": "Josh Hetrick Legacy Sermons",
+  "author_speaker": "Josh Hetrick",
+  "resource_type": "legacy_sermon_draft",
+  "status": "legacy-import-incomplete",
+  "version": "1.0",
+  "primary_text": null,
+  "scope": "Matthew 1:3,5,6,16 (references indicated by verse numbers in the legacy outline)",
+  "thesis": null,
+  "major_sections": [
+    {
+      "section": "I",
+      "title": "Tamar — played the harlot",
+      "verse_marker": "3"
+    },
+    {
+      "section": "II",
+      "title": "Rehab — the converted harlot",
+      "verse_marker": "5"
+    },
+    {
+      "section": "III",
+      "title": "Ruth — a Moabite, a foreigner",
+      "verse_marker": "5"
+    },
+    {
+      "section": "IV",
+      "title": "Bathsheba — an adulteress",
+      "verse_marker": "6"
+    },
+    {
+      "section": "V",
+      "title": "Mary — a virgin, the mother of Jesus, a good and blessed woman, but not immaculate",
+      "verse_marker": "16"
+    }
+  ],
+  "key_topics": [
+    "Genealogy of Jesus",
+    "Tamar",
+    "Rehab",
+    "Ruth",
+    "Bathsheba",
+    "Mary"
+  ],
+  "content_note": "Legacy file is a one-page undeveloped sermon outline. The text, introduction, subpoints, and conclusion are largely blank. Metadata preserves only content explicitly present in the source.",
+  "legacy_source": {
+    "original_filename": "five women in jesus’ genealogy.docx",
+    "preserved_filename": "five women in jesus’ genealogy.docx",
+    "format": "docx",
+    "sha256": "0250309ce6070ed8efae75b1729a84a79bb2e6ead5a9b462a275afeb2a57b9d3",
+    "content_preservation": "Original Josh Hetrick legacy sermon outline preserved unchanged."
+  },
+  "resources": {
+    "legacy_sermon": "five women in jesus’ genealogy.docx",
+    "metadata": "sermon.json",
+    "l3_archive": null,
+    "l2_20": null,
+    "l2_30": null,
+    "l2_40": null,
+    "powerpoint": null,
+    "listener_handouts": null
+  },
+  "brl_import": {
+    "date": "2026-09-13",
+    "notes": "Assigned as sermon 13 in the BRL-SER-411.xxx Josh Hetrick Legacy Sermon collection. Flagged as an incomplete legacy outline."
+  }
+}
