@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.033",
+  "slug": "king-of-the-jews",
+  "title": "KING OF THE JEWS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 33
+  },
+  "mainText": [
+    "Matthew 2:2"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Jesus is the appointed, anointed, assaulted, ascended, and acclaimed King.",
+  "proposition": "Jesus is the divinely appointed and exalted King before whom every knee should bow.",
+  "sermonQuestion": "What does Scripture reveal about Jesus as King of the Jews?",
+  "outline": [
+    {
+      "heading": "THE APPOINTED KING"
+    },
+    {
+      "heading": "THE ANOINTED KING"
+    },
+    {
+      "heading": "THE ASSAULTED KING"
+    },
+    {
+      "heading": "THE ASCENDED KING"
+    },
+    {
+      "heading": "THE ACCLAIMED KING"
+    }
+  ],
+  "topics": [
+    "Kingship of Christ",
+    "Messianic prophecy",
+    "Suffering of Christ",
+    "Ascension",
+    "Judgment",
+    "Worship"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "king of the jews.docx",
+    "preservedFilename": "king of the jews.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/king of the jews.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

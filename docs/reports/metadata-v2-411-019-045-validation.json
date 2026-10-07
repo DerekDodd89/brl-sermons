@@ -1,0 +1,1207 @@
+{
+  "records": 24,
+  "validatedJSON": 24,
+  "schemasMatchApprovedV2": true,
+  "resourcePathsResolved": 24,
+  "sourceHashesUnchanged": true,
+  "duplicateIds": [
+    {
+      "value": "BRL-SER-410.001",
+      "records": [
+        {
+          "id": "BRL-SER-410.001",
+          "slug": "the-direction-of-worship",
+          "file": "sermons\\draft\\BRL-SER-410.001 - The Direction of Worship\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-410.001",
+          "slug": "the-direction-of-worship",
+          "file": "sermons\\published\\BRL-SER-410\\BRL-SER-410.001\\00-metadata\\BRL-SER-410.001-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "BRL-SER-410.003",
+      "records": [
+        {
+          "id": "BRL-SER-410.003",
+          "slug": "the-law-of-death-the-grace-of-life",
+          "file": "sermons\\draft\\BRL-SER-410.003 - The Law of Death, The Grace of Life\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-410.003",
+          "slug": "getting-to-know-god",
+          "file": "sermons\\published\\BRL-SER-410\\BRL-SER-410.003\\00-metadata\\BRL-SER-410.003-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "BRL-SER-411.002",
+      "records": [
+        {
+          "id": "BRL-SER-411.002",
+          "slug": "first-corinthians-chapter-one",
+          "file": "sermons\\draft\\BRL-SER-411.002 - First Corinthians Chapter One\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-411.002",
+          "slug": "first-corinthians-chapter-one",
+          "file": "sermons\\published\\BRL-SER-411\\BRL-SER-411.002\\00-metadata\\BRL-SER-411.002-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "BRL-SER-411.003",
+      "records": [
+        {
+          "id": "BRL-SER-411.003",
+          "slug": "are-you-watching-and-seeking-jesus",
+          "file": "sermons\\draft\\BRL-SER-411.003 - Are You Watching and Seeking Jesus\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-411.003",
+          "slug": "are-you-watching-and-seeking-jesus",
+          "file": "sermons\\published\\BRL-SER-411\\BRL-SER-411.003\\00-metadata\\BRL-SER-411.003-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "BRL-SER-411.004",
+      "records": [
+        {
+          "id": "BRL-SER-411.004",
+          "slug": "a-banquet-with-jesus",
+          "file": "sermons\\draft\\BRL-SER-411.004 - A Banquet with Jesus\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-411.004",
+          "slug": "a-banquet-with-jesus",
+          "file": "sermons\\published\\BRL-SER-411\\BRL-SER-411.004\\00-metadata\\BRL-SER-411.004-metadata.json"
+        }
+      ]
+    }
+  ],
+  "duplicateSlugs": [
+    {
+      "value": "the-direction-of-worship",
+      "records": [
+        {
+          "id": "BRL-SER-410.001",
+          "slug": "the-direction-of-worship",
+          "file": "sermons\\draft\\BRL-SER-410.001 - The Direction of Worship\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-410.001",
+          "slug": "the-direction-of-worship",
+          "file": "sermons\\published\\BRL-SER-410\\BRL-SER-410.001\\00-metadata\\BRL-SER-410.001-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "first-corinthians-chapter-one",
+      "records": [
+        {
+          "id": "BRL-SER-411.002",
+          "slug": "first-corinthians-chapter-one",
+          "file": "sermons\\draft\\BRL-SER-411.002 - First Corinthians Chapter One\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-411.002",
+          "slug": "first-corinthians-chapter-one",
+          "file": "sermons\\published\\BRL-SER-411\\BRL-SER-411.002\\00-metadata\\BRL-SER-411.002-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "are-you-watching-and-seeking-jesus",
+      "records": [
+        {
+          "id": "BRL-SER-411.003",
+          "slug": "are-you-watching-and-seeking-jesus",
+          "file": "sermons\\draft\\BRL-SER-411.003 - Are You Watching and Seeking Jesus\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-411.003",
+          "slug": "are-you-watching-and-seeking-jesus",
+          "file": "sermons\\published\\BRL-SER-411\\BRL-SER-411.003\\00-metadata\\BRL-SER-411.003-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "a-banquet-with-jesus",
+      "records": [
+        {
+          "id": "BRL-SER-411.004",
+          "slug": "a-banquet-with-jesus",
+          "file": "sermons\\draft\\BRL-SER-411.004 - A Banquet with Jesus\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-411.004",
+          "slug": "a-banquet-with-jesus",
+          "file": "sermons\\published\\BRL-SER-411\\BRL-SER-411.004\\00-metadata\\BRL-SER-411.004-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "blessing-life",
+      "records": [
+        {
+          "id": "BRL-SER-412.002.001",
+          "slug": "blessing-life",
+          "file": "sermons\\draft\\BRL-SER-412.002.001 - Blessing Life\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.034",
+          "slug": "blessing-life",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.034\\00-metadata\\BRL-SER-412.034-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "jesus-claims-of-deity",
+      "records": [
+        {
+          "id": "BRL-SER-412.002.002",
+          "slug": "jesus-claims-of-deity",
+          "file": "sermons\\draft\\BRL-SER-412.002.002 - Jesus' Claims of Deity\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.031",
+          "slug": "jesus-claims-of-deity",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.031\\00-metadata\\BRL-SER-412.031-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "jesus-model-prayer",
+      "records": [
+        {
+          "id": "BRL-SER-412.002.003",
+          "slug": "jesus-model-prayer",
+          "file": "sermons\\draft\\BRL-SER-412.002.003 - Jesus' Model Prayer\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.033",
+          "slug": "jesus-model-prayer",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.033\\00-metadata\\BRL-SER-412.033-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "passover-lamb",
+      "records": [
+        {
+          "id": "BRL-SER-412.002.004",
+          "slug": "passover-lamb",
+          "file": "sermons\\draft\\BRL-SER-412.002.004 - Passover Lamb\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.032",
+          "slug": "passover-lamb",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.032\\00-metadata\\BRL-SER-412.032-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "sitting-at-the-feet-of-jesus",
+      "records": [
+        {
+          "id": "BRL-SER-412.002.005",
+          "slug": "sitting-at-the-feet-of-jesus",
+          "file": "sermons\\draft\\BRL-SER-412.002.005 - Sitting at the Feet of Jesus\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.030",
+          "slug": "sitting-at-the-feet-of-jesus",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.030\\00-metadata\\BRL-SER-412.030-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "the-introduction",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.001",
+          "slug": "the-introduction",
+          "file": "sermons\\draft\\hebrews-01-the-introduction\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.001",
+          "slug": "the-introduction",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.001\\00-metadata\\BRL-SER-412.001-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "the-voice-of-god",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.002",
+          "slug": "the-voice-of-god",
+          "file": "sermons\\draft\\hebrews-02-the-voice-of-god\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.002",
+          "slug": "the-voice-of-god",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.002\\00-metadata\\BRL-SER-412.002-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "jesus-superior-to-the-angels",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.003",
+          "slug": "jesus-superior-to-the-angels",
+          "file": "sermons\\draft\\hebrews-03-jesus-superior-to-the-angels\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.003",
+          "slug": "jesus-superior-to-the-angels",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.003\\00-metadata\\BRL-SER-412.003-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "drifting-away",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.004",
+          "slug": "drifting-away",
+          "file": "sermons\\draft\\hebrews-04-drifting-away\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.004",
+          "slug": "drifting-away",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.004\\00-metadata\\BRL-SER-412.004-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "jesus-superior-humanity",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.005",
+          "slug": "jesus-superior-humanity",
+          "file": "sermons\\draft\\hebrews-05-jesus-superior-humanity\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.005",
+          "slug": "jesus-superior-humanity",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.005\\00-metadata\\BRL-SER-412.005-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "jesus-is-superior-to-moses",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.006",
+          "slug": "jesus-is-superior-to-moses",
+          "file": "sermons\\draft\\hebrews-06-jesus-is-superior-to-moses\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.006",
+          "slug": "jesus-is-superior-to-moses",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.006\\00-metadata\\BRL-SER-412.006-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "warning-from-the-wilderness",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.007",
+          "slug": "warning-from-the-wilderness",
+          "file": "sermons\\draft\\hebrews-07-warning-from-the-wilderness\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.007",
+          "slug": "warning-from-the-wilderness",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.007\\00-metadata\\BRL-SER-412.007-metadata.json"
+        }
+      ]
+    },
+    {
+      "value": "entering-the-rest",
+      "records": [
+        {
+          "id": "BRL-SER-412.001.008",
+          "slug": "entering-the-rest",
+          "file": "sermons\\draft\\hebrews-08-entering-the-rest\\00-metadata\\sermon.json"
+        },
+        {
+          "id": "BRL-SER-412.008",
+          "slug": "entering-the-rest",
+          "file": "sermons\\published\\BRL-SER-412\\BRL-SER-412.008\\00-metadata\\BRL-SER-412.008-metadata.json"
+        }
+      ]
+    }
+  ],
+  "duplicateSources": [],
+  "reviewRequired": [],
+  "errors": [],
+  "catalog": {
+    "command": "node .\\scripts\\sermon-catalog.mjs",
+    "result": "Failed: MODULE_NOT_FOUND. scripts/sermon-catalog.mjs is absent from this checkout; catalog inclusion cannot be confirmed."
+  },
+  "sourceHashes": [
+    {
+      "id": "BRL-SER-411.019",
+      "filename": "A BANQUET WITH JESUS.docx",
+      "sha256": "BF5B75C4FEB99F7DCA39C9E9F2FD0B87C4B751A44BBCD8E76F4273A6745CCB72"
+    },
+    {
+      "id": "BRL-SER-411.020",
+      "filename": "A BETTER MINISTRY OF CHRIST.docx",
+      "sha256": "F986FCF8EEB46F92FCFD97880CE7953749B1D7BBF96C92535D3233BE504F4994"
+    },
+    {
+      "id": "BRL-SER-411.021",
+      "filename": "A VISION OF CHRIST final.docx",
+      "sha256": "5F16BD1532D7E50A0994609434FDA35858B929F37C57BCD20AB107C4A35458E4"
+    },
+    {
+      "id": "BRL-SER-411.023",
+      "filename": "CHRIST IN THE HOME.docx",
+      "sha256": "22B87FF0ED733F8B49AD67B125DF2EC44E3C3DB2224554698E197702618E649A"
+    },
+    {
+      "id": "BRL-SER-411.024",
+      "filename": "CHRIST IN THE PHARISEES HOUSE.docx",
+      "sha256": "263478F7E56CA000DBCF2465532B0C528DFED9A3B871F21FC000898DB8F2F4AB"
+    },
+    {
+      "id": "BRL-SER-411.025",
+      "filename": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+      "sha256": "ACC4B06CD870321C491CF080A7E7D97EAF9F4FFD0356E57937B5F9B1DEC62618"
+    },
+    {
+      "id": "BRL-SER-411.026",
+      "filename": "Concerning the advent of Christ.docx",
+      "sha256": "E5CDAD1D954D45E24BF0E0BEC734623F6B8B0E255E078C8B856AD65C1D052176"
+    },
+    {
+      "id": "BRL-SER-411.027",
+      "filename": "Excuses during the banquet.docx",
+      "sha256": "977463B6BA157CF9CE013F43689CA0302E2F481DE0C00C470893B2E3AF92705C"
+    },
+    {
+      "id": "BRL-SER-411.028",
+      "filename": "five points of the star of jacob.docx",
+      "sha256": "6C5060C65E895CF38BC6E4BED9DF489C3EE799C2E472F7277D9CF9BDB501BF3B"
+    },
+    {
+      "id": "BRL-SER-411.029",
+      "filename": "five women in jesus’ genealogy.docx",
+      "sha256": "0250309CE6070ED8EFAE75B1729A84A79BB2E6EAD5A9B462A275AFEB2A57B9D3"
+    },
+    {
+      "id": "BRL-SER-411.030",
+      "filename": "healing at the pool .docx",
+      "sha256": "2E40993B568306DD92C4FA74DCA4AB5DB2A465E5350FB9D69869924C2D6FB636"
+    },
+    {
+      "id": "BRL-SER-411.031",
+      "filename": "JESUS ACCORDING TO JOHN.docx",
+      "sha256": "7B0A0C5BF6EF26EC586809D6147EABCDE3ECBF4C971E47CD3BC51F208976B794"
+    },
+    {
+      "id": "BRL-SER-411.032",
+      "filename": "Jesus, The Good Shepherd of your Souls FINAL.docx",
+      "sha256": "7BF90422D42CFEB501BA3855ADF6949FC86E3396DDD9A513760471BC3F58B329"
+    },
+    {
+      "id": "BRL-SER-411.033",
+      "filename": "king of the jews.docx",
+      "sha256": "3C2DBAAC8A8DDCE6B0E1745ED8209AAC236EEBAC42D4C436A4BFD9D9B2ABCBE6"
+    },
+    {
+      "id": "BRL-SER-411.034",
+      "filename": "THE COMPASSION OF JESUS.docx",
+      "sha256": "CC4B970154B8ED4A6A7A6DCA83B2D819039EC8D5870A40E0077EED537EA341EC"
+    },
+    {
+      "id": "BRL-SER-411.035",
+      "filename": "the fear nots of luke.docx",
+      "sha256": "31AD4AD2D4E2B5F3E7D0644A4BB2A00BC12A66461EC7D52AC80AC65CCE2C49E9"
+    },
+    {
+      "id": "BRL-SER-411.037",
+      "filename": "THE MIND OF CHRIST.docx",
+      "sha256": "AE2A16965BF3B84301CFB692EDBDE3B5BB792ECB784BE281B44FB83EEE854012"
+    },
+    {
+      "id": "BRL-SER-411.038",
+      "filename": "THE PENITENT THIEF.docx",
+      "sha256": "7D6506897E40C72CFF9C1AA34515264B22EAE16865547A8B46E2A79B73AE60CE"
+    },
+    {
+      "id": "BRL-SER-411.039",
+      "filename": "THE RESURRECTION.docx",
+      "sha256": "89616B25D183AC741107357BA76BA833598973F26B6D4A1790CEA6A761875432"
+    },
+    {
+      "id": "BRL-SER-411.040",
+      "filename": "THE TRIAL OF CHRIST.docx",
+      "sha256": "129BB02E79A636382A7A81FDA0285A8CACCEC25C95678222844127182FABCC7E"
+    },
+    {
+      "id": "BRL-SER-411.041",
+      "filename": "the virgin birth of Jesus.docx",
+      "sha256": "D138832515CAFF1E860234A39C53BC3066346C8301B33DFD53CA4AF3C9F1B4D9"
+    },
+    {
+      "id": "BRL-SER-411.043",
+      "filename": "WAITING FOR HIS COMING 2.docx",
+      "sha256": "0443B83433985104BB937F2CEFABDAEEB96912536ABEDEB29C3B72A58BD66DAF"
+    },
+    {
+      "id": "BRL-SER-411.044",
+      "filename": "WHAT WILL YOU DO WITH CHRIST.docx",
+      "sha256": "C618F2D90EDB1E5E6D70FB760566F4CDF422E38EC399F23F3D2E32FFDCEC6889"
+    },
+    {
+      "id": "BRL-SER-411.045",
+      "filename": "YOM KIPPUR AND THE CROSS.docx",
+      "sha256": "591D1A5795D2B92E71F92BDE6186FDC0294B66693465C376314C43C4ADE247C9"
+    }
+  ],
+  "approvedLegacySourceWarnings": [
+    {
+      "id": "BRL-SER-411.019",
+      "reason": "Incomplete source: title and a single TEXT paragraph containing Scripture and a rabbinic banquet illustration; no developed sermon divisions. Outline intentionally empty; discovery fields are minimal inferences from the supplied material.",
+      "decision": "User manually reviewed and approved publication despite brief/incomplete legacy-source format."
+    },
+    {
+      "id": "BRL-SER-411.027",
+      "reason": "Incomplete source: blank THESIS and SUBTITILE, one substantive banquet heading, and extensive generic sermon-template placeholders. No missing arguments or conclusion supplied. Proposition uses the actual introduction; question minimally inferred from title and stated text.",
+      "decision": "User manually reviewed and approved publication despite brief/incomplete legacy-source format."
+    },
+    {
+      "id": "BRL-SER-411.029",
+      "reason": "Incomplete source: TEXT, INTRODUCTION, and CONCLUSION are blank; body contains only five brief entries. Matthew 1 is inferred from the genealogy and supplied verse numbers. Source spelling Rehab retained; no developed argument invented.",
+      "decision": "User manually reviewed and approved publication despite brief/incomplete legacy-source format."
+    },
+    {
+      "id": "BRL-SER-411.044",
+      "reason": "Source contains an unfinished sentence: “By the divine attestation of his re”. Remaining sermon and conclusion are present. Editorial review required; missing wording has not been reconstructed.",
+      "decision": "User manually reviewed and approved publication despite brief/incomplete legacy-source format."
+    }
+  ],
+  "cleanup": {
+    "publicationApproved": [
+      "BRL-SER-411.019",
+      "BRL-SER-411.027",
+      "BRL-SER-411.029",
+      "BRL-SER-411.044"
+    ],
+    "recycledIds": [
+      "BRL-SER-411.022",
+      "BRL-SER-411.036",
+      "BRL-SER-411.042"
+    ],
+    "availableForFutureJoshHetrickSermons": [
+      "BRL-SER-411.022",
+      "BRL-SER-411.036",
+      "BRL-SER-411.042"
+    ],
+    "canonicalIds": [
+      "BRL-SER-411.021",
+      "BRL-SER-411.035",
+      "BRL-SER-411.041"
+    ],
+    "publicationReadyVerified": true,
+    "recycledFoldersContainOnlyStandardDirectoriesAndGitkeep": true,
+    "noRecycledMetadataRecords": true,
+    "noRecycledL3Sources": true,
+    "canonicalMetadataAndSourcesUnchanged": true,
+    "allOtherRecordsUnchanged": true,
+    "retainedSourceHashesUnchanged": true,
+    "approvedMetadataChangesLimitedToReviewFlags": true,
+    "deletedFiles": [
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.022\\00-metadata\\BRL-SER-411-022-metadata.json",
+        "sha256Before": "54A8B51D21F4FD0F63FA9BC58B81F3932AE2648EF7C803B243C44BBE60CBA350"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.022\\01-l3\\A VISION OF CHRIST final.docx",
+        "sha256Before": "5F16BD1532D7E50A0994609434FDA35858B929F37C57BCD20AB107C4A35458E4"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.036\\00-metadata\\BRL-SER-411-036-metadata.json",
+        "sha256Before": "7CA8D23A6001CF5505E43D44A8438D1F339CE2485204E6A21EC72692AE739C8C"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.036\\01-l3\\the fear nots of luke.docx",
+        "sha256Before": "31AD4AD2D4E2B5F3E7D0644A4BB2A00BC12A66461EC7D52AC80AC65CCE2C49E9"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.042\\00-metadata\\BRL-SER-411-042-metadata.json",
+        "sha256Before": "D1B7CEE380EDDDAE5AE32648F0967EAAC96FC285D567DF345768666BEFAEE0BC"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.042\\01-l3\\the virgin birth of Jesus.docx",
+        "sha256Before": "D138832515CAFF1E860234A39C53BC3066346C8301B33DFD53CA4AF3C9F1B4D9"
+      }
+    ],
+    "unchangedFileHashes": [
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.019\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.019\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.019\\01-l3\\A BANQUET WITH JESUS.docx",
+        "sha256": "BF5B75C4FEB99F7DCA39C9E9F2FD0B87C4B751A44BBCD8E76F4273A6745CCB72"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.019\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.019\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.019\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.020\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.020\\00-metadata\\BRL-SER-411-020-metadata.json",
+        "sha256": "01543BC75EDF82BC0437170D22D714E0507C4DE43CE2101FCC466C084A953495"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.020\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.020\\01-l3\\A BETTER MINISTRY OF CHRIST.docx",
+        "sha256": "F986FCF8EEB46F92FCFD97880CE7953749B1D7BBF96C92535D3233BE504F4994"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.020\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.020\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.020\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.021\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.021\\00-metadata\\BRL-SER-411-021-metadata.json",
+        "sha256": "3D77626B66CCF484BD33B2E70FBB6BCCC5F42C5E66D4682D2EC7884F0135D7E9"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.021\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.021\\01-l3\\A VISION OF CHRIST final.docx",
+        "sha256": "5F16BD1532D7E50A0994609434FDA35858B929F37C57BCD20AB107C4A35458E4"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.021\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.021\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.021\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.023\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.023\\00-metadata\\BRL-SER-411-023-metadata.json",
+        "sha256": "0C4E1C05E92FFD9BAE8C77AA89161357A7E17815A1D6F51BA4683B998E5C8AB2"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.023\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.023\\01-l3\\CHRIST IN THE HOME.docx",
+        "sha256": "22B87FF0ED733F8B49AD67B125DF2EC44E3C3DB2224554698E197702618E649A"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.023\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.023\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.023\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.024\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.024\\00-metadata\\BRL-SER-411-024-metadata.json",
+        "sha256": "B397037FBF8B574A387906941CEAF5F6FB7D13F8DF8D6819FECA3EF08A666E1D"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.024\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.024\\01-l3\\CHRIST IN THE PHARISEES HOUSE.docx",
+        "sha256": "263478F7E56CA000DBCF2465532B0C528DFED9A3B871F21FC000898DB8F2F4AB"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.024\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.024\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.024\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.025\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.025\\00-metadata\\BRL-SER-411-025-metadata.json",
+        "sha256": "530F602F4B6E4C86430D3D4B5E05F7B579F864167F41223AE9336AF7D85ED776"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.025\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.025\\01-l3\\CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+        "sha256": "ACC4B06CD870321C491CF080A7E7D97EAF9F4FFD0356E57937B5F9B1DEC62618"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.025\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.025\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.025\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.026\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.026\\00-metadata\\BRL-SER-411-026-metadata.json",
+        "sha256": "BAFC97274C07456661FFBE3F97BC26C51CA92B2D0100D71C84D347C68C2A3E9A"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.026\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.026\\01-l3\\Concerning the advent of Christ.docx",
+        "sha256": "E5CDAD1D954D45E24BF0E0BEC734623F6B8B0E255E078C8B856AD65C1D052176"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.026\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.026\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.026\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.027\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.027\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.027\\01-l3\\Excuses during the banquet.docx",
+        "sha256": "977463B6BA157CF9CE013F43689CA0302E2F481DE0C00C470893B2E3AF92705C"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.027\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.027\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.027\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.028\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.028\\00-metadata\\BRL-SER-411-028-metadata.json",
+        "sha256": "35CADE6A23BDB046172AC64C484CA54521C0DAA17F9F86E0100225A3EEE96D1E"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.028\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.028\\01-l3\\five points of the star of jacob.docx",
+        "sha256": "6C5060C65E895CF38BC6E4BED9DF489C3EE799C2E472F7277D9CF9BDB501BF3B"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.028\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.028\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.028\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.029\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.029\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.029\\01-l3\\five women in jesus’ genealogy.docx",
+        "sha256": "0250309CE6070ED8EFAE75B1729A84A79BB2E6EAD5A9B462A275AFEB2A57B9D3"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.029\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.029\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.029\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.030\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.030\\00-metadata\\BRL-SER-411-030-metadata.json",
+        "sha256": "B67D50E28787606F5FB182825C4CD54363D0FB430277BB037F5F9C5EAE022EA0"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.030\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.030\\01-l3\\healing at the pool .docx",
+        "sha256": "2E40993B568306DD92C4FA74DCA4AB5DB2A465E5350FB9D69869924C2D6FB636"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.030\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.030\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.030\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.031\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.031\\00-metadata\\BRL-SER-411-031-metadata.json",
+        "sha256": "EB7618CB1ACDCA78CC74431F1900A3DE7B5B119EFEF9503A507CC6E5383EB080"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.031\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.031\\01-l3\\JESUS ACCORDING TO JOHN.docx",
+        "sha256": "7B0A0C5BF6EF26EC586809D6147EABCDE3ECBF4C971E47CD3BC51F208976B794"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.031\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.031\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.031\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.032\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.032\\00-metadata\\BRL-SER-411-032-metadata.json",
+        "sha256": "483F4761460CB493C0B4CF6FFF8A8615BE3991AD5B13F9462BC8983FE4B8FE67"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.032\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.032\\01-l3\\Jesus, The Good Shepherd of your Souls FINAL.docx",
+        "sha256": "7BF90422D42CFEB501BA3855ADF6949FC86E3396DDD9A513760471BC3F58B329"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.032\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.032\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.032\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.033\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.033\\00-metadata\\BRL-SER-411-033-metadata.json",
+        "sha256": "6EA92FD5FDA86F9EB4B10FC190AEDFABACB8C29FF3240684A0A92045BB49D67A"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.033\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.033\\01-l3\\king of the jews.docx",
+        "sha256": "3C2DBAAC8A8DDCE6B0E1745ED8209AAC236EEBAC42D4C436A4BFD9D9B2ABCBE6"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.033\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.033\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.033\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.034\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.034\\00-metadata\\BRL-SER-411-034-metadata.json",
+        "sha256": "7BAFC2DF076D8EEB1812B13F32F2F34ECE1ED0BE91C796D1F2E8EB1E2E568C87"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.034\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.034\\01-l3\\THE COMPASSION OF JESUS.docx",
+        "sha256": "CC4B970154B8ED4A6A7A6DCA83B2D819039EC8D5870A40E0077EED537EA341EC"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.034\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.034\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.034\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.035\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.035\\00-metadata\\BRL-SER-411-035-metadata.json",
+        "sha256": "9E4A42551D518DA1FDEAFF1AA60EF1E95566F7964848559C0F27ADFB7F561CE2"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.035\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.035\\01-l3\\the fear nots of luke.docx",
+        "sha256": "31AD4AD2D4E2B5F3E7D0644A4BB2A00BC12A66461EC7D52AC80AC65CCE2C49E9"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.035\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.035\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.035\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.037\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.037\\00-metadata\\BRL-SER-411-037-metadata.json",
+        "sha256": "FBBB4C3F1624D465C7B631A6FE886839B2E1479B349BF4D3DD1986669CAC93F7"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.037\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.037\\01-l3\\THE MIND OF CHRIST.docx",
+        "sha256": "AE2A16965BF3B84301CFB692EDBDE3B5BB792ECB784BE281B44FB83EEE854012"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.037\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.037\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.037\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.038\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.038\\00-metadata\\BRL-SER-411-038-metadata.json",
+        "sha256": "738BC06DDABC9FCDEA8C8F52FCF104AF75DE8DECA6C2E445D3F93400A8C111EA"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.038\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.038\\01-l3\\THE PENITENT THIEF.docx",
+        "sha256": "7D6506897E40C72CFF9C1AA34515264B22EAE16865547A8B46E2A79B73AE60CE"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.038\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.038\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.038\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.039\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.039\\00-metadata\\BRL-SER-411-039-metadata.json",
+        "sha256": "ADCA1641ECB2ED891516A1BF98F1EB5F9D1FC967FA14CB6CA536411A4087F0A3"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.039\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.039\\01-l3\\THE RESURRECTION.docx",
+        "sha256": "89616B25D183AC741107357BA76BA833598973F26B6D4A1790CEA6A761875432"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.039\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.039\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.039\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.040\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.040\\00-metadata\\BRL-SER-411-040-metadata.json",
+        "sha256": "E2C23FFDD86E06F035A2369CC0BC71D9A0E5CA27FFE239F1BE4B8AB1C2174D19"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.040\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.040\\01-l3\\THE TRIAL OF CHRIST.docx",
+        "sha256": "129BB02E79A636382A7A81FDA0285A8CACCEC25C95678222844127182FABCC7E"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.040\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.040\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.040\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.041\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.041\\00-metadata\\BRL-SER-411-041-metadata.json",
+        "sha256": "9211F76EFC9156968123837AB630260620FCFF50CE02F40C3CABA5F71C0D4D39"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.041\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.041\\01-l3\\the virgin birth of Jesus.docx",
+        "sha256": "D138832515CAFF1E860234A39C53BC3066346C8301B33DFD53CA4AF3C9F1B4D9"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.041\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.041\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.041\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.043\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.043\\00-metadata\\BRL-SER-411-043-metadata.json",
+        "sha256": "E015A24B86E41E6865659C1F70FBD3A2940037F4DD3DEA22D7C5DFD31C7655F5"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.043\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.043\\01-l3\\WAITING FOR HIS COMING 2.docx",
+        "sha256": "0443B83433985104BB937F2CEFABDAEEB96912536ABEDEB29C3B72A58BD66DAF"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.043\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.043\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.043\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.044\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.044\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.044\\01-l3\\WHAT WILL YOU DO WITH CHRIST.docx",
+        "sha256": "C618F2D90EDB1E5E6D70FB760566F4CDF422E38EC399F23F3D2E32FFDCEC6889"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.044\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.044\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.044\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.045\\00-metadata\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.045\\00-metadata\\BRL-SER-411-045-metadata.json",
+        "sha256": "18391987E846E113C694070880BC54793CB98BB68894A2BBACBEDD59AA76B5A1"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.045\\01-l3\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.045\\01-l3\\YOM KIPPUR AND THE CROSS.docx",
+        "sha256": "591D1A5795D2B92E71F92BDE6186FDC0294B66693465C376314C43C4ADE247C9"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.045\\02-l2\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.045\\03-listener-handouts\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      },
+      {
+        "path": "sermons\\published\\BRL-SER-411\\BRL-SER-411.045\\04-presentation\\.gitkeep",
+        "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      }
+    ]
+  }
+}

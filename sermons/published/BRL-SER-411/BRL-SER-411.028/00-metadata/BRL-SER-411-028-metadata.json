@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.028",
+  "slug": "five-points-of-the-star-of-jacob-411-028",
+  "title": "FIVE POINTS OF THE STAR OF JACOB",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 28
+  },
+  "mainText": [
+    "Numbers 24:17"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The Star of Jacob points to Christ's kingship, brightness, guidance, wonder, and glory.",
+  "proposition": "Christ, the Star of Jacob, is the King whose light guides sinners to freedom and points to heavenly glory.",
+  "sermonQuestion": "What do the five points of the Star of Jacob reveal about Christ?",
+  "outline": [
+    {
+      "heading": "A SYMBOL OF HIS KINGSHIP"
+    },
+    {
+      "heading": "A SAMPLE OF HIS BRIGHTNESS"
+    },
+    {
+      "heading": "A SOURCE OF HIS GUIDANCE"
+    },
+    {
+      "heading": "A SUBSTANCE OF HIS WONDER"
+    },
+    {
+      "heading": "A SIGNAL OF HIS GLORY"
+    }
+  ],
+  "topics": [
+    "Messianic prophecy",
+    "Kingship of Christ",
+    "Light",
+    "Guidance",
+    "Freedom from sin",
+    "Glory"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "five points of the star of jacob.docx",
+    "preservedFilename": "five points of the star of jacob.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/five points of the star of jacob.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

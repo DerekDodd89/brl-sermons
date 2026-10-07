@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.045",
+  "slug": "yom-kippur-the-cross",
+  "title": "YOM KIPPUR & THE CROSS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 45
+  },
+  "mainText": [
+    "Leviticus 16"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The Day of Atonement prefigures Christ's solitary high-priestly work, sacrificial blood, removal of sin, and our humble response.",
+  "proposition": "Christ, our spotless High Priest, accomplished atonement alone and takes away our sins, calling us to humble ourselves.",
+  "sermonQuestion": "How does Yom Kippur point to Christ's atoning work on the cross?",
+  "outline": [
+    {
+      "heading": "THE PERSON WHO MADE THE ATONEMENT - THE HIGH PRIEST."
+    },
+    {
+      "heading": "THE MEANS WHEREBY ATONEMENT WAS MADE."
+    },
+    {
+      "heading": "THE SCAPEGOAT."
+    },
+    {
+      "heading": "OUR ATTITUDE."
+    }
+  ],
+  "topics": [
+    "Day of Atonement",
+    "Yom Kippur",
+    "High priest",
+    "Atonement",
+    "Cross",
+    "Scapegoat",
+    "Humility"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "YOM KIPPUR AND THE CROSS.docx",
+    "preservedFilename": "YOM KIPPUR AND THE CROSS.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/YOM KIPPUR AND THE CROSS.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

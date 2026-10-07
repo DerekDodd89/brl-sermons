@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.044",
+  "slug": "what-will-you-do-with-christ",
+  "title": "WHAT WILL YOU DO WITH CHRIST",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 44
+  },
+  "mainText": [
+    "Matthew 27:22"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Our response to Jesus determines acceptance before God, sonship, peace, joy, and eternal life; we must receive or reject the King, Son of God, and Savior.",
+  "proposition": "If we do the right thing with Jesus, we get everything that is worth having for time and eternity; if we do the wrong thing with Jesus, we lose everything that is worth having for time and for eternity.",
+  "sermonQuestion": "What will you do with Jesus?",
+  "outline": [
+    {
+      "heading": "WHAT DEPENDS UPON WHAT WE DO WITH JESUS."
+    },
+    {
+      "heading": "WHAT WE MUST DO WITH JESUS."
+    },
+    {
+      "heading": "CONSIDER WHO IT IS WITH WHOM WE HAVE SOMETHING TO DO."
+    }
+  ],
+  "topics": [
+    "Response to Christ",
+    "Faith",
+    "Acceptance before God",
+    "Sonship",
+    "Peace",
+    "Joy",
+    "Eternal life",
+    "Kingship of Christ"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "WHAT WILL YOU DO WITH CHRIST.docx",
+    "preservedFilename": "WHAT WILL YOU DO WITH CHRIST.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/WHAT WILL YOU DO WITH CHRIST.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

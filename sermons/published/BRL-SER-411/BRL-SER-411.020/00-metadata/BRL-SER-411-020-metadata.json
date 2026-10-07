@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.020",
+  "slug": "a-better-ministry-of-christ-411-020",
+  "title": "A BETTER MINISTRY OF CHRIST",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 20
+  },
+  "mainText": [
+    "Hebrews 9:11-14"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "The superiority of Christ's priesthood and sacrifice brings eternal redemption and a purified conscience for living service.",
+  "proposition": "Christ is better than anything this world offers, and we should have no fear.",
+  "sermonQuestion": "How is the ministry of Christ better?",
+  "outline": [
+    {
+      "heading": "A BETTER PRIEST"
+    },
+    {
+      "heading": "A BETTER SANCTUARY"
+    },
+    {
+      "heading": "A BETTER SACRIFICE"
+    },
+    {
+      "heading": "A BETTER METHOD"
+    },
+    {
+      "heading": "A BETTER BLESSING"
+    },
+    {
+      "heading": "A BETTER GUARANTEE"
+    },
+    {
+      "heading": "A BETTER RESULT"
+    }
+  ],
+  "topics": [
+    "High priest",
+    "Sacrifice of Christ",
+    "Eternal redemption",
+    "Conscience",
+    "Living worship",
+    "Superiority of Christ"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "A BETTER MINISTRY OF CHRIST.docx",
+    "preservedFilename": "A BETTER MINISTRY OF CHRIST.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/A BETTER MINISTRY OF CHRIST.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

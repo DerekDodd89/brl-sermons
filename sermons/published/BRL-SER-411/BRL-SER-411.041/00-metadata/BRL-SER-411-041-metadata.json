@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.041",
+  "slug": "the-virgin-birth-of-jesus",
+  "title": "The Virgin Birth of Jesus",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 41
+  },
+  "mainText": [
+    "Isaiah 7:14",
+    "Matthew 1:18-21",
+    "Luke 1:26-27",
+    "Luke 1:34"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "A defense of Jesus' virgin birth distinguishes biblical testimony from speculation, answers objections, and explains its importance for His nature and saving mission.",
+  "proposition": "We ought to believe, and to shamelessly affirm, that Jesus the Christ was conceived and born of a virgin.",
+  "sermonQuestion": "What evidence supports Jesus' virgin birth, and why is it essential to His identity and mission?",
+  "outline": [
+    {
+      "heading": "The Case of the Virgin Birth of Jesus is Damaged by Promoters of Falsehoods and Speculations"
+    },
+    {
+      "heading": "Biblical Affirmation of the Virgin Birth of Jesus"
+    },
+    {
+      "heading": "Objections Offered"
+    },
+    {
+      "heading": "Why Is the Virgin Birth of Jesus So Important?"
+    }
+  ],
+  "topics": [
+    "Virgin birth",
+    "Incarnation",
+    "Deity of Christ",
+    "Humanity of Christ",
+    "Biblical evidence",
+    "Apologetics",
+    "Salvation"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "the virgin birth of Jesus.docx",
+    "preservedFilename": "the virgin birth of Jesus.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/the virgin birth of Jesus.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

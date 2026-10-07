@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.023",
+  "slug": "christ-in-the-home-411-023",
+  "title": "CHRIST IN THE HOME",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 23
+  },
+  "mainText": [
+    "Mark 2:1"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Welcoming Christ into the home brings fellowship, genuine faith, forgiveness, exposure of fault finding, and fullness in Him.",
+  "proposition": "Our homes should welcome Christ and reflect fellowship, faith, forgiveness, and the fullness He brings.",
+  "sermonQuestion": "Does Christ have a place in your home?",
+  "outline": [
+    {
+      "heading": "THE EXHIBITION OF FELLOWSHIP"
+    },
+    {
+      "heading": "THE EXERCISE OF FAITH"
+    },
+    {
+      "heading": "THE EXPERIENCE OF FORGIVENESS"
+    },
+    {
+      "heading": "THE EXPOSURE OF FAULT FINDING"
+    },
+    {
+      "heading": "THE ENJOYMENT OF FULNESS FROM HIM"
+    }
+  ],
+  "topics": [
+    "Home",
+    "Family faith",
+    "Fellowship",
+    "Forgiveness",
+    "Fault finding",
+    "Discipleship"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "CHRIST IN THE HOME.docx",
+    "preservedFilename": "CHRIST IN THE HOME.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/CHRIST IN THE HOME.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.024",
+  "slug": "christ-in-the-pharisees-house-411-024",
+  "title": "CHRIST IN THE PHARISEES HOUSE",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 24
+  },
+  "mainText": [
+    "Luke 7:36-50"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Jesus receives the grateful love of a forgiven woman and exposes Simon's own need for forgiveness.",
+  "proposition": "Both law-keepers and law-breakers are sinners in need of forgiveness, and forgiveness received from Jesus produces costly love for Him.",
+  "sermonQuestion": "How does Jesus' encounter with Simon and the woman reveal forgiveness and grateful love?",
+  "outline": [
+    {
+      "heading": "CHRIST DEFAMED (36)."
+    },
+    {
+      "heading": "CHRIST DEFENDED (37-38)."
+    },
+    {
+      "heading": "CHRIST DIGNIFIED (39-50)."
+    }
+  ],
+  "topics": [
+    "Forgiveness",
+    "Gratitude",
+    "Love for Christ",
+    "Pharisees",
+    "Grace",
+    "Faith",
+    "Salvation",
+    "Peace"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "CHRIST IN THE PHARISEES HOUSE.docx",
+    "preservedFilename": "CHRIST IN THE PHARISEES HOUSE.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/CHRIST IN THE PHARISEES HOUSE.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

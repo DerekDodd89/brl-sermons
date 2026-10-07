@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.035",
+  "slug": "the-fear-nots-of-jesus-nativity-in-luke",
+  "title": "THE “FEAR NOTS” OF JESUS’ NATIVITY IN LUKE",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 35
+  },
+  "mainText": [
+    "Luke 1:13",
+    "Luke 1:30",
+    "Luke 2:10"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The nativity announcements bring assurance to Zacharias, approval to Mary, and joyful good news to the shepherds amid their fears.",
+  "proposition": "God's words of comfort surrounding Jesus' nativity assuage fear and doubt with assurance, favor, and good news.",
+  "sermonQuestion": "How do the three nativity “fear not” announcements in Luke answer fear and doubt?",
+  "outline": [
+    {
+      "heading": "THE ‘FEAR NOT’ OF ASSURANCE TO ZACHARIAS"
+    },
+    {
+      "heading": "THE ‘FEAR NOT’ OF APPROVAL TO MARY"
+    },
+    {
+      "heading": "THE ‘FEAR N0T’ OF ANNOUNCEMENT TO SHEPHERDS"
+    }
+  ],
+  "topics": [
+    "Nativity",
+    "Fear",
+    "Assurance",
+    "Zacharias",
+    "Mary",
+    "Shepherds",
+    "Good news"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "the fear nots of luke.docx",
+    "preservedFilename": "the fear nots of luke.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/the fear nots of luke.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

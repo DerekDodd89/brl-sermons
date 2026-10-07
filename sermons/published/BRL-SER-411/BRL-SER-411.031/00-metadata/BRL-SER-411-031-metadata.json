@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.031",
+  "slug": "jesus-according-to-john-411-031",
+  "title": "JESUS ACCORDING TO JOHN",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 31
+  },
+  "mainText": [
+    "John 20:28",
+    "John 1:18",
+    "John 5:31-40",
+    "John 10:14-15"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "John presents Jesus' deity through the titles only begotten Son, Son of man, and good shepherd, and through testimony calling people to life in Him.",
+  "proposition": "Jesus' titles and the witnesses presented in John establish His deity and call people to come to Him for life.",
+  "sermonQuestion": "Who is Jesus according to John, and what testimony establishes His deity?",
+  "outline": [
+    {
+      "heading": "There are three deific phrases in the gospel of John that need some consideration. (Jn.1:18)"
+    },
+    {
+      "heading": "The book of John sets forth five witnesses to his deity."
+    }
+  ],
+  "topics": [
+    "Deity of Christ",
+    "Only begotten Son",
+    "Son of man",
+    "Good shepherd",
+    "Witnesses to Christ",
+    "Faith",
+    "Eternal life"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "JESUS ACCORDING TO JOHN.docx",
+    "preservedFilename": "JESUS ACCORDING TO JOHN.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/JESUS ACCORDING TO JOHN.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

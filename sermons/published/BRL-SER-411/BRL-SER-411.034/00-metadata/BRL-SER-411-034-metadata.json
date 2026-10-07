@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.034",
+  "slug": "the-compassion-of-jesus",
+  "title": "THE COMPASSION OF JESUS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 34
+  },
+  "mainText": [
+    "Matthew 9:36"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Jesus' compassion for suffering people teaches selfless care, moves people to faith, and motivates sharing the gospel.",
+  "proposition": "The Lord's compassion should move us to compassion for others with the gospel.",
+  "sermonQuestion": "What lessons should we learn from the compassion of Jesus?",
+  "outline": [
+    {
+      "heading": "Show Compassion when you think you’ve been mistreated."
+    },
+    {
+      "heading": "Why did Jesus heal these people?"
+    },
+    {
+      "heading": "Real compassion is not for self glorification"
+    },
+    {
+      "heading": "Everyday evangelism flows from compassion"
+    },
+    {
+      "heading": "The Lord’s compassion should move us to compassion for others with the gospel"
+    },
+    {
+      "heading": "His compassion moved others to faith."
+    }
+  ],
+  "topics": [
+    "Compassion",
+    "Healing",
+    "Selflessness",
+    "Evangelism",
+    "Faith",
+    "Care for others"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE COMPASSION OF JESUS.docx",
+    "preservedFilename": "THE COMPASSION OF JESUS.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE COMPASSION OF JESUS.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

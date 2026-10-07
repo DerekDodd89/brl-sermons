@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.026",
+  "slug": "a-few-words-concerning-the-word-411-026",
+  "title": "A FEW WORDS CONCERNING THE WORD",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 26
+  },
+  "mainText": [
+    "John 1:1",
+    "John 1:14"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Three couplets in John 1:1 and 1:14 reveal the eternal Word becoming flesh, dwelling among us, and revealing God in grace and truth.",
+  "proposition": "In the incarnate Word, God dwells among humanity and reveals His nature in grace and truth.",
+  "sermonQuestion": "What do the three couplets in John 1:1 and 1:14 reveal about the Word?",
+  "outline": [
+    {
+      "heading": "THE FIRST COUPLET"
+    },
+    {
+      "heading": "THE SECOND COUPLET."
+    },
+    {
+      "heading": "THE THIRD COUPLET."
+    }
+  ],
+  "topics": [
+    "Word of God",
+    "Incarnation",
+    "Deity of Christ",
+    "Grace",
+    "Truth",
+    "Revelation"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Concerning the advent of Christ.docx",
+    "preservedFilename": "Concerning the advent of Christ.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Concerning the advent of Christ.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

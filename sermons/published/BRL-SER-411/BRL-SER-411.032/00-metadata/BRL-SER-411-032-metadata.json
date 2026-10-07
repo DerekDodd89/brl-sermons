@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.032",
+  "slug": "jesus-the-good-shepherd-of-your-souls-411-032",
+  "title": "JESUS, THE GOOD SHEPHERD OF YOUR SOULS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 32
+  },
+  "mainText": [
+    "Ezekiel 34:31"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Jesus provides for, protects, seeks, and ultimately separates His sheep, calling wandering souls to return and follow His voice.",
+  "proposition": "We must hear and obey the Good Shepherd, who rescues our souls and leads His sheep to life.",
+  "sermonQuestion": "How does Jesus care for our souls as the Good Shepherd, and how should we respond?",
+  "outline": [
+    {
+      "heading": "THE GOOD SHEPHERD PROVIDES"
+    },
+    {
+      "heading": "THE GOOD SHEPHERD PROTECTS"
+    },
+    {
+      "heading": "THE GOOD SHEPHERD SEARCHES"
+    },
+    {
+      "heading": "THE GOOD SHEPHERD SEPARATES"
+    }
+  ],
+  "topics": [
+    "Good shepherd",
+    "Provision",
+    "Protection",
+    "Lost sheep",
+    "Salvation",
+    "Obedience",
+    "Judgment",
+    "Eternal life"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Jesus, The Good Shepherd of your Souls FINAL.docx",
+    "preservedFilename": "Jesus, The Good Shepherd of your Souls FINAL.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Jesus, The Good Shepherd of your Souls FINAL.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

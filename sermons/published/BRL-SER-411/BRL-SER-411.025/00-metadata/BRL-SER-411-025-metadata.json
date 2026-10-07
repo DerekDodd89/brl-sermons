@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.025",
+  "slug": "christs-resurrection-and-ours-in-romans",
+  "title": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 25
+  },
+  "mainText": [
+    "Romans 1:4",
+    "Romans 4:24-25",
+    "Romans 6:4-5, 9",
+    "Romans 7:4",
+    "Romans 8:11",
+    "Romans 8:34",
+    "Romans 10:9"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Christ's resurrection establishes His deity and undergirds justification, new life, fruitful service, peace, salvation, and our resurrection hope.",
+  "proposition": "Christ's resurrection assures believers of new life and their own resurrection, removing the fear of death.",
+  "sermonQuestion": "What does Christ's resurrection mean for our salvation, present life, and future resurrection?",
+  "outline": [
+    {
+      "heading": "THE PROOF OF CHRIST DEITY"
+    },
+    {
+      "heading": "THE PLEDGE OF OUR JUSTIFICATION"
+    },
+    {
+      "heading": "THE PATTERN OF NEW LIFE IN CHRIST"
+    },
+    {
+      "heading": "THE POWER FOR THE EXPRESSION OF THAT LIFE"
+    },
+    {
+      "heading": "THE PROMISE OF OUR RESURRECTION"
+    },
+    {
+      "heading": "THE PROVISION FOR OUR PEACE OF MIND"
+    },
+    {
+      "heading": "THE PROFESSION OF OUR FAITH FOR SALVATION"
+    }
+  ],
+  "topics": [
+    "Resurrection of Christ",
+    "Resurrection of believers",
+    "Deity of Christ",
+    "Justification",
+    "Baptism",
+    "New life",
+    "Intercession",
+    "Confession",
+    "Salvation"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+    "preservedFilename": "CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/CHRIST’S RESURRECTION AND OUR’S IN ROMANS.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

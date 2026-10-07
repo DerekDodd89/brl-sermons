@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.019",
+  "slug": "a-banquet-with-jesus-411-019",
+  "title": "A BANQUET WITH JESUS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 19
+  },
+  "mainText": [
+    "Luke 14:15-24",
+    "Deuteronomy 20:5-9"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The invitation to the great supper, the excuses of invited guests, and readiness for the banquet.",
+  "proposition": "Those invited to the banquet should respond with readiness rather than excuses.",
+  "sermonQuestion": "How should those invited to the banquet respond?",
+  "outline": [],
+  "topics": [
+    "Great supper",
+    "Excuses",
+    "Readiness",
+    "Kingdom of God"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "A BANQUET WITH JESUS.docx",
+    "preservedFilename": "A BANQUET WITH JESUS.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/A BANQUET WITH JESUS.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

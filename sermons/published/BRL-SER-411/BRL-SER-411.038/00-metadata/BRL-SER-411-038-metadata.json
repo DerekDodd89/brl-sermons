@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.038",
+  "slug": "the-penitent-thief",
+  "title": "The Penitent Thief",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 38
+  },
+  "mainText": [
+    "Luke 23:35-43"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "The penitent thief illustrates real guilt, repentance, and Jesus' authority to forgive, while distinguishing pardon under the new covenant.",
+  "proposition": "The thief's pardon displays Jesus' divine authority and the reality of repentance; those under the new covenant must receive pardon on Christ's stated terms.",
+  "sermonQuestion": "What does the penitent thief teach us about sin, repentance, forgiveness, and pardon under the new covenant?",
+  "outline": [
+    {
+      "heading": "The Story of the Incident."
+    },
+    {
+      "heading": "The Lessons to be Derived from the Story are as Follows:"
+    }
+  ],
+  "topics": [
+    "Penitent thief",
+    "Sin",
+    "Repentance",
+    "Forgiveness",
+    "Paradise",
+    "New covenant",
+    "Faith",
+    "Confession",
+    "Baptism"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE PENITENT THIEF.docx",
+    "preservedFilename": "THE PENITENT THIEF.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE PENITENT THIEF.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

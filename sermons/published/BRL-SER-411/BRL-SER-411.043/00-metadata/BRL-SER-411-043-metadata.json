@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.043",
+  "slug": "waiting-for-his-coming",
+  "title": "WAITING FOR HIS COMING",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 43
+  },
+  "mainText": [
+    "Malachi 3:16-17"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Simeon, Anna, and Joseph of Arimathaea model hopeful, godly waiting for the Messiah as Prophet, Priest, and King.",
+  "proposition": "Those waiting to welcome Christ should live soberly, righteously, and godly, as Simeon, Anna, and Joseph of Arimathaea did.",
+  "sermonQuestion": "How should we live while waiting to welcome Christ?",
+  "outline": [
+    {
+      "heading": "SIMEON"
+    },
+    {
+      "heading": "ANNA"
+    },
+    {
+      "heading": "JOSEPH OF ARIMATHAEA"
+    }
+  ],
+  "topics": [
+    "Hope",
+    "Waiting for Christ",
+    "Simeon",
+    "Anna",
+    "Joseph of Arimathaea",
+    "Godly living",
+    "Messiah"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "WAITING FOR HIS COMING 2.docx",
+    "preservedFilename": "WAITING FOR HIS COMING 2.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/WAITING FOR HIS COMING 2.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.040",
+  "slug": "the-trial-of-christ",
+  "title": "THE TRIAL OF CHRIST",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 40
+  },
+  "mainText": [
+    "Matthew 20:18"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Jesus' betrayal, arrest, Jewish and Roman trials, and death sentence culminate in His taking the sting of sin and death for us.",
+  "proposition": "The trial ended with a death sentence, but it did not make an end of Christ.",
+  "sermonQuestion": "What happened in Christ's trial, and what does His suffering mean for us?",
+  "outline": [
+    {
+      "heading": "HIS ENTRANCE INTO JERUSALEM AND COURSE PURSUED BY HIS ENEMIES BEFORE ARREST."
+    },
+    {
+      "heading": "HIS ARREST ABOUT MIDNIGHT IN THE GARDEN."
+    },
+    {
+      "heading": "FIRST ARRAIGNED BEFORE THE JEWISH COURT."
+    },
+    {
+      "heading": "BEFORE THE ROMAN COURT."
+    },
+    {
+      "heading": "PILATE SOUGHT TO RELEASE HIM."
+    }
+  ],
+  "topics": [
+    "Trial of Christ",
+    "Betrayal",
+    "Arrest of Jesus",
+    "Sanhedrin",
+    "Pilate",
+    "Suffering of Christ",
+    "Death"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE TRIAL OF CHRIST.docx",
+    "preservedFilename": "THE TRIAL OF CHRIST.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE TRIAL OF CHRIST.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.030",
+  "slug": "healing-at-the-pool-of-bethesda-411-030",
+  "title": "Healing at the Pool of Bethesda",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 30
+  },
+  "mainText": [
+    "John 5:1-17"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Jesus' healing at Bethesda contrasts His compassion with apathy and criticism and confirms His divine authority.",
+  "proposition": "The healing at Bethesda demonstrates Jesus' compassion and divinity and calls us to compassionate, faithful action rather than apathy.",
+  "sermonQuestion": "What do we see and learn in Jesus' healing at the pool of Bethesda?",
+  "outline": [
+    {
+      "heading": "AT THE POOL OF BETHESDA WE SEE AN UNREALIZED CURE"
+    },
+    {
+      "heading": "AT THE POOL OF BETHESDA WE SEE AN UNABASHED COMMAND"
+    },
+    {
+      "heading": "AT THE POOL OF BETHESDA WE SEE AN UNJUSTIFIED CRITICISM"
+    },
+    {
+      "heading": "AT THE POOL OF BETHESDA WE SEE AN UNAPOLOGETIC CONFIRMATION"
+    }
+  ],
+  "topics": [
+    "Compassion",
+    "Healing",
+    "Bethesda",
+    "Sabbath",
+    "Deity of Christ",
+    "Criticism",
+    "Faith"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "healing at the pool .docx",
+    "preservedFilename": "healing at the pool .docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/healing at the pool .docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

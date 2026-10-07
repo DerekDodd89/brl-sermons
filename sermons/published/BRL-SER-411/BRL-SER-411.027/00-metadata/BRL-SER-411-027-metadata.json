@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.027",
+  "slug": "excuses-411-027",
+  "title": "EXCUSES",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 27
+  },
+  "mainText": [
+    "Luke 14:15-24"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "An unfinished sermon on excuses and the banquet, introduced by Jesus' willingness to confront controversy.",
+  "proposition": "Jesus did not run from a crisis and was not afraid to be confrontational.",
+  "sermonQuestion": "What excuses keep people from responding to the banquet invitation?",
+  "outline": [
+    {
+      "heading": "THE BANQUET"
+    }
+  ],
+  "topics": [
+    "Excuses",
+    "Great supper",
+    "Kingdom of God"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Excuses during the banquet.docx",
+    "preservedFilename": "Excuses during the banquet.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Excuses during the banquet.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

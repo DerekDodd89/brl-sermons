@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.039",
+  "slug": "the-resurrection",
+  "title": "THE RESURRECTION",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 39
+  },
+  "mainText": [
+    "Acts 2:22-39"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The Pentecost proclamation, known facts, and response of those who crucified Jesus testify to His resurrection as their only hope.",
+  "proposition": "Jesus' resurrection could not be refuted at Pentecost and is the sinner's only hope for salvation and future life.",
+  "sermonQuestion": "How does the first gospel sermon testify to the truth and necessity of Christ's resurrection?",
+  "outline": [
+    {
+      "heading": "PENTECOST"
+    },
+    {
+      "heading": "THE OPPORTUNITY TO REFUTE IT"
+    },
+    {
+      "heading": "SOME WELL KNOWN FACTS"
+    },
+    {
+      "heading": "THE GUILTY TESTIFY TO THE RESURRECTION"
+    },
+    {
+      "heading": "HIS RESURRECTION THEIR ONLY HOPE"
+    }
+  ],
+  "topics": [
+    "Resurrection of Christ",
+    "Pentecost",
+    "Evidence for faith",
+    "Guilt",
+    "Baptism",
+    "Salvation",
+    "Hope"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE RESURRECTION.docx",
+    "preservedFilename": "THE RESURRECTION.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE RESURRECTION.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

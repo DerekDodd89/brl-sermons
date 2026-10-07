@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.021",
+  "slug": "a-vision-of-christ",
+  "title": "A VISION OF CHRIST",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 21
+  },
+  "mainText": [
+    "Psalm 22"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Psalm 22 portrays Christ in reproach and rejection, resurrection and rejoicing, righteous rule and completed work.",
+  "proposition": "Psalm 22 presents the suffering Christ as the risen, rejoicing, ruling, and righteous Lord.",
+  "sermonQuestion": "What vision of Christ does Psalm 22 present?",
+  "outline": [
+    {
+      "heading": "THE REPROACHED ONE"
+    },
+    {
+      "heading": "THE REJECTED ONE"
+    },
+    {
+      "heading": "THE RISEN ONE"
+    },
+    {
+      "heading": "THE REJOICING ONE"
+    },
+    {
+      "heading": "THE RULING ONE"
+    },
+    {
+      "heading": "THE RIGHTEOUS ONE"
+    }
+  ],
+  "topics": [
+    "Psalm 22",
+    "Suffering of Christ",
+    "Resurrection",
+    "Praise",
+    "Sovereignty of God",
+    "Righteousness"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "A VISION OF CHRIST final.docx",
+    "preservedFilename": "A VISION OF CHRIST final.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-06"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/A VISION OF CHRIST final.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}
