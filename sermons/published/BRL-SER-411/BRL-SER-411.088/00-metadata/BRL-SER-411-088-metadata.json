@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.088",
+  "slug": "7-proofs-of-discipleship",
+  "title": "7 PROOFS OF DISCIPLESHIP",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 88
+  },
+  "mainText": [
+    "Luke 14:26-33",
+    "John 8:31",
+    "John 13:35",
+    "John 15:8"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "True discipleship is shown in allegiance to Christ, self-denial, obedience, love, and fruitfulness.",
+  "proposition": "Following Christ requires costly allegiance that continues in His word, loves others, and bears fruit for God.",
+  "sermonQuestion": "What proves that we are Christ’s disciples?",
+  "outline": [
+    {
+      "heading": "LEAVING KINDRED – LUKE 14:26"
+    },
+    {
+      "heading": "HATING HIS OWN LIFE – LUKE 14:26"
+    },
+    {
+      "heading": "BEARING THE CROSS – LUKE 14:27"
+    },
+    {
+      "heading": "FORSAKING POSSESSIONS – LUKE 14:33"
+    },
+    {
+      "heading": "CONTINUING IN CHRIST’S WORD – JOHN 8:31"
+    },
+    {
+      "heading": "LOVING ONE ANOTHER – JOHN 13:35"
+    },
+    {
+      "heading": "BEARING FRUIT FOR GOD – JOHN 15:8"
+    }
+  ],
+  "topics": [
+    "Discipleship",
+    "Self-denial",
+    "Obedience",
+    "Love",
+    "Fruitfulness"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "7 PROOFS OF DISCIPLESHIP.docx",
+    "preservedFilename": "7 PROOFS OF DISCIPLESHIP.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/7 PROOFS OF DISCIPLESHIP.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/7 PROOFS OF DISCIPLESHIP.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

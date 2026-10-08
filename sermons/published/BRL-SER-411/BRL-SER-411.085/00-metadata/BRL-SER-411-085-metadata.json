@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.085",
+  "slug": "the-model-church",
+  "title": "THE MODEL CHURCH",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 85
+  },
+  "mainText": [
+    "1 Thessalonians 1:1-10"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "The surviving opening section commends the Thessalonians’ faith, love, hope, and life in God’s grace and peace.",
+  "proposition": "A commendable church lives by God’s grace and displays work of faith, labor of love, and patience of hope.",
+  "sermonQuestion": "What makes the Thessalonian church commendable in the surviving section?",
+  "outline": [
+    {
+      "heading": "A COMMENDABLE CHRUCH (1:1-3)."
+    }
+  ],
+  "topics": [
+    "Church",
+    "Faith",
+    "Love",
+    "Hope",
+    "Prayer"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE MODEL CHURCH.docx",
+    "preservedFilename": "THE MODEL CHURCH.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE MODEL CHURCH.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.072",
+  "slug": "christian-duties",
+  "title": "Christian Duties",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 13
+  },
+  "mainText": [
+    "Hebrews 13"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Faith in the superior Christ expresses itself in social and religious duties and faithful fellowship.",
+  "proposition": "Because Jesus is the better way, Christians must fulfill their duties in daily relationships, worship, and church life.",
+  "sermonQuestion": "What does Hebrews 13 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "Social Duties. (1-6)"
+    },
+    {
+      "heading": "Religious Duties (7-17)"
+    },
+    {
+      "heading": "Instructions and greeting. (18-25)"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_13.doc",
+    "preservedFilename": "Heb_Ch_13.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_13.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

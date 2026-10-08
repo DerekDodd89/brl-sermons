@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.094",
+  "slug": "be-ye-also-ready",
+  "title": "BE YE ALSO READY",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 94
+  },
+  "mainText": [
+    "Matthew 24"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "The surviving section recounts Jesus’ warning of Jerusalem’s destruction and the signs prompting believers to flee.",
+  "proposition": "Jesus foretold Jerusalem’s destruction and gave His followers warnings they needed to heed.",
+  "sermonQuestion": "What warnings did Jesus give His followers before Jerusalem’s destruction?",
+  "outline": [
+    {
+      "heading": "THE DESTRUCTION FORETOLD"
+    }
+  ],
+  "topics": [
+    "Jerusalem",
+    "Prophecy",
+    "Readiness",
+    "Matthew 24",
+    "Obedience"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "BE YE ALSO READY.docx",
+    "preservedFilename": "BE YE ALSO READY.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/BE YE ALSO READY.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

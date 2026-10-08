@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.087",
+  "slug": "7-figures-of-the-word-of-god",
+  "title": "7 FIGURES OF THE WORD OF GOD",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 87
+  },
+  "mainText": [
+    "Jeremiah 23:29"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Seven biblical figures describe the word’s power to melt, break, illuminate, smite, reveal, sustain, and cleanse.",
+  "proposition": "God’s word transforms our lives as fire, hammer, lamp, sword, mirror, food, and cleansing water.",
+  "sermonQuestion": "How do seven biblical figures reveal the work of God’s word?",
+  "outline": [
+    {
+      "heading": "A FIRE TO MELT (JER. 23:29)"
+    },
+    {
+      "heading": "A HAMMER TO BREAK (JER. 23:29)"
+    },
+    {
+      "heading": "A LAMP TO SHINE (PS. 119:105)"
+    },
+    {
+      "heading": "A SWORD TO SMITE (HEB. 4:12)"
+    },
+    {
+      "heading": "A MIRROR TO REVEAL (JAMES 1:23)"
+    },
+    {
+      "heading": "A FOOD TO SUSTAIN (1 PET. 2:2)"
+    },
+    {
+      "heading": "A WATER TO CLEANSE (PS. 119:9)"
+    }
+  ],
+  "topics": [
+    "Word of God",
+    "Scripture",
+    "Spiritual growth",
+    "Cleansing",
+    "Truth"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "7 figures of the word.docx",
+    "preservedFilename": "7 figures of the word.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/7 figures of the word.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/7 FIGURES OF THE WORD OF GOD.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

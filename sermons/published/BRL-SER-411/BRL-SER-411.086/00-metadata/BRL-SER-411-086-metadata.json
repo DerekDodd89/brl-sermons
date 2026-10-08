@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.086",
+  "slug": "what-each-local-church-should-be",
+  "title": "WHAT EACH LOCAL CHURCH SHOULD BE",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 86
+  },
+  "mainText": [
+    "1 Thessalonians 1:8",
+    "1 Thessalonians 2:7-8",
+    "1 Thessalonians 2:14-15",
+    "1 Thessalonians 3:5",
+    "1 Thessalonians 3:12",
+    "1 Thessalonians 4:6",
+    "1 Thessalonians 4:9-13",
+    "1 Thessalonians 5:14"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "First Thessalonians portrays the local church as a place of witness, nurture, love, discipline, instruction, and care.",
+  "proposition": "Each local church should fulfill its calling to witness, nurture, love, instruct, discipline, and support its members.",
+  "sermonQuestion": "What should each local church be?",
+  "outline": [
+    {
+      "heading": "A CENTER OF GOSPEL TESTIMONY (1 THESS. 1:8)."
+    },
+    {
+      "heading": "A NURSERY FOR SPIRITUAL BABES (1 THESS. 2:7-8)."
+    },
+    {
+      "heading": "A TARGET FOR THE DEVIL (1 THESS. 2:14-15; 3:5)."
+    },
+    {
+      "heading": "A FAMILY CIRCLE WITH LOVE PREVAILING (1 THESS. 3:12)."
+    },
+    {
+      "heading": "A SPHERE OF DIVINE DISCIPLINE (1 THESS. 4:6)."
+    },
+    {
+      "heading": "A SCHOOL FOR CHARACTER DEVELOPMENT AND FOR INSTRUCTION (1 THESS. 4:9-13)."
+    },
+    {
+      "heading": "A HOSPITAL FOR THE SPIRITUALLY WEAK (1 THESS. 5:14)."
+    }
+  ],
+  "topics": [
+    "Local church",
+    "Evangelism",
+    "Spiritual growth",
+    "Love",
+    "Discipline",
+    "Care"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "WHAT EACH LOCAL CHURCH SHOULD BE.docx",
+    "preservedFilename": "WHAT EACH LOCAL CHURCH SHOULD BE.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/WHAT EACH LOCAL CHURCH SHOULD BE.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

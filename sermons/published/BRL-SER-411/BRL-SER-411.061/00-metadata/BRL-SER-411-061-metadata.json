@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.061",
+  "slug": "jesus-is-ruler-of-all-the-earth",
+  "title": "Jesus is Ruler of All the Earth",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 2
+  },
+  "mainText": [
+    "Hebrews 2"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Christ’s humanity and suffering establish His saving work without diminishing His superiority.",
+  "proposition": "We must heed Christ’s superior message and trust the Savior who shared our humanity to deliver us.",
+  "sermonQuestion": "What does Hebrews 2 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "A Superior Message v. 1-4"
+    },
+    {
+      "heading": "A Superior Man v. 5-8"
+    },
+    {
+      "heading": "A Superior Christ v. 9-10"
+    },
+    {
+      "heading": "A Superior Relationship v. 11-13"
+    },
+    {
+      "heading": "A Superior Personification v. 14"
+    },
+    {
+      "heading": "A Superior Life v. 15-18"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_2.doc",
+    "preservedFilename": "Heb_Ch_2.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_2.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/Hebrews_2.ppt",
+      "role": "presentation",
+      "format": "ppt"
+    }
+  ]
+}

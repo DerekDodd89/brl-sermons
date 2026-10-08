@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.048",
+  "slug": "daniels-character",
+  "title": "DANIEL’S CHARACTER",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 48
+  },
+  "mainText": [
+    "Daniel 1:8"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Daniel’s purity, conviction, courage, and courtesy resist the pressures of Babylon.",
+  "proposition": "Like Daniel, God’s people must purpose to remain pure with conviction, courage, and courtesy.",
+  "sermonQuestion": "What made Daniel’s character stand firm under pressure?",
+  "outline": [
+    {
+      "heading": "THREE QUALIFICATIONS REQUIRED BY THE KING"
+    },
+    {
+      "heading": "THREE PURPOSES AT WORK."
+    },
+    {
+      "heading": "THREE TRAITS IN DANIEL’S CHARACTER."
+    }
+  ],
+  "topics": [
+    "Daniel",
+    "Character",
+    "Purity",
+    "Courage",
+    "Conviction"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "DANIEL’S CHARACTER.docx",
+    "preservedFilename": "DANIEL’S CHARACTER.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/DANIEL’S CHARACTER.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

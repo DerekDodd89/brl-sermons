@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.053",
+  "slug": "the-gospel-paul-preached",
+  "title": "THE GOSPEL PAUL PREACHED",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 53
+  },
+  "mainText": [
+    "1 Timothy 1:15"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Paul’s trustworthy gospel announces that Christ Jesus came into the world to save sinners.",
+  "proposition": "Christ Jesus came into the world to save sinners, a faithful saying worthy of wholehearted acceptance.",
+  "sermonQuestion": "What does Paul’s faithful saying teach us about the gospel?",
+  "outline": [
+    {
+      "heading": "THE PROCLAMATION"
+    },
+    {
+      "heading": "THE PLEA"
+    },
+    {
+      "heading": "THE PERSON"
+    },
+    {
+      "heading": "THE PLACE"
+    },
+    {
+      "heading": "THE PURPOSE"
+    },
+    {
+      "heading": "THE PEOPLE"
+    }
+  ],
+  "topics": [
+    "Gospel",
+    "Jesus Christ",
+    "Salvation",
+    "Sinners",
+    "Incarnation"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE GOSPEL PAUL PREACHED.docx",
+    "preservedFilename": "THE GOSPEL PAUL PREACHED.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE GOSPEL PAUL PREACHED.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/THE GOSPEL PAUL PREACHED.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

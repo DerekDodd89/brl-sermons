@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.082",
+  "slug": "the-four-kings-of-romans-five",
+  "title": "THE FOUR KINGS OF ROMANS FIVE",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 82
+  },
+  "mainText": [
+    "Romans 5:14-21"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Death, righteousness, sin, and grace are contrasted as reigns that call for allegiance to Christ.",
+  "proposition": "We must serve Christ under the reign of grace and righteousness rather than remain under sin and death.",
+  "sermonQuestion": "What king do you serve?",
+  "outline": [
+    {
+      "heading": "DEATH REIGNED (14)"
+    },
+    {
+      "heading": "RIGHTEOUSNESS REIGNED (17)"
+    },
+    {
+      "heading": "SIN REIGNED (21)"
+    },
+    {
+      "heading": "GRACE REIGNED (21)"
+    }
+  ],
+  "topics": [
+    "Romans",
+    "Grace",
+    "Sin",
+    "Death",
+    "Righteousness"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "4 Kings of Romans 5.docx",
+    "preservedFilename": "4 Kings of Romans 5.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/4 Kings of Romans 5.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.073",
+  "slug": "the-no-mores-of-hebrews-10",
+  "title": "THE ‘NO MORES’ OF HEBREWS 10",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 73
+  },
+  "mainText": [
+    "Hebrews 10:2",
+    "Hebrews 10:17-18",
+    "Hebrews 10:26"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The finality of Christ’s sacrifice brings forgiveness and warns against willful apostasy.",
+  "proposition": "Christ’s sufficient sacrifice removes sin, leaving no excuse to reject it and no alternative sacrifice for the apostate.",
+  "sermonQuestion": "What do the four “no mores” of Hebrews 10 teach us about sin and Christ’s sacrifice?",
+  "outline": [
+    {
+      "heading": "NO MORE CONSCIENCE OF SINS AS FAR AS THE BELIEVER IS CONCERNED v. 2"
+    },
+    {
+      "heading": "NO MORE REMEMBRANCE OF SINS AS FAR AS GOD IS CONCERNED v. 17"
+    },
+    {
+      "heading": "NO MORE OFFERING FOR SINS AS FAR AS CHRIST IS CONCERNED v. 18"
+    },
+    {
+      "heading": "NO MORE SACRIFICE FOR SINS AS FAR AS THE APOSTATE IS CONCERNED v. 26"
+    }
+  ],
+  "topics": [
+    "Forgiveness",
+    "Sacrifice of Christ",
+    "Apostasy",
+    "Hebrews",
+    "Sin"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE ‘NO MORES’ OF HEBREWS 10.docx",
+    "preservedFilename": "THE ‘NO MORES’ OF HEBREWS 10.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE ‘NO MORES’ OF HEBREWS 10.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/THE NO MORES OF HEBREWS 10.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

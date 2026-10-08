@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.066",
+  "slug": "the-priesthood-of-christ-411-066",
+  "title": "The Priesthood of Christ",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 7
+  },
+  "mainText": [
+    "Hebrews 7"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Christ’s priesthood after the order of Melchizedek surpasses Levi’s through its permanence, perfection, and intercession.",
+  "proposition": "Christ is the perfect and enduring High Priest who brings a better covenant and makes intercession for His people.",
+  "sermonQuestion": "Why is Christ’s priesthood superior to the Levitical priesthood?",
+  "outline": [
+    {
+      "heading": "The Order of Christ Priesthood. 1-16"
+    },
+    {
+      "heading": "The Eternality of Christ Priesthood. 17-23"
+    },
+    {
+      "heading": "The Intercessions of Christ Priesthood. 24-28"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Priesthood of Christ",
+    "Melchizedek",
+    "New covenant",
+    "Intercession"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_7.doc",
+    "preservedFilename": "Heb_Ch_7.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_7.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

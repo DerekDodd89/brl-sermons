@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.089",
+  "slug": "a-grave-miscalculation",
+  "title": "A GRAVE MISCALCULATION",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 89
+  },
+  "mainText": [
+    "Isaiah 22:15-17"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Shebna’s planned memorial and other biblical examples warn against pride and misplaced confidence.",
+  "proposition": "Earthly status and plans cannot secure our future; we must humbly serve God and obey His will.",
+  "sermonQuestion": "What grave miscalculations arise when pride replaces trust and obedience to God?",
+  "outline": [
+    {
+      "heading": "HISTORICAL SETTING"
+    },
+    {
+      "heading": "Grave Mistakes in the Bible"
+    }
+  ],
+  "topics": [
+    "Pride",
+    "Judgment",
+    "Shebna",
+    "Humility",
+    "Eternity"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "a grave miscalculation.docx",
+    "preservedFilename": "a grave miscalculation.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/a grave miscalculation.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

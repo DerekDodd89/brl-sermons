@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.097",
+  "slug": "calvary-its-purpose",
+  "title": "Calvary Its Purpose",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 97
+  },
+  "mainText": [
+    "1 Corinthians 1:18",
+    "Galatians 6:14"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The cross manifests God’s holiness, love, forgiveness, and remedy for sin, bringing salvation and sanctification.",
+  "proposition": "The preaching of the cross has a two-fold purpose: salvation and sanctification.",
+  "sermonQuestion": "What does the cross reveal, and what is its purpose for us?",
+  "outline": [
+    {
+      "heading": "The Realization of The Cross"
+    },
+    {
+      "heading": "The Forgiveness of The Cross"
+    },
+    {
+      "heading": "The Salvation of The Cross"
+    },
+    {
+      "heading": "The Preaching of The Cross"
+    }
+  ],
+  "topics": [
+    "Cross",
+    "Salvation",
+    "Sanctification",
+    "Forgiveness",
+    "God’s love"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Calvary Its Purpose.docx",
+    "preservedFilename": "Calvary Its Purpose.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Calvary Its Purpose.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

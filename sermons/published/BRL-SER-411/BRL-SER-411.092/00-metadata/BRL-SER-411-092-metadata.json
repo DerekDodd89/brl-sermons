@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.092",
+  "slug": "actions-speak-loudly",
+  "title": "ACTIONS SPEAK LOUDLY",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 92
+  },
+  "mainText": [
+    "Deuteronomy 6:1-25"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Moses’ commands call for love of God expressed in hearing, teaching, remembering, serving, and obedience.",
+  "proposition": "Love for the Lord must be expressed in the daily actions commanded in His word.",
+  "sermonQuestion": "How should love for God become visible in our actions?",
+  "outline": [
+    {
+      "heading": "Hear (v. 4)"
+    },
+    {
+      "heading": "Love (v. 5)"
+    },
+    {
+      "heading": "Teach (v. 7)"
+    },
+    {
+      "heading": "Bind (v. 8)"
+    },
+    {
+      "heading": "Write (v.9)"
+    },
+    {
+      "heading": "Beware (v. 12)"
+    },
+    {
+      "heading": "Fear (v. 13a)"
+    },
+    {
+      "heading": "Serve (v. 13b)"
+    },
+    {
+      "heading": "Swear (v. 13c)"
+    },
+    {
+      "heading": "You shall not go (v. 14)"
+    },
+    {
+      "heading": "You shall not tempt (v. 16)"
+    },
+    {
+      "heading": "Keep (v. 17)"
+    },
+    {
+      "heading": "You shall do (v.18)"
+    },
+    {
+      "heading": "You shall cast out (v. 19)"
+    },
+    {
+      "heading": "You shall say (v. 21)"
+    }
+  ],
+  "topics": [
+    "Obedience",
+    "Love of God",
+    "Teaching",
+    "Family",
+    "Deuteronomy"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "actions speak loudly.docx",
+    "preservedFilename": "actions speak loudly.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/actions speak loudly.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/ACTIONS SPEAK LOUDLY.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

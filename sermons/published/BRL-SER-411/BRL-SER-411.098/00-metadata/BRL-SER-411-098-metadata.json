@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.098",
+  "slug": "historical-record",
+  "title": "HISTORICAL RECORD",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 98
+  },
+  "mainText": [
+    "Luke 2:8"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Legacy research notes challenge claims that shepherds or early Christmas history rule out a December birth of Jesus.",
+  "proposition": "The notes argue that historical evidence does not establish that Jesus could not have been born on December 25.",
+  "sermonQuestion": "Do the shepherds and early historical records establish that Jesus could not have been born on December 25?",
+  "outline": [],
+  "topics": [
+    "Christmas",
+    "Birth of Jesus",
+    "Shepherds",
+    "Historical research"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Christmas facts.docx",
+    "preservedFilename": "Christmas facts.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Christmas facts.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

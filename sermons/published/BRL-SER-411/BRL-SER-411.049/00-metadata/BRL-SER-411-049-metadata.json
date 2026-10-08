@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.049",
+  "slug": "the-glorious-vision",
+  "title": "THE GLORIOUS VISION",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 49
+  },
+  "mainText": [
+    "Daniel 10:5-6"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "The features of Daniel’s glorious vision illustrate the glory, service, judgment, and authority of Christ.",
+  "proposition": "The glorious figure in Daniel’s vision displays qualities that direct our attention to Christ’s perfection and authority.",
+  "sermonQuestion": "What do the features of Daniel’s glorious vision reveal about Christ?",
+  "outline": [
+    {
+      "heading": "HIS CLOTHING"
+    },
+    {
+      "heading": "HIS GIRDLE"
+    },
+    {
+      "heading": "HIS BODY"
+    },
+    {
+      "heading": "HIS FACE"
+    },
+    {
+      "heading": "HIS EYES"
+    },
+    {
+      "heading": "HIS ARMS AND FEET"
+    },
+    {
+      "heading": "HIS VOICE"
+    }
+  ],
+  "topics": [
+    "Daniel",
+    "Jesus Christ",
+    "Glory",
+    "Judgment",
+    "Authority"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE GLORIOUS VISION.docx",
+    "preservedFilename": "THE GLORIOUS VISION.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE GLORIOUS VISION.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

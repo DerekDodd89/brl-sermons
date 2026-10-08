@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.099",
+  "slug": "come-unto-me",
+  "title": "COME UNTO ME",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 99
+  },
+  "mainText": [
+    "Matthew 11:28-30"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Jesus invites the burdened to come, take His yoke, leave their burden, and find present rest.",
+  "proposition": "Responding to Jesus’ invitation means coming to Him, taking His yoke, leaving our burden, and finding rest.",
+  "sermonQuestion": "How should we respond to Jesus’ invitation to come to Him?",
+  "outline": [
+    {
+      "heading": "Something to do—“come unto me”"
+    },
+    {
+      "heading": "Something to take—“His yoke”"
+    },
+    {
+      "heading": "Something to leave—“Your burden”"
+    },
+    {
+      "heading": "Something to find—“rest”"
+    }
+  ],
+  "topics": [
+    "Jesus Christ",
+    "Rest",
+    "Discipleship",
+    "Burdens",
+    "Invitation"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "COME UNTO ME.docx",
+    "preservedFilename": "COME UNTO ME.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/COME UNTO ME.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

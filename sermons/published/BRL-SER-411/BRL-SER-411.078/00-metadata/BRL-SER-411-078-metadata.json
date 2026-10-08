@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.078",
+  "slug": "perfection-in-the-book-of-james",
+  "title": "PERFECTION IN THE BOOK OF JAMES",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 78
+  },
+  "mainText": [
+    "James 1:17",
+    "James 1:25",
+    "James 1:4",
+    "James 2:22",
+    "James 3:2"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "James describes God’s perfect gifts and law and the maturity expressed in patience, works, and restraint.",
+  "proposition": "Christian maturity grows through God’s gifts and law, persevering patience, active faith, and control of speech.",
+  "sermonQuestion": "How does James describe perfection in the Christian life?",
+  "outline": [
+    {
+      "heading": "THE PERFECT GIFT OF GOD – JAMES 1:17"
+    },
+    {
+      "heading": "THE PERFECT LAW OF LIBERTY – JAMES 1:25"
+    },
+    {
+      "heading": "THE PERFECT WORK OF PATIENCE – JAMES 1:4"
+    },
+    {
+      "heading": "THE PERFECT FAITH BY WORKS – JAMES 2:22"
+    },
+    {
+      "heading": "THE PERFECT MAN BY RESTRAINT – JAMES 3:2"
+    }
+  ],
+  "topics": [
+    "James",
+    "Spiritual maturity",
+    "Patience",
+    "Faith and works",
+    "Speech"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "PERFECTION IN THE BOOK OF JAMES.docx",
+    "preservedFilename": "PERFECTION IN THE BOOK OF JAMES.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/PERFECTION IN THE BOOK OF JAMES.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

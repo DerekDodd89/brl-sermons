@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.050",
+  "slug": "the-touch",
+  "title": "THE TOUCH",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 50
+  },
+  "mainText": [
+    "Daniel 8:18",
+    "Daniel 9:21",
+    "Daniel 10:10",
+    "Daniel 10:16",
+    "Daniel 10:18"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Daniel’s encounters illustrate restoration, instruction, comfort, assurance, and strength from God.",
+  "proposition": "We should welcome God’s work of restoration, instruction, comfort, assurance, and strength in our weakness.",
+  "sermonQuestion": "How does God’s touch help His servants in times of need?",
+  "outline": [
+    {
+      "heading": "THE TOUCH OF RESTORATION – DAN. 8:18"
+    },
+    {
+      "heading": "THE TOUCH OF INSTRUCTION – DAN. 9:21"
+    },
+    {
+      "heading": "THE TOUCH OF COMFORT – DAN. 10:10"
+    },
+    {
+      "heading": "THE TOUCH OF ASSURANCE – DAN. 10:16"
+    },
+    {
+      "heading": "THE TOUCH OF STRENGTH – DAN. 10:18"
+    }
+  ],
+  "topics": [
+    "Daniel",
+    "Restoration",
+    "Comfort",
+    "Assurance",
+    "Strength"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE TOUCH.docx",
+    "preservedFilename": "THE TOUCH.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE TOUCH.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

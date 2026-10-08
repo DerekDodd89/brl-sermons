@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.047",
+  "slug": "daniel-prayed",
+  "title": "DANIEL PRAYED",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 47
+  },
+  "mainText": [
+    "Daniel 6:10-11",
+    "Daniel 9:2-22"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Daniel models thankful, confessing, Scripture-informed prayer and trust in God’s promises.",
+  "proposition": "Daniel’s prayers teach us to approach God with thanksgiving, confession, praise, and confidence in His promises.",
+  "sermonQuestion": "What can Daniel’s prayers teach us about praying faithfully?",
+  "outline": [
+    {
+      "heading": "FOUR WORDS USED TO DECRIBEL DANIEL’S PRAYERS."
+    },
+    {
+      "heading": "THE CHARACTER OF DANIELS PRAYER."
+    }
+  ],
+  "topics": [
+    "Prayer",
+    "Thanksgiving",
+    "Confession",
+    "Daniel",
+    "God’s promises"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "DANIEL PRAYED.docx",
+    "preservedFilename": "DANIEL PRAYED.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/DANIEL PRAYED.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

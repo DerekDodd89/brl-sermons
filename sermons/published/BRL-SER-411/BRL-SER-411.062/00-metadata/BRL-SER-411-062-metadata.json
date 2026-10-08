@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.062",
+  "slug": "christ-is-superior-to-moses",
+  "title": "Christ is Superior to Moses",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 3
+  },
+  "mainText": [
+    "Hebrews 3"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Christ’s superior faithfulness and position call God’s house to confidence and warn against unbelief.",
+  "proposition": "Because Christ is superior to Moses, we must hold fast our confidence and beware of unbelief.",
+  "sermonQuestion": "What does Hebrews 3 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "Christ Faith Is Superior to Moses’s v. 1-2"
+    },
+    {
+      "heading": "Christ Position Is Superior to Moses’s v. 3-6"
+    },
+    {
+      "heading": "A Warning to the House of God v. 7-19"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_3.doc",
+    "preservedFilename": "Heb_Ch_3.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_3.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/Hebrews_3.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

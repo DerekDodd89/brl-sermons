@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.069",
+  "slug": "the-accessible-system-of-christ",
+  "title": "The Accessible System of Christ",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 10
+  },
+  "mainText": [
+    "Hebrews 10"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Christ’s sufficient sacrifice gives access to God and calls believers to perseverance and accountability.",
+  "proposition": "Christ’s accessible system calls us to draw near, encourage one another, and remain faithful rather than turn back.",
+  "sermonQuestion": "What does Hebrews 10 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "An Abolished System (1-18)"
+    },
+    {
+      "heading": "An Accessible System (19-25)"
+    },
+    {
+      "heading": "An Accountable System (26-39)"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_10.doc",
+    "preservedFilename": "Heb_Ch_10.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_10.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

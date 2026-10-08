@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.096",
+  "slug": "blessed-are-those-who-mourn",
+  "title": "BLESSED ARE THOSE WHO MOURN",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 96
+  },
+  "mainText": [
+    "Matthew 5:4"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Mourning sin leads to repentance and the comfort of God’s forgiveness.",
+  "proposition": "Understanding the importance of Mourning our Sin (in Repentance), the sins of others (in Reproach), and the comfort that comes from God, through forgiveness (Remission of Sins).",
+  "sermonQuestion": "How does mourning over sin lead to God’s promised comfort?",
+  "outline": [
+    {
+      "heading": "THE REPROACH OF SINS"
+    },
+    {
+      "heading": "THE REPENTANCE OF SINS"
+    },
+    {
+      "heading": "THE REMISSION OF SINS"
+    }
+  ],
+  "topics": [
+    "Mourning",
+    "Sin",
+    "Repentance",
+    "Forgiveness",
+    "Beatitudes"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "blessed are those who mourn (josh version).docx",
+    "preservedFilename": "blessed are those who mourn (josh version).docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/blessed are those who mourn (josh version).docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

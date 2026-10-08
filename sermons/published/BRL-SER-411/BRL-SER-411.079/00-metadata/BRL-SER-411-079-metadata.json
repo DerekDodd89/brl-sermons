@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.079",
+  "slug": "psalm-23-the-shepherd-in-the-shadowan-expository-sermon-for-dealing-with-terminal-illness",
+  "title": "Psalm 23: The Shepherd in the Shadow—An Expository Sermon for Dealing with Terminal Illness",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 79
+  },
+  "mainText": [
+    "Psalm 23"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "When terminal illness brings us into the valley of the shadow of death, the Lord is not absent; He is our Shepherd, Provider, Restorer, Companion, Host, and Eternal Home.",
+  "proposition": "The Lord shepherds His people through every stage of suffering and death, sustaining them with His presence and eternal hope.",
+  "sermonQuestion": "Whose are we when illness and death bring us into the valley?",
+  "outline": [
+    {
+      "heading": "The Shepherd Gives Personal Assurance When Life Feels Out of Control — “The Lord is my shepherd; I shall not want.”"
+    },
+    {
+      "heading": "The Shepherd Gives Rest When the Body and Soul Are Exhausted — “He maketh me to lie down in green pastures: he leadeth me beside the still waters.”"
+    },
+    {
+      "heading": "The Shepherd Restores the Soul When Illness Wounds More Than the Body — “He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.”"
+    },
+    {
+      "heading": "The Shepherd Gives Courage in the Valley of Death — “Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me.”"
+    },
+    {
+      "heading": "The Shepherd Comforts and Guides With His Rod and Staff — “Thy rod and thy staff they comfort me.”"
+    },
+    {
+      "heading": "The Shepherd Prepares a Table in the Presence of Enemies — “Thou preparest a table before me in the presence of mine enemies.”"
+    },
+    {
+      "heading": "The Shepherd Gives Anointing, Overflow, and Eternal Hope — “Thou anointest my head with oil; my cup runneth over. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever.”"
+    }
+  ],
+  "topics": [
+    "Psalm 23",
+    "Terminal illness",
+    "Comfort",
+    "Death",
+    "Eternal hope"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "psalm 23.docx",
+    "preservedFilename": "psalm 23.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/psalm 23.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

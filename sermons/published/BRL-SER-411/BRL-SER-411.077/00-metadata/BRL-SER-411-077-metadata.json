@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.077",
+  "slug": "the-messianic-significance-of-isaiah-53",
+  "title": "THE MESSIANIC SIGNIFICANCE OF ISAIAH 53",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 77
+  },
+  "mainText": [
+    "Isaiah 53:1-12"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Isaiah’s suffering Servant prophecy points to Jesus’ character, substitutionary death, and saving accomplishments.",
+  "proposition": "Isaiah 53 is fulfilled in Jesus Christ, the righteous Servant who suffers for sinners and justifies many.",
+  "sermonQuestion": "How does Isaiah 53 reveal the Messiah and His saving work?",
+  "outline": [
+    {
+      "heading": "OBJECTIONS TO THE PROPHECY"
+    },
+    {
+      "heading": "COMMENTARY ON THE PROPHECY"
+    },
+    {
+      "heading": "SUMMATION OF THE PROPHECY."
+    }
+  ],
+  "topics": [
+    "Messiah",
+    "Isaiah 53",
+    "Suffering Servant",
+    "Atonement",
+    "Jesus Christ"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE MESSIANIC SIGNIFICANCE OF ISAIAH 53.docx",
+    "preservedFilename": "THE MESSIANIC SIGNIFICANCE OF ISAIAH 53.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE MESSIANIC SIGNIFICANCE OF ISAIAH 53.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/THE MESSIANIC SIGNIFICANCE OF ISAIAH 53  (outline form).pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

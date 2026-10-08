@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.084",
+  "slug": "4-figures-of-the-church",
+  "title": "4 FIGURES OF THE CHURCH",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 84
+  },
+  "mainText": [
+    "Psalm 144:12-15"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Images of family, farm, flock, and fatherland illustrate the life and blessings of God’s people.",
+  "proposition": "God’s people should display the growth, fruitfulness, care, and belonging pictured in these four figures.",
+  "sermonQuestion": "What do these four figures teach us about the church?",
+  "outline": [
+    {
+      "heading": "A FAMILY (12)"
+    },
+    {
+      "heading": "A FARM (13)"
+    },
+    {
+      "heading": "A FLOCK (13-14)"
+    },
+    {
+      "heading": "A FATHERLAND (15)"
+    }
+  ],
+  "topics": [
+    "Church",
+    "Growth",
+    "Fellowship",
+    "Evangelism",
+    "God’s people"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "4 FIGURES OF THE CHURCH.docx",
+    "preservedFilename": "4 FIGURES OF THE CHURCH.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/4 FIGURES OF THE CHURCH.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

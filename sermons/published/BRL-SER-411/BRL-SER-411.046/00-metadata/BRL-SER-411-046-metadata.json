@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.046",
+  "slug": "daniel-10-1221",
+  "title": "Daniel 10:12–21",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 46
+  },
+  "mainText": [
+    "Daniel 10:12-21"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Daniel receives assurance that God hears prayer and strengthens His servant amid unseen spiritual conflict.",
+  "proposition": "God hears prayer and strengthens His servants while His purposes unfold amid spiritual conflict.",
+  "sermonQuestion": "What does Daniel learn about prayer, spiritual conflict, and God’s purposes?",
+  "outline": [
+    {
+      "heading": "Daniel 10:12–13 – The Battle Behind the Scenes"
+    },
+    {
+      "heading": "Daniel 10:14 – The Content of the Prophecy"
+    },
+    {
+      "heading": "Daniel 10:15–19 – Daniel Is Strengthened"
+    },
+    {
+      "heading": "Daniel 10:20–21 – The Writing of Truth"
+    }
+  ],
+  "topics": [
+    "Prayer",
+    "Spiritual warfare",
+    "Daniel",
+    "Angels",
+    "Prophecy"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "dan 10_12_21.docx",
+    "preservedFilename": "dan 10_12_21.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/dan 10_12_21.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

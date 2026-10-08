@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.080",
+  "slug": "the-revelation-of-jesus-christ",
+  "title": "The Revelation of Jesus Christ",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 80
+  },
+  "mainText": [
+    "Revelation 1"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "John records Christ’s revelation and vision for the seven churches, calling hearers to keep its words.",
+  "proposition": "We must hear and keep the revelation of Jesus Christ, whose authority and presence sustain His churches.",
+  "sermonQuestion": "What does John’s opening revelation show us about Jesus Christ?",
+  "outline": [
+    {
+      "heading": "The Revelation of Jesus Christ (Rev 1:1-8)"
+    },
+    {
+      "heading": "The Vision of Jesus Christ (Rev. 1:9-20)"
+    }
+  ],
+  "topics": [
+    "Revelation",
+    "Jesus Christ",
+    "Seven churches",
+    "Prophecy",
+    "Obedience"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Revelation 1.docx",
+    "preservedFilename": "Revelation 1.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Revelation 1.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

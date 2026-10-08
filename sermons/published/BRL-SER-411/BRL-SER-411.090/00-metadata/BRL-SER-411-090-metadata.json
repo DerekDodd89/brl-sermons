@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.090",
+  "slug": "a-question-that-demands-an-answer",
+  "title": "A QUESTION THAT DEMANDS AN ANSWER",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 90
+  },
+  "mainText": [
+    "Matthew 27:22"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Responses to Christ expose religious ambition, material gain, popularity, and a penitent sense of need.",
+  "proposition": "We must answer what we will do with Jesus by acknowledging our need rather than rejecting Him for selfish motives.",
+  "sermonQuestion": "What will you do with Jesus?",
+  "outline": [
+    {
+      "heading": "CAIAPHAS"
+    },
+    {
+      "heading": "JUDAS ISCARIOT"
+    },
+    {
+      "heading": "PILATE"
+    },
+    {
+      "heading": "A THEIF"
+    }
+  ],
+  "topics": [
+    "Jesus Christ",
+    "Repentance",
+    "Materialism",
+    "Popularity",
+    "Personal response"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "A QUESTION THAT DEMANDS AN ANSWER.docx",
+    "preservedFilename": "A QUESTION THAT DEMANDS AN ANSWER.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/A QUESTION THAT DEMANDS AN ANSWER.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

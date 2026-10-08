@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.056",
+  "slug": "a-really-big-fish-story",
+  "title": "A REALLY BIG FISH STORY",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 56
+  },
+  "mainText": [
+    "Luke 5:1-11"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "The setting and labor of Galilean fishing illuminate Jesus’ miraculous catch and the disciples’ response.",
+  "proposition": "The miraculous catch reveals Jesus’ authority and calls His followers to trust and follow Him.",
+  "sermonQuestion": "What does the miraculous catch of fish reveal about Jesus and following Him?",
+  "outline": [
+    {
+      "heading": "THE TOUGH WORK OF THE FISHERMAN"
+    },
+    {
+      "heading": "DID JESUS HELP HAUL IN THE FISH?"
+    },
+    {
+      "heading": "The Miracle of the Catch"
+    }
+  ],
+  "topics": [
+    "Jesus Christ",
+    "Discipleship",
+    "Miracles",
+    "Fishing",
+    "Sea of Galilee"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "A REALLY BIG FISH STORY.docx",
+    "preservedFilename": "A REALLY BIG FISH STORY.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/A REALLY BIG FISH STORY.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/A REALLY BIG FISH STORY.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

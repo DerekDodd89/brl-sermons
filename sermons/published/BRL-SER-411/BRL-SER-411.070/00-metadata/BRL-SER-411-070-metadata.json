@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.070",
+  "slug": "heroes-of-faith",
+  "title": "Heroes of Faith",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 11
+  },
+  "mainText": [
+    "Hebrews 11"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Faithful saints across the ages encourage believers to persevere toward the saving of the soul.",
+  "proposition": "The examples of faith in every age encourage us to press on faithfully rather than draw back.",
+  "sermonQuestion": "What does Hebrews 11 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "Faith Before the Flood (1-7)"
+    },
+    {
+      "heading": "Faith in the Patriarchal Age (8-22)"
+    },
+    {
+      "heading": "Faith in the Mosaic Age (23-40)"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_11.doc",
+    "preservedFilename": "Heb_Ch_11.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_11.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.065",
+  "slug": "moving-forward-to-spiritual-maturity",
+  "title": "Moving Forward to Spiritual Maturity",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 6
+  },
+  "mainText": [
+    "Hebrews 6"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Hebrews warns against spiritual stagnation and apostasy while grounding perseverance in God’s faithful promises.",
+  "proposition": "Christians must move forward to spiritual maturity, persevere in faithful service, and hold fast to the sure hope of God’s promises.",
+  "sermonQuestion": "How can Christians move forward to spiritual maturity and hold fast to hope?",
+  "outline": [
+    {
+      "heading": "The Peril of no Progress (vs. 1-8)."
+    },
+    {
+      "heading": "The Promise for Progress (vs. 9-12)."
+    },
+    {
+      "heading": "The Proof of Progress (vs. 13-20)."
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Spiritual maturity",
+    "Apostasy",
+    "Perseverance",
+    "God’s promises",
+    "Hope"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_6.docx",
+    "preservedFilename": "Heb_Ch_6.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_6.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-1",
+      "path": "04-presentation/Hebrews_6.ppt",
+      "role": "presentation",
+      "format": "ppt"
+    }
+  ]
+}

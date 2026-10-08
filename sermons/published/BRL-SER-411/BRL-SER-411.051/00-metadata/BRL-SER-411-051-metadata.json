@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.051",
+  "slug": "three-extrodinary-characters",
+  "title": "THREE EXTRODINARY CHARACTERS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 51
+  },
+  "mainText": [
+    "Daniel 3:12-25"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Shadrach, Meshach, and Abednego trust God without compromising before the fiery furnace.",
+  "proposition": "Faith in God enables ordinary people to stand without compromise and trust Him through suffering.",
+  "sermonQuestion": "How did these three men remain faithful under the threat of the furnace?",
+  "outline": [
+    {
+      "heading": "THEY WOULD NOT BOW (Daniel 3:12-15)."
+    },
+    {
+      "heading": "THEY WOULD NOT BEND (Daniel 3:16-18)."
+    },
+    {
+      "heading": "THEY WOULD NOT BEG (Daniel 3:19-25)."
+    }
+  ],
+  "topics": [
+    "Faith",
+    "Courage",
+    "Suffering",
+    "Compromise",
+    "Daniel"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THREE EXTRODINARY CHARACTERS.docx",
+    "preservedFilename": "THREE EXTRODINARY CHARACTERS.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THREE EXTRODINARY CHARACTERS.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

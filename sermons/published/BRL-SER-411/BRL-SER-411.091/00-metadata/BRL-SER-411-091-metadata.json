@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.091",
+  "slug": "a-thick-darkness",
+  "title": "A THICK DARKNESS",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 91
+  },
+  "mainText": [
+    "Exodus 10:21-22"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Egypt’s thick darkness illustrates life without spiritual light, knowledge, joy, and love.",
+  "proposition": "We must turn from spiritual darkness to the light, knowledge, joy, and love found in God.",
+  "sermonQuestion": "Where is spiritual darkness thickest?",
+  "outline": [
+    {
+      "heading": "The darkness is thickest where there is no light."
+    },
+    {
+      "heading": "The darkness is thickest where there is no knowledge."
+    },
+    {
+      "heading": "The darkness is thickest where there is no joy."
+    },
+    {
+      "heading": "The darkness is thickest where there is no love."
+    }
+  ],
+  "topics": [
+    "Darkness",
+    "Light",
+    "Knowledge",
+    "Joy",
+    "Love"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "A THICK DARKNESS.docx",
+    "preservedFilename": "A THICK DARKNESS.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/A THICK DARKNESS.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "date": "2026-10-07",
+  "retainedNewRecords": 52,
+  "collectionMetadataCount": 94,
+  "publishableJoshCount": 94,
+  "schemaValidation": "passed: approved .001 recursive V2 keys/types",
+  "resourceCount": 66,
+  "resourceValidation": "passed",
+  "duplicateIDs": [],
+  "duplicateSlugs": [],
+  "sourcePreservation": "All 52 retained new L3 hashes match baseline; only authorized duplicate sources .055/.059 removed.",
+  "provenance": "Every document Derek placed in a 411 01-l3 folder is an authorized Josh Hetrick legacy sermon. Content and format do not undermine attribution.",
+  "publicationApproval": "All retained new records approved by Derek; all three review flags true; identity review not required.",
+  "recycledIDs": [
+    "BRL-SER-411.022",
+    "BRL-SER-411.036",
+    "BRL-SER-411.042",
+    "BRL-SER-411.055",
+    "BRL-SER-411.059",
+    "BRL-SER-411.075"
+  ],
+  "presentation075": "Preserved in place at Derek’s explicit direction; no metadata or L3 source.",
+  "canonicalDuplicates": {
+    ".055": ".054",
+    ".059": ".058"
+  },
+  "records": [
+    {
+      "id": "BRL-SER-411.046",
+      "title": "Daniel 10:12–21",
+      "mainText": [
+        "Daniel 10:12-21"
+      ],
+      "source": "dan 10_12_21.docx",
+      "sourceHash": "D706D55DCF65FC5AAA75B3B936B9DE63B572F1F6D883CACD804B675D88B324ED",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 46
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.046\\00-metadata\\BRL-SER-411-046-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.047",
+      "title": "DANIEL PRAYED",
+      "mainText": [
+        "Daniel 6:10-11",
+        "Daniel 9:2-22"
+      ],
+      "source": "DANIEL PRAYED.docx",
+      "sourceHash": "02D95508A2AA808D82C366230DDA454FC82C00CF14CF737E63B6814F298580B5",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 47
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.047\\00-metadata\\BRL-SER-411-047-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.048",
+      "title": "DANIEL’S CHARACTER",
+      "mainText": [
+        "Daniel 1:8"
+      ],
+      "source": "DANIEL’S CHARACTER.docx",
+      "sourceHash": "0D85AF0689A7B7CED6F26624CE2BFF631C4F2E7AABAFC9FE5A8CFB7098C2967E",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 48
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.048\\00-metadata\\BRL-SER-411-048-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.049",
+      "title": "THE GLORIOUS VISION",
+      "mainText": [
+        "Daniel 10:5-6"
+      ],
+      "source": "THE GLORIOUS VISION.docx",
+      "sourceHash": "53A6BED4EB45F1023EC645D6A8DB0E78E853CB1C61BDDBB8DDC1D979A0C988B9",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 49
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.049\\00-metadata\\BRL-SER-411-049-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.050",
+      "title": "THE TOUCH",
+      "mainText": [
+        "Daniel 8:18",
+        "Daniel 9:21",
+        "Daniel 10:10",
+        "Daniel 10:16",
+        "Daniel 10:18"
+      ],
+      "source": "THE TOUCH.docx",
+      "sourceHash": "ACC81CBB443A36DA0942B52A361D6BBCA339E9DF714C27928770FF565852EE6B",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 50
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.050\\00-metadata\\BRL-SER-411-050-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.051",
+      "title": "THREE EXTRODINARY CHARACTERS",
+      "mainText": [
+        "Daniel 3:12-25"
+      ],
+      "source": "THREE EXTRODINARY CHARACTERS.docx",
+      "sourceHash": "22C345028DA2AFC90C62C95FF121BA35B11CBEA5D7ACDE4C88DD461C7838D109",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 51
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.051\\00-metadata\\BRL-SER-411-051-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.052",
+      "title": "3 MEN IN 3RD JOHN",
+      "mainText": [
+        "3 John 1:1-14"
+      ],
+      "source": "3 MEN IN 3RD JOHN.docx",
+      "sourceHash": "D21D60247169553770FB83F1783601B81F7C0E36872892B55E1DC8AB8CD7E54E",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 52
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.052\\00-metadata\\BRL-SER-411-052-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.053",
+      "title": "THE GOSPEL PAUL PREACHED",
+      "mainText": [
+        "1 Timothy 1:15"
+      ],
+      "source": "THE GOSPEL PAUL PREACHED.docx",
+      "sourceHash": "ABFD4193D93CF7B1995A9C4FF31A1A1E2CE136B4D415E32C52CE09DDCEE5AC4A",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 53
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.053\\00-metadata\\BRL-SER-411-053-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.054",
+      "title": "PROVIDENCE IN THE BOOK OF ESTHER",
+      "mainText": [
+        "Esther 4:14"
+      ],
+      "source": "PROVIDENCE IN THE BOOK OF ESTHER.docx",
+      "sourceHash": "9D66D33050A64DEB578F9A8E8F0E1F471B39BC98679766CBABDBCA086B4A7435",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 54
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.054\\00-metadata\\BRL-SER-411-054-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.056",
+      "title": "A REALLY BIG FISH STORY",
+      "mainText": [
+        "Luke 5:1-11"
+      ],
+      "source": "A REALLY BIG FISH STORY.docx",
+      "sourceHash": "B7B4F8978F7DC1927FCBD6EF62B615B276BA16D523B64DAB809DC7D38427EFF9",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 56
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.056\\00-metadata\\BRL-SER-411-056-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.057",
+      "title": "‘LOVE YOUR ENEMY’?",
+      "mainText": [
+        "Matthew 5:43-45"
+      ],
+      "source": "LOVE YOUR ENEMY.docx",
+      "sourceHash": "BF96A55C53045B97A2DD6F9117D40AAE97AE51E9F7EABAC0F7152C080C500371",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 57
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.057\\00-metadata\\BRL-SER-411-057-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.058",
+      "title": "THE WILDERNESS OF KADESH-BARNEA AND THE POOL OF BETHESDA",
+      "mainText": [
+        "John 5:1-15",
+        "Numbers 14:29-35",
+        "Deuteronomy 2:14"
+      ],
+      "source": "THE WILDERNESS OF KADESH-BARNEA AND THE POOL OF BETHESDA.docx",
+      "sourceHash": "494A444C0B92F6B1E69999833B07837D9FA7CA372D241447F8D0CEFD960B89FC",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 58
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.058\\00-metadata\\BRL-SER-411-058-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.060",
+      "title": "The Revelation of God in These Last Days",
+      "mainText": [
+        "Hebrews 1"
+      ],
+      "source": "Heb_Ch_1.doc",
+      "sourceHash": "8830D4CD69A2FD0F0C7D81324B690949CED48DA8403204AEDC902BE65DB91C24",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 1
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.060\\00-metadata\\BRL-SER-411-060-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.061",
+      "title": "Jesus is Ruler of All the Earth",
+      "mainText": [
+        "Hebrews 2"
+      ],
+      "source": "Heb_Ch_2.doc",
+      "sourceHash": "374330174B10B1A28C12C59BFF218B9075AB1C28F708C6D702228B6C67893182",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 2
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.061\\00-metadata\\BRL-SER-411-061-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.062",
+      "title": "Christ is Superior to Moses",
+      "mainText": [
+        "Hebrews 3"
+      ],
+      "source": "Heb_Ch_3.doc",
+      "sourceHash": "5E1C2891F742557724D6A6121D3C7B6A23FC04EFCB5666CBD5F641A6E7F71A90",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 3
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.062\\00-metadata\\BRL-SER-411-062-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.063",
+      "title": "The Christians’ Rest",
+      "mainText": [
+        "Hebrews 4"
+      ],
+      "source": "Heb_Ch_4.doc",
+      "sourceHash": "A7022A7EF19FAAA8B28177E722AF035C2165781B3FEB36A3A10BC60E507AE369",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 4
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.063\\00-metadata\\BRL-SER-411-063-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.064",
+      "title": "The Priesthood of Christ",
+      "mainText": [
+        "Hebrews 5"
+      ],
+      "source": "Heb_Ch_5.docx",
+      "sourceHash": "2E272B26D36A0527739F13757268B02D8434F3984A9F7C1642D40D5E85EFFC0F",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 5
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.064\\00-metadata\\BRL-SER-411-064-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.065",
+      "title": "Moving Forward to Spiritual Maturity",
+      "mainText": [
+        "Hebrews 6"
+      ],
+      "source": "Heb_Ch_6.docx",
+      "sourceHash": "B04FFA563B98A0777FCBD002CA84DB8F7E265726993673B3BD990DA6FFD17A9F",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 6
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.065\\00-metadata\\BRL-SER-411-065-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.066",
+      "title": "The Priesthood of Christ",
+      "mainText": [
+        "Hebrews 7"
+      ],
+      "source": "Heb_Ch_7.doc",
+      "sourceHash": "4124960922C61E1B785CCE4252ED80858730EAC9E82722DB86DE34ABBA4ED877",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 7
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.066\\00-metadata\\BRL-SER-411-066-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.067",
+      "title": "The Superiority of Christ Priesthood",
+      "mainText": [
+        "Hebrews 8"
+      ],
+      "source": "Heb_Ch_8.doc",
+      "sourceHash": "DBD4BF51362BE14128C9EA4E153D4C9155669E3372B6431B1C20308545F51BE2",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 8
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.067\\00-metadata\\BRL-SER-411-067-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.068",
+      "title": "The Superiority of Christ Sanctuary",
+      "mainText": [
+        "Hebrews 9"
+      ],
+      "source": "Heb_Ch_9.doc",
+      "sourceHash": "A3524798D01A6B649CEACC897C74CDB59858B3202F3388C08887C98E87C32ADA",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 9
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.068\\00-metadata\\BRL-SER-411-068-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.069",
+      "title": "The Accessible System of Christ",
+      "mainText": [
+        "Hebrews 10"
+      ],
+      "source": "Heb_Ch_10.doc",
+      "sourceHash": "9D2D84AF0BE097FBB0CF5984AB59CE7D8D74D777562F53A66F7194B0E2260160",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 10
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.069\\00-metadata\\BRL-SER-411-069-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.070",
+      "title": "Heroes of Faith",
+      "mainText": [
+        "Hebrews 11"
+      ],
+      "source": "Heb_Ch_11.doc",
+      "sourceHash": "3A9F717337ACAA02EA066FBA0EB644C5ADD90BCA1D6E1AA856CA966A2674E8E1",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 11
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.070\\00-metadata\\BRL-SER-411-070-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.071",
+      "title": "I’d Rather Have Jesus",
+      "mainText": [
+        "Hebrews 12"
+      ],
+      "source": "Heb_Ch_12.doc",
+      "sourceHash": "D77A8DB4025A2162BD424F2E392EEAA7BFBD2708B5FCFA013C70E0445DF8BC87",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 12
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.071\\00-metadata\\BRL-SER-411-071-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.072",
+      "title": "Christian Duties",
+      "mainText": [
+        "Hebrews 13"
+      ],
+      "source": "Heb_Ch_13.doc",
+      "sourceHash": "0D02213C9AC04DB305B03107F39589F5892DA63838ECC77979D52F8AEA7FAA52",
+      "series": {
+        "name": "The Book of Hebrews",
+        "sequence": 13
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.072\\00-metadata\\BRL-SER-411-072-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.073",
+      "title": "THE ‘NO MORES’ OF HEBREWS 10",
+      "mainText": [
+        "Hebrews 10:2",
+        "Hebrews 10:17-18",
+        "Hebrews 10:26"
+      ],
+      "source": "THE ‘NO MORES’ OF HEBREWS 10.docx",
+      "sourceHash": "FB17AC17A23266A631CD1C266CA9DEA014FD1E899C7578AF770630B0F84CCA54",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 73
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.073\\00-metadata\\BRL-SER-411-073-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.074",
+      "title": "A DEFAMING SPEECH AGAINS JUDAH",
+      "mainText": [
+        "Isaiah 36"
+      ],
+      "source": "CHAPTER 39.docx",
+      "sourceHash": "1AD2FBA19A97605F5ECDDA09BCE9AAD3DB4870D1012554A026FF24CD1F935875",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 74
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.074\\00-metadata\\BRL-SER-411-074-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.076",
+      "title": "From Myth to Message: Trusting God’s Word When Culture Gets Confused",
+      "mainText": [
+        "Isaiah 34:14-16"
+      ],
+      "source": "From Myth to Message.docx",
+      "sourceHash": "47B9AA8AB3BF11ACD3C8D68CD8E46355F640CA6478096B9632DF7D3130A00328",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 76
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.076\\00-metadata\\BRL-SER-411-076-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.077",
+      "title": "THE MESSIANIC SIGNIFICANCE OF ISAIAH 53",
+      "mainText": [
+        "Isaiah 53:1-12"
+      ],
+      "source": "THE MESSIANIC SIGNIFICANCE OF ISAIAH 53.docx",
+      "sourceHash": "D404BFABE378BAF456CBB0ABAB2D32F6C99435C76B6E7CCCD7C29AF51B3E050C",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 77
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.077\\00-metadata\\BRL-SER-411-077-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.078",
+      "title": "PERFECTION IN THE BOOK OF JAMES",
+      "mainText": [
+        "James 1:17",
+        "James 1:25",
+        "James 1:4",
+        "James 2:22",
+        "James 3:2"
+      ],
+      "source": "PERFECTION IN THE BOOK OF JAMES.docx",
+      "sourceHash": "EF22DA7FF45AFB34E9C6570DF40CD51CD909CBB38711011D63E302E2DC53FD9E",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 78
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.078\\00-metadata\\BRL-SER-411-078-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.079",
+      "title": "Psalm 23: The Shepherd in the Shadow—An Expository Sermon for Dealing with Terminal Illness",
+      "mainText": [
+        "Psalm 23"
+      ],
+      "source": "psalm 23.docx",
+      "sourceHash": "E8F57B44941C20B5885E9704A5EE2AB184BC56FCCA0A18EC4C202D79B8207166",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 79
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.079\\00-metadata\\BRL-SER-411-079-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.080",
+      "title": "The Revelation of Jesus Christ",
+      "mainText": [
+        "Revelation 1"
+      ],
+      "source": "Revelation 1.docx",
+      "sourceHash": "A10954E31C1EA689F42FF38D424C1233342D78A47EE548A0FABBAED456A46AA9",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 80
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.080\\00-metadata\\BRL-SER-411-080-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.081",
+      "title": "Understanding Revelation: Babylon = Jerusalem",
+      "mainText": [
+        "Revelation 11",
+        "Revelation 16-18"
+      ],
+      "source": "Understanding Revelation.docx",
+      "sourceHash": "6633007A1C4108EF837941FFB51446C4871B40E9235364C4F4CD577D2C74360D",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 81
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.081\\00-metadata\\BRL-SER-411-081-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.082",
+      "title": "THE FOUR KINGS OF ROMANS FIVE",
+      "mainText": [
+        "Romans 5:14-21"
+      ],
+      "source": "4 Kings of Romans 5.docx",
+      "sourceHash": "1F187850F38FF5C4055AFF5FF06A6EFE81CF5DCDF8828FFE8E6799E597E68B65",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 82
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.082\\00-metadata\\BRL-SER-411-082-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.083",
+      "title": "The Guilt of Mankind",
+      "mainText": [
+        "Romans 1"
+      ],
+      "source": "Romans Chapter One.doc",
+      "sourceHash": "E7ECCB4ADE46FD0A75EA66885C778F94A554A4B8F18E11886816531993CE9E99",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 83
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.083\\00-metadata\\BRL-SER-411-083-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.084",
+      "title": "4 FIGURES OF THE CHURCH",
+      "mainText": [
+        "Psalm 144:12-15"
+      ],
+      "source": "4 FIGURES OF THE CHURCH.docx",
+      "sourceHash": "49716A6AA789C8F0B40A8C2F601E315C5993DD79B0FE651969825E92186FE188",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 84
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.084\\00-metadata\\BRL-SER-411-084-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.085",
+      "title": "THE MODEL CHURCH",
+      "mainText": [
+        "1 Thessalonians 1:1-10"
+      ],
+      "source": "THE MODEL CHURCH.docx",
+      "sourceHash": "65C7786E3AFED7D7646E5CF62D8A335FFFBE6C7482A57189B494C5CECB99DE9E",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 85
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.085\\00-metadata\\BRL-SER-411-085-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.086",
+      "title": "WHAT EACH LOCAL CHURCH SHOULD BE",
+      "mainText": [
+        "1 Thessalonians 1:8",
+        "1 Thessalonians 2:7-8",
+        "1 Thessalonians 2:14-15",
+        "1 Thessalonians 3:5",
+        "1 Thessalonians 3:12",
+        "1 Thessalonians 4:6",
+        "1 Thessalonians 4:9-13",
+        "1 Thessalonians 5:14"
+      ],
+      "source": "WHAT EACH LOCAL CHURCH SHOULD BE.docx",
+      "sourceHash": "F3EAC1FC2E341E76A0633965B867D188EE961E05C4F5B7C8B6E52CA75385596B",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 86
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.086\\00-metadata\\BRL-SER-411-086-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.087",
+      "title": "7 FIGURES OF THE WORD OF GOD",
+      "mainText": [
+        "Jeremiah 23:29"
+      ],
+      "source": "7 figures of the word.docx",
+      "sourceHash": "64436EF009F97CB5DC48EBFC3D22154BB0F2F96E7300C1A9135759CDEF3AE68C",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 87
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.087\\00-metadata\\BRL-SER-411-087-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.088",
+      "title": "7 PROOFS OF DISCIPLESHIP",
+      "mainText": [
+        "Luke 14:26-33",
+        "John 8:31",
+        "John 13:35",
+        "John 15:8"
+      ],
+      "source": "7 PROOFS OF DISCIPLESHIP.docx",
+      "sourceHash": "618EBB07EF6D46CC95F79EF2CFBE0F36B9722E51A22906B4344561F30B44AE6D",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 88
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.088\\00-metadata\\BRL-SER-411-088-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.089",
+      "title": "A GRAVE MISCALCULATION",
+      "mainText": [
+        "Isaiah 22:15-17"
+      ],
+      "source": "a grave miscalculation.docx",
+      "sourceHash": "6576B78209C2D37EEDEB0F6B5F9F8FA852257E72A2FE07DEB14D94BD4EAB782A",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 89
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.089\\00-metadata\\BRL-SER-411-089-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.090",
+      "title": "A QUESTION THAT DEMANDS AN ANSWER",
+      "mainText": [
+        "Matthew 27:22"
+      ],
+      "source": "A QUESTION THAT DEMANDS AN ANSWER.docx",
+      "sourceHash": "9276827F171E9E03AA721B7669057ABE89CA9C7CE9D228E97D279D8C3780946D",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 90
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.090\\00-metadata\\BRL-SER-411-090-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.091",
+      "title": "A THICK DARKNESS",
+      "mainText": [
+        "Exodus 10:21-22"
+      ],
+      "source": "A THICK DARKNESS.docx",
+      "sourceHash": "94E54FA613D48216BFE9CE1AA28DACC6B892D1B260E6F95FAA65C3B332E17645",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 91
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.091\\00-metadata\\BRL-SER-411-091-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.092",
+      "title": "ACTIONS SPEAK LOUDLY",
+      "mainText": [
+        "Deuteronomy 6:1-25"
+      ],
+      "source": "actions speak loudly.docx",
+      "sourceHash": "7B92FEC104583B3588BA735147DA2EB04F78B87738A9A1C1F7125959CA2DA725",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 92
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.092\\00-metadata\\BRL-SER-411-092-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.093",
+      "title": "ASK FOR THE BIGGEST",
+      "mainText": [
+        "1 Chronicles 4:10"
+      ],
+      "source": "ASK FOR THE BIGGEST.docx",
+      "sourceHash": "927FCED0027CD1C42B57390640399AF31F3EE92744352D98F1B622D9105A0D48",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 93
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.093\\00-metadata\\BRL-SER-411-093-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.094",
+      "title": "BE YE ALSO READY",
+      "mainText": [
+        "Matthew 24"
+      ],
+      "source": "BE YE ALSO READY.docx",
+      "sourceHash": "2109CD4E5F090A7F1B32B24F32E09D284DCC912A3325F8E97DB7CD3205971ACF",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 94
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.094\\00-metadata\\BRL-SER-411-094-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.095",
+      "title": "BLESSED ARE THE PEACEMAKER",
+      "mainText": [
+        "Matthew 5:9"
+      ],
+      "source": "BLESSED ARE THE PEACEMAKER.docx",
+      "sourceHash": "BFE2518FF06C4CC0D0DDB7ACE6F122B6EC0CC62993BC8FE6C5C3D9C4A2C502F6",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 95
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.095\\00-metadata\\BRL-SER-411-095-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.096",
+      "title": "BLESSED ARE THOSE WHO MOURN",
+      "mainText": [
+        "Matthew 5:4"
+      ],
+      "source": "blessed are those who mourn (josh version).docx",
+      "sourceHash": "560A126F347C687F959517214DDA6CA53E7B396978A53314B7657D24C2BECD2A",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 96
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.096\\00-metadata\\BRL-SER-411-096-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.097",
+      "title": "Calvary Its Purpose",
+      "mainText": [
+        "1 Corinthians 1:18",
+        "Galatians 6:14"
+      ],
+      "source": "Calvary Its Purpose.docx",
+      "sourceHash": "0ADFEF05E2C50F024CC87F35BCC3D44BC74CA5484B6868E0F437293C37F59367",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 97
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.097\\00-metadata\\BRL-SER-411-097-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.098",
+      "title": "HISTORICAL RECORD",
+      "mainText": [
+        "Luke 2:8"
+      ],
+      "source": "Christmas facts.docx",
+      "sourceHash": "26634E71632CD0DC6E9A59439633C8C6659967B3E4D722DE250424F7F6B5D0BA",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 98
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.098\\00-metadata\\BRL-SER-411-098-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.099",
+      "title": "COME UNTO ME",
+      "mainText": [
+        "Matthew 11:28-30"
+      ],
+      "source": "COME UNTO ME.docx",
+      "sourceHash": "25E8CBB59239605A0BE3C0B3805D28F7C4F6811A6775F458864CC8CF8AB1C07F",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 99
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.099\\00-metadata\\BRL-SER-411-099-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    },
+    {
+      "id": "BRL-SER-411.100",
+      "title": "The Covering of the Tabernacle",
+      "mainText": [
+        "Exodus 26:14"
+      ],
+      "source": "Covering of the tabernacle.docx",
+      "sourceHash": "CC154A3FE7D2EF1D2922B8FA77486D9DCA8CDEBEEF7B6D0B126648FA503D0AF2",
+      "series": {
+        "name": "Josh Hetrick Legacy Sermons",
+        "sequence": 100
+      },
+      "warnings": [],
+      "metadata": "C:\\Users\\derek\\OneDrive\\Derek\\Documents\\GitHub\\brl-sermons\\sermons\\published\\BRL-SER-411\\BRL-SER-411.100\\00-metadata\\BRL-SER-411-100-metadata.json",
+      "result": "Approved for publication by Derek; authorized Josh Hetrick provenance"
+    }
+  ]
+}

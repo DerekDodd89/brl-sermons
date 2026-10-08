@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.071",
+  "slug": "id-rather-have-jesus",
+  "title": "I’d Rather Have Jesus",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 12
+  },
+  "mainText": [
+    "Hebrews 12"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Christ’s example, God’s discipline, holy conduct, and the heavenly kingdom sustain continued faith.",
+  "proposition": "Looking to Jesus and receiving God’s discipline, Christians must persevere in holiness and grateful service.",
+  "sermonQuestion": "What does Hebrews 12 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "Christian Compeller (1-4)"
+    },
+    {
+      "heading": "Christian Correction (5-11)"
+    },
+    {
+      "heading": "Christian Conduct (12-21)"
+    },
+    {
+      "heading": "Christian Contentment (22-29)"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_12.doc",
+    "preservedFilename": "Heb_Ch_12.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_12.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

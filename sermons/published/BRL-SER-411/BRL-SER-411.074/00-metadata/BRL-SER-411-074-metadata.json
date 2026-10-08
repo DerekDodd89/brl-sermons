@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.074",
+  "slug": "a-defaming-speech-agains-judah",
+  "title": "A DEFAMING SPEECH AGAINS JUDAH",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 74
+  },
+  "mainText": [
+    "Isaiah 36"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Rabshakeh’s threats and promises challenge Judah’s trust in the Lord and expose Assyrian intimidation.",
+  "proposition": "Rabshakeh’s speech seeks to undermine Judah’s trust in God through intimidation and misleading promises.",
+  "sermonQuestion": "How did Rabshakeh attempt to undermine Judah’s trust in the Lord?",
+  "outline": [
+    {
+      "heading": "RABSHEKEH’S SPEECH TO JUDAH’S GOVERNMENT (1-10)"
+    },
+    {
+      "heading": "RABSHEKEH’S SPEECH TO JUDAH’S PEOPLE (11-22)"
+    }
+  ],
+  "topics": [
+    "Isaiah",
+    "Assyria",
+    "Trust in God",
+    "Hezekiah",
+    "Intimidation"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "CHAPTER 39.docx",
+    "preservedFilename": "CHAPTER 39.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/CHAPTER 39.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

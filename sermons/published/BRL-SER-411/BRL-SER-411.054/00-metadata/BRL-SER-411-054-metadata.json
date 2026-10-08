@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.054",
+  "slug": "providence-in-the-book-of-esther",
+  "title": "PROVIDENCE IN THE BOOK OF ESTHER",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 54
+  },
+  "mainText": [
+    "Esther 4:14"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "God’s providence works through the people and events of Esther to preserve His people.",
+  "proposition": "God can work through circumstances and human decisions to accomplish His providential care for His people.",
+  "sermonQuestion": "How is God’s providence seen in the book of Esther?",
+  "outline": [
+    {
+      "heading": "PEOPLE IN THE BOOK OF ESTHER"
+    },
+    {
+      "heading": "PASSAGES IN THE BOOK OF ESTHER"
+    },
+    {
+      "heading": "PROVIDENCE IN THE BOOK OF ESTHER"
+    }
+  ],
+  "topics": [
+    "Providence",
+    "Esther",
+    "Faith",
+    "God’s care"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "PROVIDENCE IN THE BOOK OF ESTHER.docx",
+    "preservedFilename": "PROVIDENCE IN THE BOOK OF ESTHER.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/PROVIDENCE IN THE BOOK OF ESTHER.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

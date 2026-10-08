@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.057",
+  "slug": "love-your-enemy",
+  "title": "‘LOVE YOUR ENEMY’?",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 57
+  },
+  "mainText": [
+    "Matthew 5:43-45"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Jesus’ merciful kingdom calls sinners to receive forgiveness and love their enemies.",
+  "proposition": "To grasp the kingdom message of our Messiah, we must acknowledge our sin, seek forgiveness, and forgive those who wrong us.",
+  "sermonQuestion": "How does Jesus’ merciful kingdom teach us to love our enemies?",
+  "outline": [
+    {
+      "heading": "HATE YOUR ENEMY"
+    },
+    {
+      "heading": "AUTHORITY TO JUDGE"
+    },
+    {
+      "heading": "AUTHORITY TO FORGIVE"
+    },
+    {
+      "heading": "CONCLUSION - THE KINGDOM OF MERCY"
+    }
+  ],
+  "topics": [
+    "Love of enemies",
+    "Forgiveness",
+    "Mercy",
+    "Kingdom of God",
+    "Jesus Christ"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "LOVE YOUR ENEMY.docx",
+    "preservedFilename": "LOVE YOUR ENEMY.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/LOVE YOUR ENEMY.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

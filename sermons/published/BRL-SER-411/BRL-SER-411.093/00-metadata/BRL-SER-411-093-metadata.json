@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.093",
+  "slug": "ask-for-the-biggest",
+  "title": "ASK FOR THE BIGGEST",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 93
+  },
+  "mainText": [
+    "1 Chronicles 4:10"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Jabez’s request for enlarged territory models prayer for greater opportunities to serve God.",
+  "proposition": "Ask God to enlarge your opportunities and influence so that you may faithfully serve others and bring Him glory.",
+  "sermonQuestion": "How can we ask for enlarged territory with the right motives?",
+  "outline": [
+    {
+      "heading": "ASKING AMISS?"
+    },
+    {
+      "heading": "ASK FOR THE BIGGEST"
+    }
+  ],
+  "topics": [
+    "Prayer",
+    "Jabez",
+    "Service",
+    "Stewardship",
+    "Ministry"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "ASK FOR THE BIGGEST.docx",
+    "preservedFilename": "ASK FOR THE BIGGEST.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/ASK FOR THE BIGGEST.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

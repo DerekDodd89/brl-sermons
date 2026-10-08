@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.100",
+  "slug": "the-covering-of-the-tabernacle",
+  "title": "The Covering of the Tabernacle",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 100
+  },
+  "mainText": [
+    "Exodus 26:14"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "The tabernacle’s coverings illustrate Christ’s consecration, substitutionary sacrifice, and unrecognized glory.",
+  "proposition": "Christ’s humble appearance conceals His divine glory, which is approached through His sacrificial atonement and self-surrender.",
+  "sermonQuestion": "How do the tabernacle’s coverings help us see Christ for who He really is?",
+  "outline": [
+    {
+      "heading": "The Rams’ Skins were placed over the Tabernacle before the Badger Skins (Ex. 2:14)."
+    },
+    {
+      "heading": "The badger skin: (Exo 26:14)"
+    },
+    {
+      "heading": "In this covering you get a perfect picture of Our Lord Jesus Christ as he passed through the World, as he appeared in the Eyes of Men."
+    },
+    {
+      "heading": "How can you see Christ for who he really is?"
+    }
+  ],
+  "topics": [
+    "Tabernacle",
+    "Typology",
+    "Jesus Christ",
+    "Consecration",
+    "Substitutionary sacrifice"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Covering of the tabernacle.docx",
+    "preservedFilename": "Covering of the tabernacle.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Covering of the tabernacle.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

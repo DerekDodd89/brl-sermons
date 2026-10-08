@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.083",
+  "slug": "the-guilt-of-mankind",
+  "title": "The Guilt of Mankind",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 83
+  },
+  "mainText": [
+    "Romans 1"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Paul’s commission, concern, and confidence in the gospel lead into the guilt and corruption of mankind.",
+  "proposition": "The gospel reveals God’s saving righteousness while mankind’s rejection of God exposes its guilt and need.",
+  "sermonQuestion": "How does Romans 1 establish the gospel’s importance and mankind’s guilt?",
+  "outline": [
+    {
+      "heading": "The Apostles Commission (Romans 1:1-7)."
+    },
+    {
+      "heading": "The Apostles Concern (Romans 1:8-13)."
+    },
+    {
+      "heading": "The Apostles Confidence (Romans 1:14-17)."
+    },
+    {
+      "heading": "The Apostles Condemnation (Romans 1:18-32)."
+    }
+  ],
+  "topics": [
+    "Romans",
+    "Gospel",
+    "Justification",
+    "Sin",
+    "Wrath of God"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Romans Chapter One.doc",
+    "preservedFilename": "Romans Chapter One.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Romans Chapter One.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.067",
+  "slug": "the-superiority-of-christ-priesthood",
+  "title": "The Superiority of Christ Priesthood",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 8
+  },
+  "mainText": [
+    "Hebrews 8"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Christ ministers through a better priesthood, covenant, and promise.",
+  "proposition": "Christ’s superior priesthood brings a better covenant and promises that establish a new relationship with God.",
+  "sermonQuestion": "What does Hebrews 8 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "A Better Priesthood (1-5)."
+    },
+    {
+      "heading": "A Better Covenant (6-9)."
+    },
+    {
+      "heading": "A Better Promise (10-13)."
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_8.doc",
+    "preservedFilename": "Heb_Ch_8.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_8.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

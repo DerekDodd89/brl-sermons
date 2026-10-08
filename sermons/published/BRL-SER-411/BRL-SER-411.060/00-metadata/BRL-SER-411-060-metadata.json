@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.060",
+  "slug": "the-revelation-of-god-in-these-last-days",
+  "title": "The Revelation of God in These Last Days",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 1
+  },
+  "mainText": [
+    "Hebrews 1"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "God speaks through His Son, whose power, person, and superiority surpass the prophets and angels.",
+  "proposition": "God now speaks through His superior Son, so we must continue to place our faith in Him.",
+  "sermonQuestion": "What does Hebrews 1 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "Our Lord’s Power 1:1-2"
+    },
+    {
+      "heading": "Our Lord’s Person 1:3"
+    },
+    {
+      "heading": "Our Lord’s Preeminence 1:4"
+    },
+    {
+      "heading": "Our Lord’s Praise 1:5-14"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_1.doc",
+    "preservedFilename": "Heb_Ch_1.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_1.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/Hebrews_1.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

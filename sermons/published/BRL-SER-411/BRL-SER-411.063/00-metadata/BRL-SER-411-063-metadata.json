@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.063",
+  "slug": "the-christians-rest",
+  "title": "The Christians’ Rest",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 4
+  },
+  "mainText": [
+    "Hebrews 4"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "God’s promised rest, searching word, and sympathetic High Priest encourage perseverance.",
+  "proposition": "We must strive to enter God’s rest, heed His word, and approach Him through our great High Priest.",
+  "sermonQuestion": "What does Hebrews 4 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "The Prize v. 1-11"
+    },
+    {
+      "heading": "The Power v.12-13"
+    },
+    {
+      "heading": "The Priest v. 14-16"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_4.doc",
+    "preservedFilename": "Heb_Ch_4.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_4.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/Hebrews_4.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

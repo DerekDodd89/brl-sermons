@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.076",
+  "slug": "from-myth-to-message-trusting-gods-word-when-culture-gets-confused",
+  "title": "From Myth to Message: Trusting God’s Word When Culture Gets Confused",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 76
+  },
+  "mainText": [
+    "Isaiah 34:14-16"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Scriptural context protects believers from cultural speculation and calls them to trust God’s sure word.",
+  "proposition": "We must read Scripture in its context and trust God’s word above cultural speculation and human imagination.",
+  "sermonQuestion": "How can we remain faithful to God’s word when culture confuses its meaning?",
+  "outline": [
+    {
+      "heading": "Culture Can Confuse What God Has Made Clear"
+    },
+    {
+      "heading": "Context Protects Us from Careless Conclusions"
+    },
+    {
+      "heading": "God’s Word Stands Above Human Imagination"
+    },
+    {
+      "heading": "The Same Word That Warns Also Invites"
+    }
+  ],
+  "topics": [
+    "Scripture",
+    "Interpretation",
+    "Culture",
+    "Isaiah",
+    "Trust"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "From Myth to Message.docx",
+    "preservedFilename": "From Myth to Message.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/From Myth to Message.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/From Myth to Message.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

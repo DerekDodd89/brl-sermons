@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.081",
+  "slug": "understanding-revelation-babylon-jerusalem",
+  "title": "Understanding Revelation: Babylon = Jerusalem",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 81
+  },
+  "mainText": [
+    "Revelation 11",
+    "Revelation 16-18"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "A legacy essay argues that Revelation’s symbolic Babylon represents first-century Jerusalem and its judgment.",
+  "proposition": "In this paper I will show you that this “Babylon” is a symbolic reference to Jerusalem as it existed prior to AD 70.",
+  "sermonQuestion": "What evidence does the essay give for identifying Revelation’s Babylon with first-century Jerusalem?",
+  "outline": [
+    {
+      "heading": "Babylon the Great"
+    }
+  ],
+  "topics": [
+    "Revelation",
+    "Babylon",
+    "Jerusalem",
+    "AD 70",
+    "Prophetic interpretation"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Understanding Revelation.docx",
+    "preservedFilename": "Understanding Revelation.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Understanding Revelation.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

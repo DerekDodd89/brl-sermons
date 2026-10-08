@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.058",
+  "slug": "the-wilderness-of-kadesh-barnea-and-the-pool-of-bethesda",
+  "title": "THE WILDERNESS OF KADESH-BARNEA AND THE POOL OF BETHESDA",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 58
+  },
+  "mainText": [
+    "John 5:1-15",
+    "Numbers 14:29-35",
+    "Deuteronomy 2:14"
+  ],
+  "sermonType": {
+    "primary": "Topical"
+  },
+  "theme": "Legacy notes place the thirty-eight-year infirmity at Bethesda alongside Israel’s thirty-eight years at Kadesh-barnea.",
+  "proposition": "The surviving notes juxtapose the man’s thirty-eight-year infirmity with Israel’s prolonged stay at Kadesh-barnea.",
+  "sermonQuestion": "How do the surviving notes connect Bethesda’s thirty-eight years with Israel’s wilderness experience?",
+  "outline": [
+    {
+      "heading": "Bible events that occurred at Kadesh Barnea"
+    }
+  ],
+  "topics": [
+    "Bethesda",
+    "Kadesh-barnea",
+    "Wilderness",
+    "Unbelief",
+    "Healing"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "THE WILDERNESS OF KADESH-BARNEA AND THE POOL OF BETHESDA.docx",
+    "preservedFilename": "THE WILDERNESS OF KADESH-BARNEA AND THE POOL OF BETHESDA.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/THE WILDERNESS OF KADESH-BARNEA AND THE POOL OF BETHESDA.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

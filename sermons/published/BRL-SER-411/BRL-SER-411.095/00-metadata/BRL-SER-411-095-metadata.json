@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.095",
+  "slug": "blessed-are-the-peacemaker",
+  "title": "BLESSED ARE THE PEACEMAKER",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 95
+  },
+  "mainText": [
+    "Matthew 5:9"
+  ],
+  "sermonType": {
+    "primary": "Textual"
+  },
+  "theme": "Jesus makes peace between God and humanity and calls His followers to peacemaking as God’s children.",
+  "proposition": "As children of God, we should follow Jesus in bringing peace between people and God and between one another.",
+  "sermonQuestion": "Why are peacemakers called the children of God?",
+  "outline": [
+    {
+      "heading": "JESUS CAME TO BRING PEACE BETWEEN GOD AND MAN."
+    },
+    {
+      "heading": "JESUS CAME TO BRING PEACE BETWEEN MAN AND MAN"
+    },
+    {
+      "heading": "PEACEMAKERS ARE CALLED THE CHILDREN OF GOD"
+    }
+  ],
+  "topics": [
+    "Peacemaking",
+    "Reconciliation",
+    "Children of God",
+    "Jesus Christ",
+    "Beatitudes"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "BLESSED ARE THE PEACEMAKER.docx",
+    "preservedFilename": "BLESSED ARE THE PEACEMAKER.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/BLESSED ARE THE PEACEMAKER.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}

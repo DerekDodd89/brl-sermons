@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.064",
+  "slug": "the-priesthood-of-christ",
+  "title": "The Priesthood of Christ",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 5
+  },
+  "mainText": [
+    "Hebrews 5"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Christ’s perfect priesthood surpasses Aaron’s and calls believers beyond spiritual immaturity.",
+  "proposition": "Christ is the perfect High Priest and source of salvation to the obedient, so believers must grow in spiritual maturity.",
+  "sermonQuestion": "What does Hebrews 5 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "Imperfect Priesthood of Aaron (vs. 1-4)."
+    },
+    {
+      "heading": "Perfect Priesthood of Christ (vs. 5-10)."
+    },
+    {
+      "heading": "Perfecting of the Saints. (vs. 11-14)."
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_5.docx",
+    "preservedFilename": "Heb_Ch_5.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_5.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    },
+    {
+      "resourceKey": "presentation-2",
+      "path": "04-presentation/Hebrews_5.pptx",
+      "role": "presentation",
+      "format": "pptx"
+    }
+  ]
+}

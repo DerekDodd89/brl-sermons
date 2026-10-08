@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.068",
+  "slug": "the-superiority-of-christ-sanctuary",
+  "title": "The Superiority of Christ Sanctuary",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "The Book of Hebrews",
+    "sequence": 9
+  },
+  "mainText": [
+    "Hebrews 9"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "The earthly tabernacle is contrasted with Christ’s heavenly ministry and final sacrifice.",
+  "proposition": "Christ’s heavenly sanctuary and sacrifice accomplish what the old tabernacle and its ministry could not.",
+  "sermonQuestion": "What does Hebrews 9 teach us about faithful life in Christ?",
+  "outline": [
+    {
+      "heading": "The Old Testament Tabernacle (1-10)."
+    },
+    {
+      "heading": "The Heavenly Tabernacle (11-28)"
+    }
+  ],
+  "topics": [
+    "Hebrews",
+    "Jesus Christ",
+    "Faith",
+    "Perseverance"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "Heb_Ch_9.doc",
+    "preservedFilename": "Heb_Ch_9.doc",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/Heb_Ch_9.doc",
+      "role": "legacy-sermon",
+      "format": "doc"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "2.0",
+  "id": "BRL-SER-411.052",
+  "slug": "3-men-in-3rd-john",
+  "title": "3 MEN IN 3RD JOHN",
+  "status": "published",
+  "speaker": {
+    "name": "Josh Hetrick"
+  },
+  "series": {
+    "name": "Josh Hetrick Legacy Sermons",
+    "sequence": 52
+  },
+  "mainText": [
+    "3 John 1:1-14"
+  ],
+  "sermonType": {
+    "primary": "Expository"
+  },
+  "theme": "Gaius, Diotrephes, and Demetrius contrast faithful hospitality with pride and opposition to the truth.",
+  "proposition": "We must imitate faithful, hospitable servants of truth and reject the pride and evil example of Diotrephes.",
+  "sermonQuestion": "Which example will we follow among the three men in Third John?",
+  "outline": [
+    {
+      "heading": "A COMMENDATION OF GAIUS."
+    },
+    {
+      "heading": "AN INDICTMENT OF DIOTREPHES."
+    },
+    {
+      "heading": "A TESTIMONY OF DEMETRIUS."
+    }
+  ],
+  "topics": [
+    "Hospitality",
+    "Truth",
+    "Pride",
+    "Christian example",
+    "3 John"
+  ],
+  "legacyImport": {
+    "isLegacy": true,
+    "collection": "Josh Hetrick Legacy Sermons",
+    "originalFilename": "3 MEN IN 3RD JOHN.docx",
+    "preservedFilename": "3 MEN IN 3RD JOHN.docx",
+    "contentPreservation": "Original Josh Hetrick legacy sermon preserved unchanged.",
+    "importDate": "2026-10-07"
+  },
+  "identityReview": {
+    "required": false
+  },
+  "review": {
+    "doctrinalApproval": true,
+    "editorialApproval": true,
+    "publicationReady": true
+  },
+  "resources": [
+    {
+      "resourceKey": "legacy-sermon",
+      "path": "01-l3/3 MEN IN 3RD JOHN.docx",
+      "role": "legacy-sermon",
+      "format": "docx"
+    }
+  ]
+}
